@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<modelscript>
+    <object3d name="rp_root" mode="add">
+        <parent root="true" />
+    </object3d>
+	<object3d name="a_blocker_01" mode="add">
+		<parent name="rp_root" />
+		<position x="1600" y="0" z="0" />
+		<rotation w="1" x="0" y="0" z="0" />
+	</object3d>
+	<object3d name="a_blocker_02" mode="add">
+		<parent name="rp_root" />
+		<position x="-1600" y="0" z="0" />
+		<rotation w="1" x="0" y="0" z="0" />
+	</object3d>
+	<import file="nav_hex_splitter.obj" type="obj" create_objects="true">
+        <rootpoint name="rp_root">
+            <default/>
+        </rootpoint>
+		<rootpoint	name="a_blocker_01">
+            <object	name="g_blocker_01" />
+        </rootpoint>
+		<rootpoint	name="a_blocker_02">
+            <object	name="g_blocker_02" />
+        </rootpoint>
+    </import>
+</modelscript>

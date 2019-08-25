@@ -1,0 +1,7 @@
+<unit type="wz" slot="1">
+	<object file="units/pd2_mod_warzone/vegetation/wz_vegetation_bush_large/wz_vegetation_bush_large_b" />
+	<extensions>
+		<extension name="unit_data" class="ScriptUnitData" />
+		<extension name="damage" class="UnitDamage" />
+	</extensions>
+</unit>

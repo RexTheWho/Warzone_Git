@@ -1,0 +1,38 @@
+<table>
+	<unit>
+		<body name="'hinge_body_1'">
+			<endurance bullet="1" damage="10">
+				<run_sequence name="'bag_explode'"/>
+			</endurance>
+		</body>
+		<body name="'hinge_body_2'">
+			<endurance bullet="1" damage="10">
+				<run_sequence name="'bag_explode'"/>
+			</endurance>
+		</body>
+		<sequence name=" 'interact' ">
+			<interaction enabled="false"/>
+			<body enabled="false" name="'hinge_body_1'"/>
+			<body enabled="false" name="'hinge_body_2'"/>
+			<constraint enabled="false" name="'bag'"/>
+			<object enabled="false" name="'g_g'"/>
+		</sequence>
+		<sequence name=" 'secured' ">
+			<interaction enabled="false"/>
+			<function extension="'carry_data'" function="'sequence_clbk_secured'"/>
+		</sequence>
+		<sequence name=" 'non_usable' ">
+			<interaction enabled="false"/>
+		</sequence>
+		<sequence name=" 'freeze' ">
+			<body enabled="false" name="'hinge_body_1'"/>
+			<body enabled="false" name="'hinge_body_2'"/>
+			<constraint enabled="false" name="'bag'"/>
+		</sequence>
+		<sequence name=" 'bag_explode' ">
+			<function extension="'base'" function="'detonate'" param1="object_pos( 'a_hinge_body_2' )" param2="800" param3="250" param4="15"/>
+			<physic_effect name="'physic_effects/push_sphere'" param1="15" param2="2" target="dest_unit:get_object( Idstring('a_hinge_body_2') )"/>
+			<slot slot="0"/>
+		</sequence>
+	</unit>
+</table>

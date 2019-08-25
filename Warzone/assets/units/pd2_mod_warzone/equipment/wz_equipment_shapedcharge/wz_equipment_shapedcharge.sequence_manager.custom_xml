@@ -1,0 +1,14 @@
+<table>
+	<unit>
+		<body name="'body_main'">
+			<endurance bullet="1" damage="10">
+				<run_sequence name="'explode'"/>
+			</endurance>
+		</body>
+		<sequence name=" 'explode' ">
+			<function extension="'base'" function="'detonate'" param1="object_pos( 'rp_root' )" param2="600" param3="150" param4="5"/>
+			<physic_effect name="'physic_effects/push_sphere'" param1="10" param2="2" target="dest_unit:get_object( Idstring('rp_root') )"/>
+			<slot slot="0"/>
+		</sequence>
+	</unit>
+</table>

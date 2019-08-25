@@ -1,0 +1,61 @@
+<table>
+	<unit>
+		<variables>
+			<v_ammo	value="50"/>
+		</variables>
+		
+		<filter name="'filter_has_ammo'">
+			<check value="vars.v_ammo ~= 0"/>
+		</filter>
+		
+		<sequence editable_state="true" name="'hide'" triggable="true">
+			<graphic_group name="'grp_f35'" visibility="false"/>
+		</sequence>
+		<sequence editable_state="true" name="'show'" triggable="true">
+			<graphic_group name="'grp_f35'" visibility="true"/>
+		</sequence>
+		
+		<sequence editable_state="true" name="'reset_animation'" startup="true" triggable="true">
+			<animation_group enabled="true" from="0/30" name="'anim_fly'" to="0/30"/>
+		</sequence>
+		
+		<sequence editable_state="true" name="'flyover'" triggable="true">
+			<animation_group enabled="true" loop="false" name="'anim_fly'" speed="1" start_time="1/30"/>
+			<sound action="'play'" event="'vit_jet_plane_flyby'" source="'snd'"/>
+			<run_sequence name="'flyover_fire_a'" start_time="145/30"/>
+		</sequence>
+		
+		<!--Start Firing-->
+		<sequence editable_state="true" name="'flyover_fire_loop'" triggable="true">
+			<run_sequence name="'flyover_fire_a'"/>
+		</sequence>
+		
+		<!--Fire A-->
+		<sequence editable_state="true" name="'flyover_fire_a'" triggable="true">
+			<spawn_unit name="'units/pd2_dlc_overkill_pack/weapons/wpn_third_rpg7_fired_rocket/wpn_third_rpg7_fired_rocket'" position="object_pos('a_flight')" rotation="rot(0, 0, 90)"/>
+			<set_variables v_ammo="vars.v_ammo - 1"/>
+			<run_sequence filter="'filter_has_ammo'" name="'flyover_fire_b'" start_time="1/30"/>
+		</sequence>
+		
+		<!--Fire B-->
+		<sequence editable_state="true" name="'flyover_fire_b'" triggable="true">
+			<spawn_unit name="'units/pd2_dlc_overkill_pack/weapons/wpn_third_rpg7_fired_rocket/wpn_third_rpg7_fired_rocket'" position="object_pos('a_flight')" rotation="rot(0, 0, 0)"/>
+			<set_variables v_ammo="vars.v_ammo - 1"/>
+			<run_sequence filter="'filter_has_ammo'" name="'flyover_fire_a'" start_time="1/30"/>
+		</sequence>
+		
+		<!--Reloads-->
+		<sequence editable_state="true" name="'test_reload_0_rounds'" triggable="true">
+			<set_variables v_ammo="0"/>
+		</sequence>
+		<sequence editable_state="true" name="'test_reload_50_rounds'" triggable="true">
+			<set_variables v_ammo="50"/>
+		</sequence>
+		<sequence editable_state="true" name="'test_reload_100_rounds'" triggable="true">
+			<set_variables v_ammo="100"/>
+		</sequence>
+		<sequence editable_state="true" name="'test_reload_200_rounds'" triggable="true">
+			<set_variables v_ammo="200"/>
+		</sequence>
+	</unit>
+</table>

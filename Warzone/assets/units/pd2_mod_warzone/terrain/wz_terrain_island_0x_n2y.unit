@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<unit type="wz" slot="1">
+	<network sync="spawn" />
+	<object file="units/pd2_mod_warzone/terrain/wz_terrain_island_0x_n2y" />
+	<extensions>
+		<extension name="unit_data" class="ScriptUnitData" />
+		<extension name="damage" class="UnitDamage" />
+	</extensions>
+</unit>

@@ -1,0 +1,10 @@
+<materials version="3">
+	<material version="2" render_template="shadow_caster_only" name="shadow_caster"/>
+	
+    <material name="mtl_concrete" render_template="generic:CUBE_ENVIRONMENT_MAPPING:DIFFUSE_TEXTURE:GSMA_TEXTURE:NORMALMAP" version="2">
+        <diffuse_texture		file="units/pd2_dlc_des/tiling_textures/concrete_floor_rough/des_concrete_floor_rough _df"/>
+        <bump_normal_texture	file="units/pd2_dlc_des/tiling_textures/concrete_floor_rough/des_concrete_floor_rough _nm"/>
+        <material_texture		file="units/pd2_dlc_des/tiling_textures/concrete_floor_rough/des_concrete_floor_rough _gsma"/>
+        <reflection_texture		file="units/pd2_dlc_dah/environments/cubemaps/cubemap_white_highlight" type="cubemap"/>
+    </material>
+</materials>

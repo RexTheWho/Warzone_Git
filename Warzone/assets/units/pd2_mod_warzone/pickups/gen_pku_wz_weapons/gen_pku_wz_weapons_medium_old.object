@@ -1,0 +1,17 @@
+<dynamic_object>
+    <diesel materials="units/pd2_mod_warzone/pickups/gen_pku_wz_weapons/gen_pku_wz_weapons_old" orientation_object="rp_jfr_prop_crate_a" />
+	<sequence_manager file="units/pd2_mod_warzone/pickups/gen_pku_wz_weapons/gen_pku_wz_weapons" />
+	<bodies>
+		<body name="hinge_body_1" enabled="true" template="dynamic" collides_with_mover="false">
+			<object name="rp_jfr_prop_crate_a" />
+			<object collision_type="box" name="c_box_01" mass="25" padding="-2.5" />
+		</body>
+	</bodies>
+	<decal_surfaces default_material="wood">
+		<decal_mesh name="dm_metal" enabled="true" material="metal" />
+		<decal_mesh name="dm_wood" enabled="true" material="wood" />
+	</decal_surfaces>
+	<graphics>
+		<object enabled="true" name="g_lod0" />
+	</graphics>
+</dynamic_object>

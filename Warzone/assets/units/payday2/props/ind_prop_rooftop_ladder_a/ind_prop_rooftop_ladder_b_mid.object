@@ -1,0 +1,11 @@
+<dynamic_object>
+    <diesel orientation_object="rp_ind_prop_rooftop_ladder_b_mid" materials="units/payday2/props/ind_prop_rooftop_ladder_a/ind_prop_rooftop_ladder_a" />
+    <bodies>
+        <body enabled="true" template="static" name="static_body" >
+            <object collision_type="box" name="c_box_01" padding="-2.5"/>
+        </body>
+    </bodies>
+    <graphics>
+        <object enabled="true" name="g_g" shadow_caster="true"/>
+    </graphics>
+</dynamic_object>

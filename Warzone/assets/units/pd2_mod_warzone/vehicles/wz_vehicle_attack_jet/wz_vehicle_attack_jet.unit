@@ -1,0 +1,15 @@
+<unit type="wz" slot="1">
+	<object file="units/pd2_mod_warzone/vehicles/wz_vehicle_attack_jet/wz_vehicle_attack_jet" />
+	<network sync="spawn"/>
+	<dependencies>
+		<depends_on bnk="soundbanks/regular_sfx" />
+	</dependencies>
+	<extensions>
+		<extension name="unit_data" class="ScriptUnitData" />
+		<extension name="damage" class="UnitDamage" />
+	</extensions>
+	<sounds>
+		<default_soundsource source="rp_vit_prop_f35"/>
+		<soundsource name="snd" source="a_flight" />
+	</sounds>
+</unit>

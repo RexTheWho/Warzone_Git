@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<modelscript>
+    <object3d name="rp_root" mode="add">
+        <parent root="true" />
+    </object3d>
+	<object3d name="a_box_001" mode="add">
+		<parent name="rp_root" />
+		<position x="0" y="0" z="0" />
+		<rotation w="1" x="0" y="0" z="0" />
+	</object3d>
+	<import file="wz_terrain_test_cave.obj" type="obj" create_objects="true">
+        <rootpoint name="rp_root">
+            <default/>
+        </rootpoint>
+        <rootpoint	name="a_box_001">
+            <object	name="c_box_001" />
+        </rootpoint>
+    </import>
+</modelscript>

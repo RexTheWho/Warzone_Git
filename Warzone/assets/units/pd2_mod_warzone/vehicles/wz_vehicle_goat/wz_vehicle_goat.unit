@@ -1,0 +1,37 @@
+<unit type="wz" slot="1">
+	<object file="units/pd2_mod_warzone/vehicles/wz_vehicle_goat/wz_vehicle_goat" />
+	<network sync="spawn"/>
+	<anim_state_machine name="anims/pd2_dlc_peta/goat_state_machine/goat" />
+
+	<extensions>
+		<extension class="ScriptUnitData" name="unit_data" />
+		<extension name="sync_unit_data" class="SyncUnitData" />
+		<extension name="network" class="NetworkBaseExtension" />
+		<extension class="UnitDamage" name="damage" />
+		<extension name="interaction" class="DrivingInteractionExt">
+			<var name="tweak_data" value="driving_drive" />
+			<var name="_interact_object" value="anim_body"/>
+			<var name="_ray_object_names" type="table" >
+				<var value="Spine_1"/>
+			</var>
+		</extension>
+        <extension name="character_damage" class="VehicleDamage" />
+		<extension class="VehicleDrivingExt" name="vehicle_driving" >
+			<!--
+				Dino: Not used for now, this parameter has no effect - for future use
+				Inertia modifier determines feel of drive on bumps and curves
+				Reasonable vaules are from 0.5 - 20
+				0.5 - Tractor with really bad seating
+				20  - Ferrari
+			-->
+			<var name="inertia_modifier" value="1"/>
+			<var name="tweak_data" value="wz_goat"/>
+		</extension>
+	</extensions>
+
+	<sounds>
+		<default_soundsource source="Jaw_01"/>
+		<soundsource name="snd" source="Jaw_01" />
+		<soundsource name="snd_01" source="snd_source" />
+	</sounds>
+</unit>

@@ -1,0 +1,14 @@
+<materials version="3">
+    <material name="mat_largebush" render_template="generic:ALPHA_MASKED:DIFFUSE_TEXTURE:EXTERNAL_ALPHA_REF:INSTANCED:NORMALMAP:VEGETATION_BENDING" version="2">
+        <diffuse_texture file="units/pd2_dlc_berry/vegetation/bry_vegetation_bush_large/bry_vegetation_bush_large_df"/>
+        <bump_normal_texture file="units/pd2_dlc_berry/vegetation/bry_vegetation_bush_large/bry_vegetation_bush_large_nm"/>
+        <variable value="0.30000001192093" type="scalar" name="speed"/>
+        <variable value="2.326000213623 0.17400000989437 0" type="vector3" name="detail_settings"/>
+        <variable value="1.5 1.4329999685287 0" type="vector3" name="branch_settings"/>
+        <variable value="0.1" type="scalar" name="alpha_ref"/>
+    </material>
+    <material name="mat_bilboard" render_template="generic:ALPHA_MASKED:DIFFUSE_TEXTURE:EXTERNAL_ALPHA_REF:INSTANCED" version="2">
+        <diffuse_texture file="units/pd2_dlc_berry/vegetation/bry_vegetation_bush_large/bry_vegetation_bush_large_bilboard_df"/>
+        <variable value="0.01" type="scalar" name="alpha_ref"/>
+    </material>
+</materials>

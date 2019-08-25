@@ -1,0 +1,19 @@
+<dynamic_object>
+	<diesel materials="units/pd2_mod_warzone/equipment/gen_equipment_landmine/gen_equipment_landmine" orientation_object="rp_root" />
+	<sequence_manager file="units/pd2_mod_warzone/equipment/gen_equipment_landmine/gen_equipment_landmine" />
+	<bodies>
+		<body name="dynamic" enabled="true" template="static" collides_with_mover="false" >
+			<object name="rp_root" />
+			<object name="c_c" collision_type="convex" padding="2.5" />
+		</body>
+	</bodies>
+	<decal_surfaces default_material="metal" static="true">
+	</decal_surfaces>
+	
+	<graphics>
+		<graphic_group name="g_group" enabled="true" culling_object="co_culling">
+			<object name="g_g" enabled="true" />
+			<object name="s_s" enabled="true" shadow_caster="true" />
+		</graphic_group>
+	</graphics>
+</dynamic_object>

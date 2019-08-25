@@ -1,0 +1,8 @@
+<unit type="item" slot="14" >
+	<object file="units/pd2_mod_warzone/equipment/wz_equipment_shapedcharge/wz_equipment_shapedcharge" />
+	<extensions>
+	</extensions>
+	<sounds>
+		<default_soundsource source="rp_root"/>
+	</sounds>
+</unit>

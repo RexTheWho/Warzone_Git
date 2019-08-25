@@ -1,0 +1,8 @@
+<unit type="item" slot="14" >
+	<object file="units/pd2_mod_warzone/equipment/gen_equipment_landmine/gen_equipment_landmine" />
+	<extensions>
+	</extensions>
+	<sounds>
+		<default_soundsource source="rp_cvy_prop_plantable_mine"/>
+	</sounds>
+</unit>

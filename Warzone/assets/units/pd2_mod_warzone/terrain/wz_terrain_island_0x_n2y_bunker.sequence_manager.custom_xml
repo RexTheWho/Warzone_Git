@@ -1,0 +1,8 @@
+<table>
+	<unit>
+		<sequence editable_state="true" name="'show_bunker'" triggable="true">
+			<body	enabled="false"	name="'b_terrain_bunkercover'"/>
+			<object	enabled="false"	name="'g_terrain_bunkercover'"/>
+		</sequence>
+	</unit>
+</table>

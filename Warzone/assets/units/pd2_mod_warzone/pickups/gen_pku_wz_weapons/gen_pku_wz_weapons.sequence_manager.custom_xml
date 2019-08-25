@@ -1,0 +1,20 @@
+<table>
+	<unit>
+		<sequence name=" 'interact' ">
+			<interaction enabled="false"/>
+			<body enabled="false" name="'hinge_body_1'"/>
+			<object enabled="false" name="'g_g'"/>
+			<object enabled="false" name="'s_s'"/>
+		</sequence>
+		<sequence name=" 'secured' ">
+			<interaction enabled="false"/>
+			<function extension="'carry_data'" function="'sequence_clbk_secured'"/>
+		</sequence>
+		<sequence name=" 'non_usable' ">
+			<interaction enabled="false"/>
+		</sequence>
+		<sequence name=" 'freeze' ">
+			<body enabled="false" name="'hinge_body_1'"/>
+		</sequence>
+	</unit>
+</table>

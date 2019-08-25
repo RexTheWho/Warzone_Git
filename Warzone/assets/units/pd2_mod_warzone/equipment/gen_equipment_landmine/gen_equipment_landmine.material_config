@@ -1,0 +1,7 @@
+<materials version="3">
+	<material name="mtl_mine" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP" version="2">
+		<diffuse_texture		file="units/pd2_mod_warzone/equipment/gen_equipment_landmine/gen_equipment_landmine_df" />
+		<bump_normal_texture	file="units/pd2_mod_warzone/equipment/gen_equipment_landmine/gen_equipment_landmine_nm" />
+	</material>
+    <material name="shadow_caster" render_template="shadow_caster_only" version="2"/>
+</materials>

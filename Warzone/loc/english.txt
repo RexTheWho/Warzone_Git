@@ -1,0 +1,20 @@
+{
+	"hud_carry_wz_resource_rations":			"Rations",
+	"hud_carry_wz_resource_munitions":			"Munitions",
+	"hud_carry_wz_resource_scrap":				"Scrap",
+	"hud_carry_wz_weapons_modern_large":		"Large W.Case",
+	"hud_carry_wz_weapons_modern_medium":		"Medium W.Case",
+	"hud_carry_wz_weapons_modern_small":		"Small W.Case",
+	"hud_carry_wz_satchelbomb":					"Satchel Bomb",
+	"name_land_mine":							"Land Mine",
+	
+	
+	"hud_int_hold_carry_weapons":		"Hold $BTN_INTERACT to carry Weapon Case",
+	"hud_int_hold_carry_rations":		"Hold $BTN_INTERACT to carry Ration Case",
+	"hud_int_hold_carry_munitions":		"Hold $BTN_INTERACT to carry Munition Case",
+	"hud_int_hold_carry_scrap":			"Hold $BTN_INTERACT to carry Scrap Material",
+	"hud_int_hold_carry_satchelbomb":	"Hold $BTN_INTERACT to carry Satchel Bomb",
+	
+	
+	"t":"t"
+}

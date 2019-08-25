@@ -1,0 +1,12 @@
+<unit type="item" slot="14" >
+	<object file="units/pd2_mod_warzone/equipment/gen_equipment_landmine/gen_equipment_landmine" />
+	<network sync="spawn"/>
+	<extensions>
+		<extension name="unit_data" class="ScriptUnitData" />
+  		<extension name="base" class="ExplodingProp" />
+		<extension name="damage" class="UnitDamage" />
+	</extensions>
+	<sounds>
+		<default_soundsource source="rp_root"/>
+	</sounds>
+</unit>
