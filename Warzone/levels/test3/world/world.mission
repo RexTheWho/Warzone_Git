@@ -695,6 +695,19 @@
 			</entry>
 		</entry>
 		<entry key="instances" type="table">
+			<entry index="1" type="string" value="wz_hex_enemycamp_test_001"/>
+			<entry index="2" type="string" value="wz_hex_enemycamp_test_002"/>
+			<entry index="3" type="string" value="wz_hex_enemycamp_test_003"/>
+			<entry index="4" type="string" value="wz_hex_enemycamp_test_004"/>
+			<entry index="5" type="string" value="wz_hex_enemycamp_test_005"/>
+			<entry index="6" type="string" value="wz_hex_enemycamp_test_006"/>
+			<entry index="7" type="string" value="wz_hex_enemycamp_test_007"/>
+			<entry index="8" type="string" value="wz_hex_enemycamp_test_008"/>
+			<entry index="9" type="string" value="wz_hex_enemycamp_test_009"/>
+			<entry index="10" type="string" value="wz_hex_enemycamp_test_010"/>
+			<entry index="11" type="string" value="wz_hex_enemycamp_test_011"/>
+			<entry index="12" type="string" value="wz_hex_enemycamp_test_012"/>
+			<entry index="13" type="string" value="wz_hex_enemycamp_test_013"/>
 		</entry>
 		<entry key="name" type="string" value="default"/>
 	</entry>

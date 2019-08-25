@@ -1,0 +1,14 @@
+<materials version="3">
+    <material name="shadow_caster" render_template="shadow_caster_only" version="2"/>
+	
+    <material name="mtl_tower" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP" version="2">
+        <diffuse_texture		file="units/pd2_mod_warzone/architecture/radio_towers/wz_radio_tower_df"/>
+        <bump_normal_texture	file="units/pd2_mod_warzone/architecture/radio_towers/wz_radio_tower_nm"/>
+    </material>
+	
+	<material name="mtl_rock" render_template="generic:DIFFUSE_TEXTURE:GSMA_TEXTURE:NORMALMAP" version="2">
+		<diffuse_texture		file="units/pd2_dlc_des/tiling_textures/des_int_covered_rock/des_int_covered_rock_df"/>
+		<bump_normal_texture	file="units/pd2_dlc_des/tiling_textures/des_int_covered_rock/des_int_covered_rock_nm"/>
+        <material_texture		file="units/pd2_dlc_des/tiling_textures/des_int_covered_rock/des_int_covered_rock_gsma"/>
+	</material>
+</materials>

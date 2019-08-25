@@ -1,6 +1,4 @@
 <table name="Warzone">
-	<AssetUpdates id="-1" provider="modworkshop" use_local_dir="true" version="1"/>
-	<Localization default="english.txt" directory="loc"/>
 	<level ai_group_type="America" briefing_dialog="" id="test3" intro_event="" max_bags="54" team_ai_off="true">
 		<add file="levels/test3/add.xml"/>
 		<assets>
@@ -62,9 +60,56 @@
 			</mod>
 		</script_data_mods>
 	</level>
+	<level ai_group_type="america" id="wz_hex_enemycamp_test" max_bags="54">
+		<add file="levels/wz_hex_enemycamp_test/add.xml"/>
+		<assets>
+			<asset name="ammo_bag"/>
+			<asset name="health_bag"/>
+			<asset name="grenade_crate"/>
+			<asset name="bodybags_bag"/>
+		</assets>
+		<include directory="levels/wz_hex_enemycamp_test">
+			<file file="world.world" type="generic_xml"/>
+			<file file="continents.continents" type="custom_xml"/>
+			<file file="mission.mission" type="custom_xml"/>
+			<file file="nav_manager_data.nav_data" type="generic_xml"/>
+			<file file="world_sounds.world_sounds" type="generic_xml"/>
+			<file file="world_cameras.world_cameras" type="custom_xml"/>
+			<file file="editor_only/editor_only.continent" type="custom_xml"/>
+			<file file="editor_only/editor_only.mission" type="generic_xml"/>
+			<file file="world/world.continent" type="custom_xml"/>
+			<file file="world/world.mission" type="generic_xml"/>
+			<file file="cover_data.cover_data" type="custom_xml"/>
+			<file file="environments/default.environment" type="custom_xml"/>
+		</include>
+		<packages>
+			<value_node value="levels/narratives/elephant/chew/collision/collision"/>
+			<value_node value="levels/narratives/short1/stage1/editor_only/editor_only"/>
+			<value_node value="levels/narratives/dentist/mia/stage1/editor_only/editor_only"/>
+		</packages>
+		<script_data_mods directory="scriptdata">
+			<mod replacement="objectives.objective" replacement_type="custom_xml" target_ext="objective" target_path="gamedata/objectives">
+				<options merge_mode="add" mode="add"/>
+			</mod>
+		</script_data_mods>
+	</level>
+	<AssetUpdates id="-1" provider="modworkshop" use_local_dir="true" version="1"/>
+	<Localization default="english.txt" directory="loc"/>
+	<instance id="wz_hex_enemycamp_test">
+		<add file="levels/wz_hex_enemycamp_test/add.xml"/>
+		<include directory="levels/wz_hex_enemycamp_test">
+			<file file="world.world" type="generic_xml"/>
+			<file file="world/world.continent" type="custom_xml"/>
+			<file file="world/world.mission" type="generic_xml"/>
+			<file file="editor_only/editor_only.continent" type="custom_xml"/>
+			<file file="editor_only/editor_only.mission" type="generic_xml"/>
+		</include>
+		<packages/>
+	</instance>
 	<narrative contact="custom" id="test3">
 		<chain>
 			<table level_id="test3" type="d" type_id="heist_type_assault"/>
+			<table level_id="wz_hex_enemycamp_test" type="d" type_id="heist_type_assault"/>
 		</chain>
 		<contract_cost>
 			<value_node value="4000"/>

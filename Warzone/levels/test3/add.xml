@@ -148,6 +148,13 @@
 		<object				path="units/pd2_mod_warzone/architecture/buildings/tents/props_field_tent/props_field_tent_02"/>
 		<model				path="units/pd2_mod_warzone/architecture/buildings/tents/props_field_tent/props_field_tent_02"/>
 		
+		<unit				path="units/pd2_mod_warzone/architecture/radio_towers/wz_radio_tower"/>
+		<object				path="units/pd2_mod_warzone/architecture/radio_towers/wz_radio_tower"/>
+		<model				path="units/pd2_mod_warzone/architecture/radio_towers/wz_radio_tower"/>
+		<material_config	path="units/pd2_mod_warzone/architecture/radio_towers/wz_radio_tower"/>
+		<texture			path="units/pd2_mod_warzone/architecture/radio_towers/wz_radio_tower_df"/>
+		<texture			path="units/pd2_mod_warzone/architecture/radio_towers/wz_radio_tower_nm"/>
+		
 		<material_config	path="units/pd2_mod_warzone/props/telegraph_poles/wz_prop_telegraph_pole"/>
 		<texture			path="units/pd2_mod_warzone/props/telegraph_poles/wz_prop_telegraph_pole_df"/>
 		<texture			path="units/pd2_mod_warzone/props/telegraph_poles/wz_prop_telegraph_pole_gsma"/>
@@ -159,6 +166,12 @@
 		<object				path="units/pd2_mod_warzone/props/telegraph_poles/wz_prop_telegraph_pole_02"/>
 		<model				path="units/pd2_mod_warzone/props/telegraph_poles/wz_prop_telegraph_pole_02"/>
 		
+		<unit				path="units/pd2_mod_warzone/vehicles/wz_vehicle_m35_truck/wz_vehicle_m35_truck"/>
+		<object				path="units/pd2_mod_warzone/vehicles/wz_vehicle_m35_truck/wz_vehicle_m35_truck"/>
+		<model				path="units/pd2_mod_warzone/vehicles/wz_vehicle_m35_truck/wz_vehicle_m35_truck"/>
+		<sequence_manager	path="units/pd2_mod_warzone/vehicles/wz_vehicle_m35_truck/wz_vehicle_m35_truck"/>
+		<material_config	path="units/pd2_mod_warzone/vehicles/wz_vehicle_m35_truck/wz_vehicle_m35_truck"/>
+		
 		
 		<unit				path="units/pd2_mod_warzone/characters/team_zeal_tazer/team_zeal_tazer"/>
 		<unit				path="units/pd2_mod_warzone/characters/team_zeal_tazer/team_zeal_tazer_husk"/>
@@ -166,6 +179,13 @@
 		<model				path="units/pd2_mod_warzone/characters/team_zeal_tazer/team_zeal_tazer"/>
 		<material_config	path="units/pd2_mod_warzone/characters/team_zeal_tazer/team_zeal_tazer"/>
 		<material_config	path="units/pd2_mod_warzone/characters/team_zeal_tazer/team_zeal_tazer_contour"/>
+		<unit				path="units/pd2_mod_warzone/characters/ene_terror_light_ak47/ene_terror_light_ak47"/>
+		<unit				path="units/pd2_mod_warzone/characters/ene_terror_light_ak47/ene_terror_light_ak47_husk"/>
+		<object				path="units/pd2_mod_warzone/characters/ene_terror_light_ak47/ene_terror_light_ak47"/>
+		<model				path="units/pd2_mod_warzone/characters/ene_terror_light_ak47/ene_terror_light_ak47"/>
+		<material_config	path="units/pd2_mod_warzone/characters/ene_terror_light_ak47/ene_terror_light_ak47"/>
+		<material_config	path="units/pd2_mod_warzone/characters/ene_terror_light_ak47/ene_terror_light_ak47_contour"/>
+		<texture			path="units/pd2_mod_warzone/characters/shared_textures/ene_terror_light_df"/>
 		
 		
 		<unit				path="units/pd2_mod_warzone/equipment/gen_equipment_landmine/gen_equipment_landmine"/>

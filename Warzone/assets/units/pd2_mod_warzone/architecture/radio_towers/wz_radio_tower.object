@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<dynamic_object>
+	<diesel materials="units/pd2_mod_warzone/architecture/radio_towers/wz_radio_tower" orientation_object="rp_root" />
+	
+	<bodies>
+		<body name="body_main" enabled="true" template="static">
+			<object name="rp_root"/>
+			<object name="g_terrain"	collision_type="mesh_mopp"/>
+			<object name="g_tower"		collision_type="mesh_mopp"/>
+		</body>	
+	</bodies>
+	
+	<decal_surfaces default_material="metal" static="true">
+        <decal_mesh enabled="true" name="g_terrain"			material="stone" />
+        <decal_mesh enabled="true" name="g_terrain_lod1"	material="stone" />
+        <decal_mesh enabled="true" name="g_terrain_lod2"	material="stone" />
+	</decal_surfaces>
+	
+	<graphics>
+		<graphic_group name="g_group" enabled="true" culling_object="co_culling">
+			<lod_object name="lod_terrain">
+				<object name="g_terrain"		lod="0" enabled="true" shadow_caster="true" max_distance="9600" />
+				<object name="g_terrain_lod1"	lod="1" enabled="true" shadow_caster="true" max_distance="12800" />
+				<object name="g_terrain_lod2"	lod="2" enabled="true" shadow_caster="false" max_distance="25600" />
+			</lod_object>
+			<lod_object name="lod_tower">
+				<object name="g_tower"		lod="0" enabled="true" shadow_caster="true" max_distance="9600" />
+				<object name="g_tower_lod1"	lod="1" enabled="true" shadow_caster="true" max_distance="25600" />
+				<object name="g_tower_lod2"	lod="2" enabled="true" shadow_caster="false" max_distance="51200" />
+			</lod_object>
+		</graphic_group>
+	</graphics>
+</dynamic_object>
