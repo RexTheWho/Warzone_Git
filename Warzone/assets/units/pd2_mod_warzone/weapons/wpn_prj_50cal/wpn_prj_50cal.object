@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<dynamic_object>
+	<diesel materials="units/pd2_dlc_turtles/weapons/wpn_prj_crossbow_arrow/wpn_prj_crossbow_arrow" orientation_object="rp_arrow" />
+	<bodies>
+		<body name="dynamic_body" collision_class="projectile" collision_script_filter="0" collision_script_quiet_time="0.0" collision_script_tag="impact" enabled="true" template="small_prop" friction="0.5" sweep="true" restitution="0.4" lin_damping="0" ang_damping="0" pushed_by_mover="false"> <!--error in havok forces pushed_by_mover="false" to be used to not collide with mover-->
+			<object name="rp_arrow" />
+			
+			<object name="c_sphere" enabled="true" collision_type="sphere" mass="0.39" padding="-2.5" />
+			<object name="c_box_1" enabled="true" collision_type="convex" mass="0.01"  padding="-0.5" />
+		</body>
+	</bodies>
+	<graphics>
+		<object name="g_arrow" enabled="true" shadow_caster="true" />
+	</graphics>
+</dynamic_object>
