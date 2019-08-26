@@ -13,11 +13,9 @@
 		<extension name="damage" class="UnitDamage" >
 			<var name="_skip_give_body_collision_damage" value="true" />
 		</extension>
-		<extension name="contour" class="ContourExt" />
 	</extensions>
 	<sounds>
 		<default_soundsource source="rp_arrow" />
 		<soundsource name="snd" source="rp_arrow" />
-		<!-- <spawn_event source="snd" name="arrow_flyby" stop_when_killed="true"/> -->
 	</sounds>
 </unit>

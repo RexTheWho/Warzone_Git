@@ -137,6 +137,7 @@
 		<model				path="units/pd2_mod_warzone/pickups/gen_pku_wz_satchelbomb/gen_pku_wz_satchelbomb"/>
 		<texture			path="units/pd2_mod_warzone/pickups/gen_pku_wz_satchelbomb/gen_pku_wz_satchelbomb_df"/>
 		
+		<!--Props-->
 		<material_config	path="units/pd2_mod_warzone/architecture/buildings/tents/props_field_tent/props_field_tent_01"/>
 		<texture			path="units/pd2_mod_warzone/architecture/buildings/tents/props_field_tent/props_field_tent_01_df"/>
 		<texture			path="units/pd2_mod_warzone/architecture/buildings/tents/props_field_tent/props_field_tent_01_gsma"/>
@@ -172,7 +173,7 @@
 		<sequence_manager	path="units/pd2_mod_warzone/vehicles/wz_vehicle_m35_truck/wz_vehicle_m35_truck"/>
 		<material_config	path="units/pd2_mod_warzone/vehicles/wz_vehicle_m35_truck/wz_vehicle_m35_truck"/>
 		
-		
+		<!--Characters-->
 		<unit				path="units/pd2_mod_warzone/characters/team_zeal_tazer/team_zeal_tazer"/>
 		<unit				path="units/pd2_mod_warzone/characters/team_zeal_tazer/team_zeal_tazer_husk"/>
 		<object				path="units/pd2_mod_warzone/characters/team_zeal_tazer/team_zeal_tazer"/>
@@ -187,7 +188,7 @@
 		<material_config	path="units/pd2_mod_warzone/characters/ene_terror_light_ak47/ene_terror_light_ak47_contour"/>
 		<texture			path="units/pd2_mod_warzone/characters/shared_textures/ene_terror_light_df"/>
 		
-		
+		<!--Equipments-->
 		<unit				path="units/pd2_mod_warzone/equipment/gen_equipment_landmine/gen_equipment_landmine"/>
 		<unit				path="units/pd2_mod_warzone/equipment/gen_equipment_landmine/gen_equipment_landmine_dummy"/>
 		<object				path="units/pd2_mod_warzone/equipment/gen_equipment_landmine/gen_equipment_landmine"/>
@@ -202,6 +203,19 @@
 		<model				path="units/pd2_mod_warzone/equipment/wz_equipment_shapedcharge/wz_equipment_shapedcharge"/>
 		<material_config	path="units/pd2_mod_warzone/equipment/wz_equipment_shapedcharge/wz_equipment_shapedcharge"/>
 		<sequence_manager	path="units/pd2_mod_warzone/equipment/wz_equipment_shapedcharge/wz_equipment_shapedcharge"/>
+		
+		<!--Weapon Thanatos-->
+		<unit				path="units/pd2_mod_warzone/weapons/wpn_fps_snp_m95/wpn_fps_snp_m95"/>
+		<unit				path="units/pd2_mod_warzone/weapons/wpn_fps_snp_m95/wpn_fps_snp_m95_npc"/>
+		<object				path="units/pd2_mod_warzone/weapons/wpn_fps_snp_m95/wpn_fps_snp_m95"/>
+		<model				path="units/pd2_mod_warzone/weapons/wpn_fps_snp_m95/wpn_fps_snp_m95"/>
+		
+		<!--Ammo Bulletdrop 50cal-->
+		<unit				path="units/pd2_mod_warzone/weapons/wpn_prj_50cal/wpn_prj_50cal"/>
+		<unit				path="units/pd2_mod_warzone/weapons/wpn_prj_50cal/wpn_prj_50cal_local"/>
+		<object				path="units/pd2_mod_warzone/weapons/wpn_prj_50cal/wpn_prj_50cal"/>
+		<model				path="units/pd2_mod_warzone/weapons/wpn_prj_50cal/wpn_prj_50cal"/>
+		<material_config	path="units/pd2_mod_warzone/weapons/wpn_prj_50cal/wpn_prj_50cal"/>
 		
 		
 		<unit				path="units/pd2_mod_warzone/dev_units/level_tools/nav_hex_splitter/nav_hex_splitter"/>

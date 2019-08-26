@@ -98,22 +98,6 @@
 		</script_data_mods>
 	</level>
 	<AssetUpdates id="-1" provider="modworkshop" use_local_dir="true" version="1"/>
-	<Hooks directory="hooks">
-		<hook file="UnitNetworkHandler.lua" source_file="lib/network/handlers/unitnetworkhandler"/>
-		<hook file="playerequipment.lua" source_file="lib/units/beings/player/playerequipment"/>
-		<hook file="charactertweakdata.lua" source_file="lib/tweak_data/charactertweakdata"/>
-		<hook file="carrytweakdata.lua" source_file="lib/tweak_data/carrytweakdata"/>
-		<hook file="interactiontweakdata.lua" source_file="lib/tweak_data/interactiontweakdata"/>
-		<hook file="moneytweakdata.lua" source_file="lib/tweak_data/moneytweakdata"/>
-		<hook file="equipmentstweakdata.lua" source_file="lib/tweak_data/equipmentstweakdata"/>
-		<hook file="hudiconstweakdata.lua" source_file="lib/tweak_data/hudiconstweakdata"/>
-		<hook file="vehicletweakdata.lua" source_file="lib/tweak_data/vehicletweakdata"/>
-		<hook file="elementareatrigger.lua" source_file="lib/managers/mission/elementareatrigger"/>
-		<hook file="WeaponTweakData.lua" source_file="lib/tweak_data/weapontweakdata"/>
-		<hook file="WeaponFactoryTweakData.lua" source_file="lib/tweak_data/weaponfactorytweakdata"/>
-		<hook file="ProjectilesTweakData.lua" source_file="lib/tweak_data/blackmarket/projectilestweakdata"/>
-		<hook file="TweakData.lua" source_file="lib/tweak_data/tweakdata"/>
-	</Hooks>
 	<Localization default="english.txt" directory="loc"/>
 	<instance id="wz_hex_enemycamp_test">
 		<add file="levels/wz_hex_enemycamp_test/add.xml"/>
