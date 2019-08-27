@@ -18,6 +18,9 @@
 		<unit				path="units/pd2_mod_warzone/terrain/wz_terrain_flat_128m_hole"/>
 		<object				path="units/pd2_mod_warzone/terrain/wz_terrain_flat_128m_hole"/>
 		<model				path="units/pd2_mod_warzone/terrain/wz_terrain_flat_128m_hole"/>
+		<unit				path="units/pd2_mod_warzone/terrain/wz_terrain_flat_256m"/>
+		<object				path="units/pd2_mod_warzone/terrain/wz_terrain_flat_256m"/>
+		<model				path="units/pd2_mod_warzone/terrain/wz_terrain_flat_256m"/>
 		
 		<!--PROPS-->
 		<material_config	path="units/pd2_mod_warzone/props/wz_prop_compound_wall"/>
@@ -42,6 +45,21 @@
 		<unit				path="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_c"/>
 		<object				path="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_c"/>
 		<model				path="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_c"/>
+		
+		<material_config	path="units/pd2_mod_warzone/props/fences/wz_prop_heavy_wall"/>
+		<unit				path="units/pd2_mod_warzone/props/fences/wz_prop_heavy_wall_4m_a"/>
+		<object				path="units/pd2_mod_warzone/props/fences/wz_prop_heavy_wall_4m_a"/>
+		<model				path="units/pd2_mod_warzone/props/fences/wz_prop_heavy_wall_4m_a"/>
+		<unit				path="units/pd2_mod_warzone/props/fences/wz_prop_heavy_wall_4m_a_platform"/>
+		<object				path="units/pd2_mod_warzone/props/fences/wz_prop_heavy_wall_4m_a_platform"/>
+		<model				path="units/pd2_mod_warzone/props/fences/wz_prop_heavy_wall_4m_a_platform"/>
+		<unit				path="units/pd2_mod_warzone/props/fences/wz_prop_heavy_wall_4m_b"/>
+		<object				path="units/pd2_mod_warzone/props/fences/wz_prop_heavy_wall_4m_b"/>
+		<model				path="units/pd2_mod_warzone/props/fences/wz_prop_heavy_wall_4m_b"/>
+		<unit				path="units/pd2_mod_warzone/props/fences/wz_prop_heavy_wall_corner_a"/>
+		<object				path="units/pd2_mod_warzone/props/fences/wz_prop_heavy_wall_corner_a"/>
+		<model				path="units/pd2_mod_warzone/props/fences/wz_prop_heavy_wall_corner_a"/>
+		
 		<material_config	path="units/pd2_mod_warzone/props/rocks/wz_terrain"/>
 		<unit				path="units/pd2_mod_warzone/props/rocks/wz_terrain_rock_flat"/>
 		<object				path="units/pd2_mod_warzone/props/rocks/wz_terrain_rock_flat"/>
@@ -137,10 +155,16 @@
 		<model				path="units/pd2_mod_warzone/pickups/gen_pku_wz_satchelbomb/gen_pku_wz_satchelbomb"/>
 		<texture			path="units/pd2_mod_warzone/pickups/gen_pku_wz_satchelbomb/gen_pku_wz_satchelbomb_df"/>
 		
+		<bnk				path="soundbanks/zipline"/>
+		<unit				path="units/pd2_mod_warzone/equipment/wz_equipment_zipline/wz_equipment_zipline_motor"/>
+		<object				path="units/pd2_mod_warzone/equipment/wz_equipment_zipline/wz_equipment_zipline_motor"/>
+		<model				path="units/pd2_mod_warzone/equipment/wz_equipment_zipline/wz_equipment_zipline_motor"/>
+		<material_config	path="units/pd2_mod_warzone/equipment/wz_equipment_zipline/wz_equipment_zipline_motor"/>
+		<sequence_manager	path="units/pd2_mod_warzone/equipment/wz_equipment_zipline/wz_equipment_zipline_motor"/>
+		
 		<!--Props-->
 		<material_config	path="units/pd2_mod_warzone/architecture/buildings/tents/props_field_tent/props_field_tent_01"/>
 		<texture			path="units/pd2_mod_warzone/architecture/buildings/tents/props_field_tent/props_field_tent_01_df"/>
-		<texture			path="units/pd2_mod_warzone/architecture/buildings/tents/props_field_tent/props_field_tent_01_gsma"/>
 		<texture			path="units/pd2_mod_warzone/architecture/buildings/tents/props_field_tent/props_field_tent_01_nm"/>
 		<unit				path="units/pd2_mod_warzone/architecture/buildings/tents/props_field_tent/props_field_tent_01"/>
 		<object				path="units/pd2_mod_warzone/architecture/buildings/tents/props_field_tent/props_field_tent_01"/>
@@ -216,6 +240,7 @@
 		<object				path="units/pd2_mod_warzone/weapons/wpn_prj_50cal/wpn_prj_50cal"/>
 		<model				path="units/pd2_mod_warzone/weapons/wpn_prj_50cal/wpn_prj_50cal"/>
 		<material_config	path="units/pd2_mod_warzone/weapons/wpn_prj_50cal/wpn_prj_50cal"/>
+		<cooked_physics		path="units/pd2_mod_warzone/weapons/wpn_prj_50cal/wpn_prj_50cal"/>
 		
 		
 		<unit				path="units/pd2_mod_warzone/dev_units/level_tools/nav_hex_splitter/nav_hex_splitter"/>

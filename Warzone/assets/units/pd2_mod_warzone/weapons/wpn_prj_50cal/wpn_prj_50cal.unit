@@ -7,7 +7,7 @@
 	</dependencies>
 	<extensions>
 		<extension name="base" class="ArrowBase" >
-			<var name="_tweak_projectile_entry" value="wpn_prj_50cal" />
+			<var name="_tweak_projectile_entry" value="wz_prj_50cal" />
 		</extension>
 		<extension name="unit_data" class="ScriptUnitData" />
 		<extension name="damage" class="UnitDamage" >

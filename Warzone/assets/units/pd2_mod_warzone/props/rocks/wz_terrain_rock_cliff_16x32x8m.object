@@ -15,9 +15,9 @@
 	<graphics>
 		<graphic_group name="g_group" enabled="true" culling_object="co_culling">
 			<lod_object name="lod_terrain">
-				<object name="g_terrain"		lod="0" enabled="true" shadow_caster="true" max_distance="9600" max_draw_lod="0" />
-				<object name="g_terrain_lod1"	lod="1" enabled="true" shadow_caster="true" max_distance="12800" />
-				<object name="g_terrain_lod2"	lod="2" enabled="true" shadow_caster="true" max_distance="16000" />
+				<object name="g_terrain"		lod="0" enabled="true" shadow_caster="true" max_distance="12800" max_draw_lod="0" />
+				<object name="g_terrain_lod1"	lod="1" enabled="true" shadow_caster="true" max_distance="25600" />
+				<object name="g_terrain_lod2"	lod="2" enabled="true" shadow_caster="true" max_distance="51200" />
 				<object name="g_terrain_lod3" 	lod="3" enabled="true" shadow_caster="false" />
 			</lod_object>
 		</graphic_group>
