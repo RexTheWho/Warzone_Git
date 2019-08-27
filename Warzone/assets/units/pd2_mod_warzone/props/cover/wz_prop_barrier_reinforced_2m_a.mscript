@@ -3,7 +3,7 @@
     <object3d name="rp_root" mode="add">
         <parent root="true" />
     </object3d>
-	<import file="wpn_prj_50cal.obj" type="obj" create_objects="true">
+	<import file="wz_prop_barrier_reinforced_2m_a.obj" type="obj" create_objects="true">
         <rootpoint name="rp_root">
             <default/>
         </rootpoint>

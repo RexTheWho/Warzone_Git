@@ -9,7 +9,7 @@
 		</body>	
 	</bodies>
 	
-	<decal_surfaces default_material="concrete" static="true">
+	<decal_surfaces default_material="sheet_metal" static="true">
 	</decal_surfaces>
 	
 	<graphics>

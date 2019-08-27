@@ -31,12 +31,12 @@
 				<entry key="script" type="string" value="default"/>
 				<entry key="values" type="table">
 					<entry key="base_delay" type="number" value="0"/>
-					<entry key="enabled" type="boolean" value="false"/>
+					<entry key="enabled" type="boolean" value="true"/>
 					<entry key="execute_on_startup" type="boolean" value="true"/>
 					<entry key="on_executed" type="table">
 					</entry>
-					<entry key="position" type="vector3" value="-881.159 -1337.03 0"/>
-					<entry key="rotation" type="quaternion" value="0 0 -5.96046e-008 -1"/>
+					<entry key="position" type="vector3" value="1018.84 -37.0298 0"/>
+					<entry key="rotation" type="quaternion" value="0 0 1 -1.03316e-007"/>
 					<entry key="state" type="string" value="standard"/>
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
@@ -58,7 +58,7 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="true"/>
-					<entry key="position" type="vector3" value="-630.912 -40.5748 0"/>
+					<entry key="position" type="vector3" value="-580.912 -340.575 0"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>

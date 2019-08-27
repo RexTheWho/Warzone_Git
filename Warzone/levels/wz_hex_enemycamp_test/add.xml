@@ -46,6 +46,11 @@
 		<object				path="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_c"/>
 		<model				path="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_c"/>
 		
+		<material_config	path="units/pd2_mod_warzone/props/cover/wz_prop_barrier"/>
+		<unit				path="units/pd2_mod_warzone/props/cover/wz_prop_barrier_reinforced_2m_a"/>
+		<object				path="units/pd2_mod_warzone/props/cover/wz_prop_barrier_reinforced_2m_a"/>
+		<model				path="units/pd2_mod_warzone/props/cover/wz_prop_barrier_reinforced_2m_a"/>
+		
 		<material_config	path="units/pd2_mod_warzone/props/fences/wz_prop_heavy_wall"/>
 		<unit				path="units/pd2_mod_warzone/props/fences/wz_prop_heavy_wall_4m_a"/>
 		<object				path="units/pd2_mod_warzone/props/fences/wz_prop_heavy_wall_4m_a"/>
@@ -235,12 +240,12 @@
 		<model				path="units/pd2_mod_warzone/weapons/wpn_fps_snp_m95/wpn_fps_snp_m95"/>
 		
 		<!--Ammo Bulletdrop 50cal-->
-		<unit				path="units/pd2_mod_warzone/weapons/wpn_prj_50cal/wpn_prj_50cal"/>
-		<unit				path="units/pd2_mod_warzone/weapons/wpn_prj_50cal/wpn_prj_50cal_local"/>
-		<object				path="units/pd2_mod_warzone/weapons/wpn_prj_50cal/wpn_prj_50cal"/>
-		<model				path="units/pd2_mod_warzone/weapons/wpn_prj_50cal/wpn_prj_50cal"/>
-		<material_config	path="units/pd2_mod_warzone/weapons/wpn_prj_50cal/wpn_prj_50cal"/>
-		<cooked_physics		path="units/pd2_mod_warzone/weapons/wpn_prj_50cal/wpn_prj_50cal"/>
+		<unit				path="units/pd2_mod_warzone/weapons/wz_prj_50cal/wz_prj_50cal"/>
+		<unit				path="units/pd2_mod_warzone/weapons/wz_prj_50cal/wz_prj_50cal_local"/>
+		<object				path="units/pd2_mod_warzone/weapons/wz_prj_50cal/wz_prj_50cal"/>
+		<model				path="units/pd2_mod_warzone/weapons/wz_prj_50cal/wz_prj_50cal"/>
+		<material_config	path="units/pd2_mod_warzone/weapons/wz_prj_50cal/wz_prj_50cal"/>
+		<cooked_physics		path="units/pd2_mod_warzone/weapons/wz_prj_50cal/wz_prj_50cal"/>
 		
 		
 		<unit				path="units/pd2_mod_warzone/dev_units/level_tools/nav_hex_splitter/nav_hex_splitter"/>

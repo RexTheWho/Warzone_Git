@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <unit type="gen" slot="13">
 	<network sync="spawn" />
-	<object file="units/pd2_mod_warzone/weapons/wpn_prj_50cal/wpn_prj_50cal" />
+	<object file="units/pd2_mod_warzone/weapons/wz_prj_50cal/wz_prj_50cal" />
 	<dependencies>
 		<depends_on bnk="soundbanks/regular_weapon_sfx" />
 	</dependencies>

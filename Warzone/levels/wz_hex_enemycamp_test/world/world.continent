@@ -243,7 +243,7 @@
 			<unit_data _prev_pos="-400 2400 0" _prev_rot="0 0 1 4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a" name_id="wz_prop_compound_wall_4m_a_007" position="-400 2400 0" rotation="0 0 1 4.37114e-008" unit_id="100033"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-800 1000 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/architecture/buildings/tents/props_field_tent/props_field_tent_01" name_id="props_field_tent_01_004" position="-800 1000 0" rotation="0 0 -0.707107 -0.707107" unit_id="100082"/>
+			<unit_data _prev_pos="-800 1000 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/architecture/buildings/tents/props_field_tent/props_field_tent_01" name_id="props_field_tent_01_004" position="-950 1000 0" rotation="0 0 -0.707107 -0.707107" unit_id="100082"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-400 1600 0" _prev_rot="0 0 1 4.37114e-008" continent="world" local_pos="-400 -3.49691e-005 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/fences/wz_prop_heavy_wall_4m_a_platform" name_id="wz_prop_heavy_wall_4m_a_platform_001" position="-400 1600 0" rotation="0 0 1 4.37114e-008" unit_id="100012"/>
@@ -308,6 +308,54 @@
 			<unit_data _prev_pos="-50 -150 1955" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_warzone/equipment/wz_equipment_zipline/wz_equipment_zipline_motor" name_id="wz_equipment_zipline_motor_002" position="-50 -150 1955" rotation="-0 0 -0 -1" unit_id="100100">
 				<zipline end_pos="-1000 -1200 0" slack="0" speed="1000" usage_type="person"/>
 			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="1200 -300 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_barrier_reinforced_2m_a" name_id="wz_prop_barrier_reinforced_2m_a_001" position="1200 -300 0" rotation="0 0 0 -1" unit_id="100101"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="800 -300 0" _prev_rot="0 0 0 -1" continent="world" local_pos="-400 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_barrier_reinforced_2m_a" name_id="wz_prop_barrier_reinforced_2m_a_002" position="800 -300 0" rotation="0 0 0 -1" unit_id="100102"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="300 -800 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="-900 -500 0" local_rot="0 0 0.707107 0.707107" name="units/pd2_mod_warzone/props/cover/wz_prop_barrier_reinforced_2m_a" name_id="wz_prop_barrier_reinforced_2m_a_003" position="300 -800 0" rotation="0 0 -0.707107 -0.707107" unit_id="100103"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="300 -1200 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="-900 -900 0" local_rot="0 0 0.707107 0.707107" name="units/pd2_mod_warzone/props/cover/wz_prop_barrier_reinforced_2m_a" name_id="wz_prop_barrier_reinforced_2m_a_004" position="300 -1200 0" rotation="0 0 -0.707107 -0.707107" unit_id="100104"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="350 -600 0" _prev_rot="0 0 -0.5 -0.866025" continent="world" local_pos="-850 -300 0" local_rot="0 0 0.5 0.866025" name="units/pd2_mod_warzone/props/cover/wz_prop_barrier_reinforced_2m_a" name_id="wz_prop_barrier_reinforced_2m_a_005" position="350 -600 0" rotation="0 0 -0.5 -0.866025" unit_id="100105"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="600 -350 0" _prev_rot="-7.71341e-009 -2.87868e-008 -0.258819 -0.965926" continent="world" local_pos="-600 -50 0" local_rot="7.71341e-009 2.87868e-008 0.258819 0.965926" name="units/pd2_mod_warzone/props/cover/wz_prop_barrier_reinforced_2m_a" name_id="wz_prop_barrier_reinforced_2m_a_006" position="600 -350 0" rotation="-7.71341e-009 -2.87868e-008 -0.258819 -0.965926" unit_id="100106"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1200 300 0" _prev_rot="0 0 1 4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_barrier_reinforced_2m_a" name_id="wz_prop_barrier_reinforced_2m_a_007" position="-1200 300 0" rotation="0 0 1 4.37114e-008" unit_id="100107"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1600 300 0" _prev_rot="0 0 1 4.37114e-008" continent="world" local_pos="-400 -4.45153e-006 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_barrier_reinforced_2m_a" name_id="wz_prop_barrier_reinforced_2m_a_008" position="-800 300 0" rotation="0 0 1 4.37114e-008" unit_id="100108"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1800 350 0" _prev_rot="-2.87868e-008 7.71341e-009 0.965926 -0.258819" continent="world" local_pos="-600 -50 0" local_rot="7.71341e-009 2.87868e-008 0.258819 0.965926" name="units/pd2_mod_warzone/props/cover/wz_prop_barrier_reinforced_2m_a" name_id="wz_prop_barrier_reinforced_2m_a_009" position="-600 350 0" rotation="-2.87868e-008 7.71341e-009 0.965926 -0.258819" unit_id="100109"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2050 600 0" _prev_rot="0 0 0.866026 -0.5" continent="world" local_pos="-850 -300 0" local_rot="0 0 0.5 0.866026" name="units/pd2_mod_warzone/props/cover/wz_prop_barrier_reinforced_2m_a" name_id="wz_prop_barrier_reinforced_2m_a_010" position="-350 600 0" rotation="0 0 0.866025 -0.5" unit_id="100110"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-300 800 0" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_barrier_reinforced_2m_a" name_id="wz_prop_barrier_reinforced_2m_a_011" position="-300 800 0" rotation="0 0 0.707107 -0.707107" unit_id="100111"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2100 1200 0" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="-900 -900 0" local_rot="0 0 0.707107 0.707107" name="units/pd2_mod_warzone/props/cover/wz_prop_barrier_reinforced_2m_a" name_id="wz_prop_barrier_reinforced_2m_a_012" position="-300 1200 0" rotation="0 0 0.707107 -0.707107" unit_id="100112"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-3.71933e-005 600 0" _prev_rot="0 0 5.96046e-008 -1" continent="world" local_pos="0 1200 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_barrier_reinforced_2m_a" name_id="wz_prop_barrier_reinforced_2m_a_013" position="-3.71933e-005 600 0" rotation="0 0 5.96046e-008 -1" unit_id="100113"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-0.000180244 -600 0" _prev_rot="0 0 5.96046e-008 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_barrier_reinforced_2m_a" name_id="wz_prop_barrier_reinforced_2m_a_014" position="-0.000180244 -600 0" rotation="0 0 5.96046e-008 -1" unit_id="100114"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="600 0 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_barrier_reinforced_2m_a" name_id="wz_prop_barrier_reinforced_2m_a_015" position="600 0 0" rotation="0 0 -0.707107 -0.707107" unit_id="100115"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="600 1200 0" _prev_rot="0 0 5.96046e-008 -1" continent="world" local_pos="-0.000214577 1200 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_barrier_reinforced_2m_a" name_id="wz_prop_barrier_reinforced_2m_a_016" position="-600 0.000214577 0" rotation="0 0 -0.707107 -0.707107" unit_id="100116"/>
 		</table>
 	</statics>
 	<values>

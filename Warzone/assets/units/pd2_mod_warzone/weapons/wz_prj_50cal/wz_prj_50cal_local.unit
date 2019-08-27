@@ -1,12 +1,13 @@
 <?xml version="1.0"?>
 <unit type="item" slot="13">
-	<object file="units/pd2_mod_warzone/weapons/wpn_prj_50cal/wpn_prj_50cal" />
+
+	<object file="units/pd2_mod_warzone/weapons/wz_prj_50cal/wz_prj_50cal" />
 	<dependencies>
 		<depends_on bnk="soundbanks/regular_weapon_sfx" />
 	</dependencies>
 	<extensions>
 		<extension name="base" class="ArrowBase" >
-			<var name="_tweak_projectile_entry" value="wpn_prj_50cal" />
+			<var name="_tweak_projectile_entry" value="wz_prj_50cal" />
 		</extension>
 		<extension name="unit_data" class="ScriptUnitData" />
 		<extension name="damage" class="UnitDamage" >
