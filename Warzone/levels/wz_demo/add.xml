@@ -264,6 +264,12 @@
 		<material_config	path="units/pd2_mod_warzone/characters/ene_terror_light_ak47/ene_terror_light_ak47"/>
 		<material_config	path="units/pd2_mod_warzone/characters/ene_terror_light_ak47/ene_terror_light_ak47_contour"/>
 		<texture			path="units/pd2_mod_warzone/characters/shared_textures/ene_terror_light_df"/>
+		<unit				path="units/pd2_mod_warzone/characters/ene_terror_sniper_svdsil/ene_terror_sniper_svdsil"/>
+		<unit				path="units/pd2_mod_warzone/characters/ene_terror_sniper_svdsil/ene_terror_sniper_svdsil_husk"/>
+		<object				path="units/pd2_mod_warzone/characters/ene_terror_sniper_svdsil/ene_terror_sniper_svdsil"/>
+		<model				path="units/pd2_mod_warzone/characters/ene_terror_sniper_svdsil/ene_terror_sniper_svdsil"/>
+		<material_config	path="units/pd2_mod_warzone/characters/ene_terror_sniper_svdsil/ene_terror_sniper_svdsil"/>
+		<material_config	path="units/pd2_mod_warzone/characters/ene_terror_sniper_svdsil/ene_terror_sniper_svdsil_contour"/>
 		
 		<!--Equipments-->
 		<unit				path="units/pd2_mod_warzone/equipment/gen_equipment_landmine/gen_equipment_landmine"/>
