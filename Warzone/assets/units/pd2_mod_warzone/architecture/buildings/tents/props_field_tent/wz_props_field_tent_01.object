@@ -1,0 +1,36 @@
+<dynamic_object>
+	<diesel materials="units/pd2_mod_warzone/architecture/buildings/tents/props_field_tent/wz_props_field_tent_camo" orientation_object="rp_root" />
+	<bodies>
+		<body name="body_static" enabled="true" template="static">
+			<object name="rp_root" />
+			<object name="c_capsule_001"	collision_type="capsule" padding="-5" />
+			<object name="c_capsule_002"	collision_type="capsule" padding="-5" />
+			<object name="c_capsule_003"	collision_type="capsule" padding="-5" />
+			<object name="c_capsule_004"	collision_type="capsule" padding="-5" />
+			<object name="c_convex_001"		collision_type="convex" padding="-2.5" />
+			<object name="c_convex_002"		collision_type="convex" padding="-2.5" />
+			<object name="c_convex_003"		collision_type="convex" padding="-2.5" />
+			<object name="c_convex_004"		collision_type="convex" padding="-2.5" />
+			<object name="c_convex_005"		collision_type="convex" padding="-2.5" />
+			<object name="c_convex_006"		collision_type="convex" padding="-2.5" />
+		</body>
+	</bodies>
+	<decal_surfaces default_material="cloth">
+		<!-- <decal_mesh name="dm_cloth_2" enabled="true" material="cloth" /> -->
+		<!-- <decal_mesh name="dm_wood_2" enabled="true" material="wood" /> -->
+	</decal_surfaces>
+	<graphics>
+		<graphic_group name="g_group" enabled="true" culling_object="co_culling">
+			 <lod_object name="lod_tent">
+					<object name="g_tent_lod0"	lod="0" enabled="true" shadow_caster="true"		max_distance="6400" />
+					<object name="g_tent_lod1"	lod="1" enabled="true" shadow_caster="false"	max_distance="9600" />
+					<object name="g_tent_lod2"	lod="2" enabled="true" shadow_caster="false"	max_distance="12800" />
+			</lod_object>
+			 <lod_object name="lod_mul">
+					<object name="g_tent_lod0_mul" lod="0" enabled="true" shadow_caster="false" max_distance="9600" />
+					<object name="g_tent_lod2_mul" lod="1" enabled="true" shadow_caster="false" max_distance="12800" />
+			</lod_object>
+			<object name="s_s" enabled="true" shadow_caster="true" />
+		</graphic_group>
+	</graphics>
+</dynamic_object>

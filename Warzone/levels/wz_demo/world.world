@@ -1331,6 +1331,20 @@
 		<entry key="portals" type="table">
 		</entry>
 		<entry key="unit_groups" type="table">
+			<entry key="camp_001" type="table">
+				<entry key="ids" type="table">
+				</entry>
+				<entry key="shapes" type="table">
+					<entry index="1" type="table">
+						<entry key="depth" type="number" value="19200"/>
+						<entry key="height" type="number" value="19200"/>
+						<entry key="position" type="vector3" value="1485.1 9600 -6400"/>
+						<entry key="rotation" type="quaternion" value="-0 0 -0 -1"/>
+						<entry key="type" type="string" value="box"/>
+						<entry key="width" type="number" value="19200"/>
+					</entry>
+				</entry>
+			</entry>
 		</entry>
 	</entry>
 	<entry key="sounds" type="table">

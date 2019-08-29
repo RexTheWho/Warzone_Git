@@ -1,20 +1,16 @@
 <table>
 	<editor_groups/>
 	<instances>
-		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="1000" name="wz_pku_supplies_random_001" position="400 400 25" rotation="0 0 0.707107 -0.707107" script="default" start_index="0"/>
-		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="1000" name="wz_pku_supplies_random_002" position="500 400 25" rotation="0 0 0.707107 -0.707107" script="default" start_index="1000"/>
-		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="1000" name="wz_pku_supplies_random_003" position="600 400 25" rotation="0 0 0.707107 -0.707107" script="default" start_index="2000"/>
-		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="1000" name="wz_pku_supplies_random_004" position="700 400 25" rotation="0 0 0.707107 -0.707107" script="default" start_index="3000"/>
 		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="1000" name="wz_pku_supplies_random_005" position="11441 15627 115" rotation="-0 0 -0.052336 -0.99863" script="default" start_index="4000"/>
 		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="1000" name="wz_pku_supplies_random_006" position="10809 15467 115" rotation="0 0 -0.615661 -0.788011" script="default" start_index="5000"/>
 		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="1000" name="wz_pku_supplies_random_007" position="10085.1 16750 115" rotation="0 0 -0.026177 -0.999657" script="default" start_index="6000"/>
 		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="1000" name="wz_pku_supplies_random_008" position="10709 16767 115" rotation="0 0 0.0958458 -0.995396" script="default" start_index="7000"/>
-		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="1000" name="wz_pku_supplies_random_009" position="11921.1 15724 15" rotation="0 0 -0.67559 -0.737277" script="default" start_index="8000"/>
+		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="1000" name="wz_pku_supplies_random_009" position="11921.1 15686 15" rotation="0 0 -0.67559 -0.737277" script="default" start_index="8000"/>
 		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="1000" name="wz_pku_supplies_random_010" position="10001.1 16284 15" rotation="0 0 0.737277 -0.67559" script="default" start_index="9000"/>
 		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="1000" name="wz_pku_supplies_random_011" position="9895.1 15714 115" rotation="0 0 0 -1" script="default" start_index="10000"/>
 		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="1000" name="wz_pku_supplies_random_012" position="9989.1 14945 0" rotation="0 0 -0.0784591 -0.996917" script="default" start_index="11000"/>
 		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="1000" name="wz_pku_supplies_random_013" position="12158.1 14942 0" rotation="0 0 0.00872654 -0.999962" script="default" start_index="12000"/>
-		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="1000" name="wz_pku_supplies_random_014" position="12428.1 15743 0" rotation="0 0 -0.688355 -0.725374" script="default" start_index="13000"/>
+		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="1000" name="wz_pku_supplies_random_014" position="12279.9 15762.6 7" rotation="0 0 0.0261764 -0.999657" script="default" start_index="13000"/>
 		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="1000" name="wz_pku_supplies_random_015" position="12239.1 16738 15" rotation="0 0 0.0348995 -0.999391" script="default" start_index="14000"/>
 		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="1000" name="wz_pku_supplies_random_016" position="10160.9 17489 115" rotation="0 0 0.771625 -0.636078" script="default" start_index="15000"/>
 		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="1000" name="wz_pku_supplies_random_017" position="11736 17527 115" rotation="0 0 0.0610485 -0.998135" script="default" start_index="16000"/>
@@ -31,6 +27,7 @@
 		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="1000" name="wz_pku_supplies_random_028" position="6008.22 17611.4 144" rotation="0 0 -0.782608 -0.622515" script="default" start_index="27000"/>
 		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="1000" name="wz_pku_supplies_random_029" position="6616.27 17628.7 131.813" rotation="0 0 -0.0958458 0.995396" script="default" start_index="28000"/>
 		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="1000" name="wz_pku_supplies_random_030" position="6827.56 16856.5 19.9235" rotation="0 0 -0.998135 0.0610485" script="default" start_index="29000"/>
+		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="1000" name="wz_pku_supplies_random_031" position="10756.5 18418.8 130" rotation="0 0 -0.996917 -0.0784591" script="default" start_index="30000"/>
 	</instances>
 	<statics>
 		<table>
@@ -491,9 +488,6 @@
 		</table>
 		<table>
 			<unit_data _prev_pos="10085.1 16900 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/architecture/buildings/tents/props_field_tent/props_field_tent_02" name_id="props_field_tent_02_007" position="10085.1 16900 0" rotation="0 0 -0.707107 -0.707107" unit_id="100155"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="12185.1 16000 0" _prev_rot="0 0 0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="-900 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/architecture/buildings/tents/props_field_tent/props_field_tent_01" name_id="props_field_tent_01_005" position="12085.1 16000 0" rotation="0 0 0.707107 -0.707107" unit_id="100156"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="12085.1 15100 0" _prev_rot="0 0 0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/architecture/buildings/tents/props_field_tent/props_field_tent_02" name_id="props_field_tent_02_008" position="12085.1 15100 0" rotation="0 0 0.707107 -0.707107" unit_id="100157"/>
@@ -1115,7 +1109,7 @@
 			<unit_data _prev_pos="12374.7 15452.3 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/vegetation/wz_vegetation_bush_large/wz_vegetation_bush_large_a" name_id="wz_vegetation_bush_large_a_012" position="12374.7 15452.3 0" rotation="0 0 0.258819 -0.965926" unit_id="100373"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="12152.2 16495.8 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/vegetation/wz_vegetation_bush_large/wz_vegetation_bush_large_b" name_id="wz_vegetation_bush_large_b_014" position="12152.2 16495.8 0" rotation="0 0 0.0871557 -0.996195" unit_id="100374"/>
+			<unit_data _prev_pos="12154.5 16508.6 0" _prev_rot="0 0 0.0871557 -0.996195" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/vegetation/wz_vegetation_bush_large/wz_vegetation_bush_large_b" name_id="wz_vegetation_bush_large_b_014" position="12156.5 16520.4 0" rotation="0 0 0.0871557 -0.996195" unit_id="100374"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="8855.23 17558.9 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/vegetation/wz_vegetation_bushes/wz_vegetation_bush_small/wz_vegetation_bush_small" name_id="wz_vegetation_bush_small_027" position="8855.23 17558.9 0" rotation="0 0 0 -1" unit_id="100375"/>
@@ -1226,7 +1220,7 @@
 			<unit_data _prev_pos="11650.7 20192.9 0" _prev_rot="0 0 1 -4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_a" name_id="wz_prop_crate_wood_a_011" position="11650.7 20192.9 0" rotation="0 0 0.999848 -0.0174525" unit_id="100409"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="12125.2 19661.8 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_a" name_id="wz_prop_crate_wood_a_012" position="12125.2 19661.8 0" rotation="0 0 0 -1" unit_id="100410"/>
+			<unit_data _prev_pos="12125.2 19661.8 3" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_a" name_id="wz_prop_crate_wood_a_012" position="12125.2 19661.8 3" rotation="0 0.00872654 0 -0.999962" unit_id="100410"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="12125.2 19750.8 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_b" name_id="wz_prop_crate_wood_b_006" position="12154.2 19750.8 0" rotation="-0 0 -0 -1" unit_id="100411"/>
@@ -1286,28 +1280,28 @@
 			<unit_data _prev_pos="9902.05 15713.1 0" _prev_rot="0 0 0.0436194 -0.999048" continent="world" local_pos="-216.053 -4.00098 0" local_rot="0 0 -0.0436194 0.999048" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_b" name_id="wz_prop_crate_wood_b_016" position="9902.05 15713.1 0" rotation="0 0 0.0436194 -0.999048" unit_id="100429"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="11750.4 16259.2 0" _prev_rot="0 0 -0.0610488 -0.998135" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_b" name_id="wz_prop_crate_wood_b_017" position="11750.4 16259.2 0" rotation="0 0 -0.0610488 -0.998135" unit_id="100430"/>
+			<unit_data _prev_pos="11782.5 16309.5 0" _prev_rot="0 0 -0.061049 -0.998135" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_b" name_id="wz_prop_crate_wood_b_017" position="11782.5 16309.5 0" rotation="0 0 -0.0871562 -0.996195" unit_id="100430"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="12117.9 16281.1 0" _prev_rot="0 0 0.0261769 -0.999657" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_b" name_id="wz_prop_crate_wood_b_018" position="12317.7 16270.6 0" rotation="0 0 0.0261768 -0.999657" unit_id="100431"/>
+			<unit_data _prev_pos="12271.3 16318.4 0" _prev_rot="0 0 0.069756 -0.997564" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_b" name_id="wz_prop_crate_wood_b_018" position="12271.3 16318.4 0" rotation="0 0 0.069756 -0.997564" unit_id="100431"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="11918.1 16070.1 0" _prev_rot="0 0 0 -1" continent="world" local_pos="-34 86 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_b" name_id="wz_prop_crate_wood_b_019" position="12153.1 15810.1 0" rotation="0 0 0 -1" unit_id="100432"/>
+			<unit_data _prev_pos="12153.1 15810.1 0" _prev_rot="0 0 0 -1" continent="world" local_pos="119 93 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_b" name_id="wz_prop_crate_wood_b_019" position="12153.1 15772.1 0" rotation="0 0 0 -1" unit_id="100432"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="11999.1 16018.1 0" _prev_rot="2.10734e-008 2.10734e-008 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_a" name_id="wz_prop_crate_wood_a_022" position="11899.1 16018.1 0" rotation="2.10734e-008 2.10734e-008 0.707107 -0.707107" unit_id="100433"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="11952.1 15984.1 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_a" name_id="wz_prop_crate_wood_a_023" position="12187.1 15724.1 0" rotation="0 0 0 -1" unit_id="100434"/>
+			<unit_data _prev_pos="12187.1 15686.1 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_a" name_id="wz_prop_crate_wood_a_023" position="12187.1 15686.1 0" rotation="0 0 0 -1" unit_id="100434"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="12098.1 15992.1 0" _prev_rot="0 0 0 -1" continent="world" local_pos="146 8 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_a" name_id="wz_prop_crate_wood_a_024" position="12333.1 15732.1 0" rotation="0 0 0 -1" unit_id="100435"/>
+			<unit_data _prev_pos="12333.1 15694.1 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_a" name_id="wz_prop_crate_wood_a_024" position="12329.1 15694.1 0" rotation="0 0 0 -1" unit_id="100435"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="11802 15713.1 0" _prev_rot="0 0 0.0436194 -0.999048" continent="world" local_pos="-0.0527344 -557.001 0" local_rot="0 0 -0.0436194 0.999048" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_b" name_id="wz_prop_crate_wood_b_020" position="11818 15713.1 0" rotation="0 0 0.0436194 -0.999048" unit_id="100436"/>
+			<unit_data _prev_pos="11818 15713.1 0" _prev_rot="0 0 0.0436194 -0.999048" continent="world" local_pos="-216.1 -4 0" local_rot="0 0 -0.0436194 0.999048" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_b" name_id="wz_prop_crate_wood_b_020" position="11818 15675.1 0" rotation="0 0 0.0436194 -0.999048" unit_id="100436"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="12018.1 15717.1 0" _prev_rot="0 0 0 -1" continent="world" local_pos="216 -553 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_b" name_id="wz_prop_crate_wood_b_021" position="12034.1 15717.1 0" rotation="0 0 0 -1" unit_id="100437"/>
+			<unit_data _prev_pos="12034.1 15717.1 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_b" name_id="wz_prop_crate_wood_b_021" position="12034.1 15679.1 0" rotation="0 0 0 -1" unit_id="100437"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="12018.1 14961.1 0" _prev_rot="0 0 0 -1" continent="world" local_pos="216 -1309 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_b" name_id="wz_prop_crate_wood_b_022" position="12034.1 14961.1 0" rotation="0 0 0 -1" unit_id="100438"/>
@@ -1331,7 +1325,7 @@
 			<unit_data _prev_pos="11988.1 16006.1 -2.13163e-014" _prev_rot="2.10734e-008 -2.10734e-008 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_a" name_id="wz_prop_crate_wood_a_029" position="11988.1 16006.1 -2.13163e-014" rotation="2.10734e-008 -2.10734e-008 -0.707107 -0.707107" unit_id="100444"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="12423.1 16006.1 -1.56675e-012" _prev_rot="2.10734e-008 -2.10734e-008 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_a" name_id="wz_prop_crate_wood_a_030" position="12423.1 15986.1 1.19209e-006" rotation="2.10734e-008 -2.10734e-008 -0.707107 -0.707107" unit_id="100445"/>
+			<unit_data _prev_pos="12423.1 15986.1 1.19209e-006" _prev_rot="2.10734e-008 -2.10734e-008 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_a" name_id="wz_prop_crate_wood_a_030" position="12396.1 15986.1 1.19209e-006" rotation="2.10734e-008 -2.10734e-008 -0.707107 -0.707107" unit_id="100445"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="10441.1 15762.1 0" _prev_rot="0 0 0.688355 -0.725374" continent="world" local_pos="323 45 0" local_rot="0 0 -0.688355 0.725374" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_a" name_id="wz_prop_crate_wood_a_031" position="10441.1 15762.1 0" rotation="0 0 0.688355 -0.725374" unit_id="100446"/>
@@ -1364,10 +1358,10 @@
 			<unit_data _prev_pos="10441.1 15762.1 0" _prev_rot="0 0 0.688355 -0.725374" continent="world" local_pos="323 45 0" local_rot="0 0 -0.688355 0.725374" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_a" name_id="wz_prop_crate_wood_a_035" position="10441.1 19962.1 0" rotation="0 0 0.688355 -0.725374" unit_id="100455"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="12000.1 18166.1 0" _prev_rot="0 0 1 4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_a" name_id="wz_prop_crate_wood_a_036" position="11976.1 18166.1 0" rotation="0 0 1 4.37114e-008" unit_id="100456"/>
+			<unit_data _prev_pos="11976.1 18166.1 5" _prev_rot="0 0 1 -4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_a" name_id="wz_prop_crate_wood_a_036" position="11976.1 18166.1 5" rotation="7.62869e-010 -0.0174524 0.999848 -4.37047e-008" unit_id="100456"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="11976.1 18250.1 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_a" name_id="wz_prop_crate_wood_a_037" position="11976.1 18250.1 0" rotation="0 0 0.0348995 -0.999391" unit_id="100457"/>
+			<unit_data _prev_pos="11976.1 18250.1 10" _prev_rot="-0.00060908 -0.0174418 0.0348942 -0.999239" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_a" name_id="wz_prop_crate_wood_a_037" position="11976.1 18250.1 10" rotation="0.00811084 -0.0177456 0.0347406 -0.999206" unit_id="100457"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="10712.9 16741.5 0" _prev_rot="0 0 -0.5 -0.866025" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_b" name_id="wz_prop_crate_wood_b_029" position="10736.4 16722.2 0" rotation="0 0 -0.5 -0.866025" unit_id="100458"/>
@@ -1482,43 +1476,43 @@
 			<unit_data _prev_pos="5958.44 17481 12.8932" _prev_rot="0 0 0.990268 -0.139173" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/vehicles/wz_vehicle_m35_truck/wz_vehicle_m35_truck_no_cover" name_id="wz_vehicle_m35_truck_no_cover_005" position="5958.44 17481 12.8932" rotation="0 0 0.990268 -0.139173" unit_id="100490"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="6074.54 17834.6 13.4082" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_b" name_id="wz_prop_crate_wood_b_033" position="6074.54 17834.6 13.4082" rotation="0 0 0 -1" unit_id="100491"/>
+			<unit_data _prev_pos="6074.54 17834.6 5.5175" _prev_rot="0 0 0 -1" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="-503.16 296.9 -4.4825" local_rot="-0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_b" name_id="wz_prop_crate_wood_b_033" position="6074.54 17834.6 5.5175" rotation="0 0 -0 -1" unit_id="100491"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="6097.18 17748 13.5158" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_b" name_id="wz_prop_crate_wood_b_034" position="6097.18 17748 13.5158" rotation="0 0 -0.0348995 -0.999391" unit_id="100492"/>
+			<unit_data _prev_pos="6097.18 17748 5.6251" _prev_rot="0 0 -0.0348995 -0.999391" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="-480.52 210.301 -4.3749" local_rot="0 0 0.0348995 0.999391" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_b" name_id="wz_prop_crate_wood_b_034" position="6097.18 17748 5.6251" rotation="0 0 -0.0348995 -0.999391" unit_id="100492"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="6096.92 17649.7 13.4736" _prev_rot="0 0 0.636078 -0.771625" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_a" name_id="wz_prop_crate_wood_a_039" position="6091.33 17631.3 13.4736" rotation="0 0 0.636078 -0.771625" unit_id="100493"/>
+			<unit_data _prev_pos="6091.33 17631.3 5.5829" _prev_rot="0 0 0.636078 -0.771625" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="-486.37 93.6016 -4.4171" local_rot="-0 0 -0.636078 0.771625" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_a" name_id="wz_prop_crate_wood_a_039" position="6091.33 17631.3 5.5829" rotation="0 0 0.636078 -0.771625" unit_id="100493"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="6622.32 17623.6 19.5144" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_b" name_id="wz_prop_crate_wood_b_035" position="6622.32 17623.6 19.5144" rotation="0 0 0 -1" unit_id="100494"/>
+			<unit_data _prev_pos="6622.32 17623.6 11.6237" _prev_rot="0 0 0 -1" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_b" name_id="wz_prop_crate_wood_b_035" position="6622.32 17623.6 11.6237" rotation="0 0 -0 -1" unit_id="100494"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="6577.7 17537.7 17.8907" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_b" name_id="wz_prop_crate_wood_b_036" position="6577.7 17537.7 17.8907" rotation="0 0 0 -1" unit_id="100495"/>
+			<unit_data _prev_pos="6577.7 17537.7 10" _prev_rot="-0 0 -0 -1" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_b" name_id="wz_prop_crate_wood_b_036" position="6577.7 17537.7 10" rotation="-0 0 -0 -1" unit_id="100495"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="7028.53 17340.6 19.9512" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_b" name_id="wz_prop_crate_wood_b_037" position="7028.53 17340.6 19.9512" rotation="0 0 0 -1" unit_id="100496"/>
+			<unit_data _prev_pos="7028.53 17340.6 12.0605" _prev_rot="0 0 0 -1" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="450.83 -197.1 2.0605" local_rot="-0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_b" name_id="wz_prop_crate_wood_b_037" position="7028.53 17340.6 12.0605" rotation="0 0 -0 -1" unit_id="100496"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="7177.99 17341.5 22.1258" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_b" name_id="wz_prop_crate_wood_b_038" position="7177.99 17341.5 22.1258" rotation="0 0 -0.0610485 -0.998135" unit_id="100497"/>
+			<unit_data _prev_pos="7177.99 17341.5 14.2351" _prev_rot="0 0 -0.0610485 -0.998135" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="600.29 -196.199 4.2351" local_rot="0 0 0.0610485 0.998135" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_b" name_id="wz_prop_crate_wood_b_038" position="7177.99 17341.5 14.2351" rotation="0 0 -0.0610485 -0.998135" unit_id="100497"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="7220.57 17548.1 25.7547" _prev_rot="0 0 -0.713251 -0.700909" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_a" name_id="wz_prop_crate_wood_a_040" position="7220.57 17548.1 25.7547" rotation="0 0 -0.713251 -0.700909" unit_id="100498"/>
+			<unit_data _prev_pos="7220.57 17548.1 17.864" _prev_rot="0 0 -0.713251 -0.700909" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="642.87 10.4004 7.864" local_rot="0 0 0.713251 0.700909" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_a" name_id="wz_prop_crate_wood_a_040" position="7220.57 17548.1 17.864" rotation="0 0 -0.713251 -0.700909" unit_id="100498"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="7218.04 17693.1 22.7547" _prev_rot="0.00622421 -0.00611651 -0.713223 -0.700882" continent="world" local_pos="640.345 155.389 4.86403" local_rot="-0.00622421 0.00611651 0.713223 0.700882" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_a" name_id="wz_prop_crate_wood_a_041" position="7218.04 17693.1 22.7547" rotation="0.00622421 -0.00611651 -0.713223 -0.700882" unit_id="100499"/>
+			<unit_data _prev_pos="7218.04 17693.1 14.864" _prev_rot="0.00622421 -0.00611651 -0.713223 -0.700882" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="640.34 155.4 4.864" local_rot="-0.00622421 0.00611651 0.713223 0.700882" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_a" name_id="wz_prop_crate_wood_a_041" position="7218.04 17693.1 14.864" rotation="0.00622421 -0.00611651 -0.713223 -0.700882" unit_id="100499"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="6988.83 17881 24.464" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_b" name_id="wz_prop_crate_wood_b_039" position="6988.83 17881 24.464" rotation="0 0 0 -1" unit_id="100500"/>
+			<unit_data _prev_pos="6988.83 17881 16.5733" _prev_rot="0 0 0 -1" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="411.13 343.301 6.5733" local_rot="-0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_b" name_id="wz_prop_crate_wood_b_039" position="6988.83 17881 16.5733" rotation="0 0 -0 -1" unit_id="100500"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="6702.21 16837.4 15.4386" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_a" name_id="wz_prop_crate_wood_a_042" position="6702.21 16837.4 15.4386" rotation="0 0 0 -1" unit_id="100501"/>
+			<unit_data _prev_pos="6702.21 16837.4 15.4386" _prev_rot="-0.0348995 0 0 -0.999391" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_a" name_id="wz_prop_crate_wood_a_042" position="6702.21 16837.7 11.4483" rotation="-0.0348995 0 0 -0.999391" unit_id="100501"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="6612.84 16452.9 16.6109" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_a" name_id="wz_prop_crate_wood_a_043" position="6612.84 16452.9 16.6109" rotation="0 0 0 -1" unit_id="100502"/>
+			<unit_data _prev_pos="6612.84 16452.9 16.6109" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_a" name_id="wz_prop_crate_wood_a_043" position="6612.84 16452.9 14.6109" rotation="0 0 0 -1" unit_id="100502"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="6081.24 17139.5 13.3707" _prev_rot="0 0 -0.743145 -0.669131" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_a" name_id="wz_prop_crate_wood_a_044" position="6102.33 17120.6 13.3707" rotation="0 0 -0.743145 -0.66913" unit_id="100503"/>
+			<unit_data _prev_pos="6102.33 17120.6 13.3707" _prev_rot="0 0 -0.743145 -0.66913" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_a" name_id="wz_prop_crate_wood_a_044" position="6102.33 17120.6 7.3707" rotation="0 0 -0.743145 -0.66913" unit_id="100503"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="7885.1 18000 0" _prev_rot="0 0 0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a_up025" name_id="wz_prop_compound_wall_4m_a_up025_001" position="7885.1 18000 0" rotation="0 0 0.707107 -0.707107" unit_id="100273"/>
@@ -1590,34 +1584,61 @@
 			<unit_data _prev_pos="9819.04 20867.5 15.6817" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/vegetation/wz_vegetation_bushes/wz_vegetation_bush_small/wz_vegetation_bush_small" name_id="wz_vegetation_bush_small_038" position="9819.04 20867.5 15.6817" rotation="0 0 0.5 -0.866025" unit_id="100515"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="7452.7 14212.7 17.8907" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_b" name_id="wz_prop_crate_wood_b_040" position="7377.7 14412.7 17.8907" rotation="0 0 0 -1" unit_id="100516"/>
+			<unit_data _prev_pos="7377.7 14412.7 17.8907" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_b" name_id="wz_prop_crate_wood_b_040" position="7377.7 14412.7 0.890699" rotation="0 0 0 -1" unit_id="100516"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="7505.55 14524.4 19.848" _prev_rot="0.0075952 -0.00429715 -0.507519 -0.861596" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_a" name_id="wz_prop_crate_wood_a_045" position="7499.74 14513.9 20.0293" rotation="0.0075952 -0.00429715 -0.507519 -0.861596" unit_id="100517"/>
+			<unit_data _prev_pos="7499.74 14513.9 20.0293" _prev_rot="0.0075952 -0.00429715 -0.507519 -0.861596" continent="world" local_pos="149.657 -10.4506 -0.000489473" local_rot="-1.86265e-009 -5.58794e-009 0.999391 0.0348993" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_a" name_id="wz_prop_crate_wood_a_045" position="7499.75 14513.5 -0.967501" rotation="0.0075952 -0.00429715 -0.507519 -0.861596" unit_id="100517"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="7572.46 14645.1 17.7622" _prev_rot="0.0045596 0.0074406 0.843359 -0.537279" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_a" name_id="wz_prop_crate_wood_a_046" position="7572.46 14645.1 17.7622" rotation="0.0045596 0.0074406 0.843359 -0.537279" unit_id="100518"/>
+			<unit_data _prev_pos="7572.46 14645.1 17.7622" _prev_rot="0.0045596 0.0074406 0.843359 -0.537279" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_a" name_id="wz_prop_crate_wood_a_046" position="7572.47 14644.7 -3.2346" rotation="0.0045596 0.0074406 0.843359 -0.537279" unit_id="100518"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="7572.46 14645.1 17.7622" _prev_rot="0.0045596 0.0074406 0.843359 -0.537279" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_a" name_id="wz_prop_crate_wood_a_047" position="7900.11 14933.6 12.8266" rotation="0.0045596 0.0074406 0.843359 -0.537279" unit_id="100519"/>
+			<unit_data _prev_pos="7900.11 14933.6 12.8266" _prev_rot="0.0045596 0.0074406 0.843359 -0.537279" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_a" name_id="wz_prop_crate_wood_a_047" position="7900.11 14933.5 5.82767" rotation="0.0045596 0.0074406 0.843359 -0.537279" unit_id="100519"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="8669.93 14477 11.5438" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_a" name_id="wz_prop_crate_wood_a_048" position="8669.93 14477 11.5438" rotation="0 0 -0.446198 -0.894934" unit_id="100520"/>
+			<unit_data _prev_pos="8669.93 14477 11.5438" _prev_rot="0 0 -0.446198 -0.894934" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_a" name_id="wz_prop_crate_wood_a_048" position="8669.93 14477 6.5438" rotation="0 0 -0.446198 -0.894934" unit_id="100520"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="8615.86 13813 5.97621" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_b" name_id="wz_prop_crate_wood_b_041" position="8615.86 13813 5.97621" rotation="0 0 0 -1" unit_id="100521"/>
+			<unit_data _prev_pos="8629.86 13813 -2.02379" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_b" name_id="wz_prop_crate_wood_b_041" position="8629.86 13813 -2.02379" rotation="0 -0.00872654 0 -0.999962" unit_id="100521"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="8838.28 14192 6.65126" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_b" name_id="wz_prop_crate_wood_b_042" position="8838.28 14192 6.65126" rotation="0 0 0.258819 -0.965926" unit_id="100522"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="7634 15063.9 2.78568" _prev_rot="0 0 0.182236 -0.983255" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_a" name_id="wz_prop_crate_wood_a_049" position="7644.77 15064 2.78568" rotation="0 0 0.182236 -0.983255" unit_id="100523"/>
+			<unit_data _prev_pos="7644.77 15064 2.78568" _prev_rot="0 0 0.182236 -0.983255" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_a" name_id="wz_prop_crate_wood_a_049" position="7644.77 15064 -9.21432" rotation="0 0 0.182236 -0.983255" unit_id="100523"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="1974.9 10821.5 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/vegetation/wz_vegetation_bush_large/wz_vegetation_bush_large_c" name_id="wz_vegetation_bush_large_c_007" position="1974.9 10821.5 0" rotation="0 0 0 -1" unit_id="100524"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="1878.58 10563.2 0" _prev_rot="0 0 -0.258819 -0.965926" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/vegetation/wz_vegetation_bush_large/wz_vegetation_bush_large_c" name_id="wz_vegetation_bush_large_c_013" position="1878.58 10563.2 0" rotation="0 0 -0.5 -0.866025" unit_id="100525"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="524.945 -385.643 25" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_c" name_id="wz_prop_crate_wood_c_001" position="524.945 -385.643 25" rotation="-0 0 -0 -1" unit_id="100526"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="524.945 -285.643 25" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_b" name_id="wz_prop_crate_wood_b_043" position="524.945 -285.643 25" rotation="0 0 0 -1" unit_id="100527"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="900 900 7" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/architecture/buildings/tents/props_field_tent/wz_props_field_tent_01" name_id="wz_props_field_tent_01_001" position="900 900 7" rotation="0 0 0 -1" unit_id="100529"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12085.1 16000 16" _prev_rot="0 0 0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/architecture/buildings/tents/props_field_tent/wz_props_field_tent_01" name_id="wz_props_field_tent_01_002" position="12085.1 16000 12" rotation="0 0 0.707107 -0.707107" unit_id="100156"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="610.433 912.612 8.11314" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_a" name_id="wz_prop_crate_wood_a_050" position="610.433 1112.61 8.11314" rotation="0 0 0 -1" unit_id="100530"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1173.03 1209.08 7.81551" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_a" name_id="wz_prop_crate_wood_a_052" position="1173.03 1209.08 7.81551" rotation="0 0 -1 4.37114e-008" unit_id="100532"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="872.15 905.21 8.213" _prev_rot="0 0 0 -1" continent="world" editable_gui="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_b" name_id="wz_prop_crate_wood_b_044" position="763.15 1196.21 8.213" rotation="0 0 0 -1" unit_id="100531"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="610.433 1198.61 8.11314" _prev_rot="0 0 0.999848 -0.0174525" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_a" name_id="wz_prop_crate_wood_a_053" position="610.258 1203.61 8.11314" rotation="0 0 0.999848 -0.0174525" unit_id="100528"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1212.03 1087.08 7.81551" _prev_rot="0 0 -0.694658 -0.71934" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_a" name_id="wz_prop_crate_wood_a_054" position="1212.1 1089.08 7.81551" rotation="0 0 -0.694658 -0.71934" unit_id="100533"/>
 		</table>
 	</statics>
 	<values>

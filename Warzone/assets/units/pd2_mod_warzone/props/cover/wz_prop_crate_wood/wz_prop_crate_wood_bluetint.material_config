@@ -1,0 +1,10 @@
+<materials version="3">
+    <material name="shadow_caster" render_template="shadow_caster_only" version="2"/>
+    <material name="mat_gen_prop_crate_wood" version="2" render_template="generic:BLUE_MASK_TINT:CUBE_ENVIRONMENT_MAPPING:DIFFUSE_TEXTURE:NORMALMAP:RL_BIGPROPS">
+        <diffuse_texture		file="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/gen_prop_crate_mask_df"/>
+        <bump_normal_texture	file="units/payday2/props/gen_prop_crate_wood/gen_prop_crate_wood_nm"/>
+        <variable				value="0.5 0.7 0.5" type="vector3" name="tint_color"/>
+        <reflection_texture		type="cubemap" global_texture="current_global_texture"/>
+        <variable				value="2.2999999523163 0.10000000149012 4.5999999046326" type="vector3" name="environment_settings"/>
+    </material>
+</materials>

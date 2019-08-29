@@ -6,6 +6,6 @@
 		launch_speed = 28000,
 		adjust_z = 0,
 		mass_look_up_modifier = 1,
-		push_at_body_index = ,
+		push_at_body_index = 0,
 		remove_on_impact = true
 	}

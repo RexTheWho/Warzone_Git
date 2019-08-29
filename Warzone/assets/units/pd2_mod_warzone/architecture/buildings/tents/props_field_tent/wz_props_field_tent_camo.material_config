@@ -6,6 +6,6 @@
     </material>
     <material name="mtl_mul" render_template="effect:BLEND_MUL:DIFFUSE0_TEXTURE" version="2">
         <diffuse_texture file="units/payday2/weapons/wpn_effects_textures/shadow_mullplan_df"/>
-        <variable value="sun" type="scalar" name="intensity"/>
+        <variable value="candle" type="scalar" name="intensity"/>
     </material>
 </materials>
