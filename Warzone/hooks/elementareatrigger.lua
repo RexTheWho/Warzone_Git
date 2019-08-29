@@ -131,6 +131,15 @@ Hooks:PostHook(ElementAreaTrigger,"init","raidday2_areatrigger_init",function(se
 				function filter_func(carry_data)
 					local carry_id = carry_data:carry_id()
 					local carry_list = {
+						"wz_resource_rations_light",
+						"wz_resource_rations_medium",
+						"wz_resource_rations_slightly_heavy",
+						"wz_resource_munitions_light",
+						"wz_resource_munitions_medium",
+						"wz_resource_munitions_slightly_heavy",
+						"wz_resource_scrap_light",
+						"wz_resource_scrap_medium",
+						"wz_resource_scrap_slightly_heavy",
 						"wz_weapons_modern_large",
 						"wz_weapons_modern_medium",
 						"wz_weapons_modern_small",

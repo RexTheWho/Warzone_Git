@@ -1,0 +1,13 @@
+<dynamic_object>
+    <diesel orientation_object="rp_ai_attention_obj" materials="units/dev_tools/level_tools/ai_attention_object/ai_attention_object" />
+	<bodies>
+		<body name="raycol_body" enabled="true" template="raycoll_static" add_ray_type="ai_vision">
+			<object name="rp_ai_attention_obj"/>
+			<object name="c_sphere" collision_type="sphere" />
+		</body>
+	</bodies>
+	
+	<graphics>
+		<object name="g_gg" enabled="true" />
+	</graphics>
+</dynamic_object>

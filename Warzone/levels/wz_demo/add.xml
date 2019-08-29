@@ -1,0 +1,317 @@
+<table directory="assets">
+	<add unload_on_restart="true">
+		<material_config	path="units/pd2_mod_warzone/terrain/wz_terrain"/>
+		<texture			path="units/pd2_mod_warzone/terrain/textures/wz_terrain_rock_solid_df"/>
+		<texture			path="units/pd2_mod_warzone/terrain/textures/wz_terrain_rock_solid_nm"/>
+		<texture			path="units/pd2_mod_warzone/terrain/textures/wz_terrain_rock_solid_gsma"/>
+		
+		<unit				path="units/pd2_mod_warzone/terrain/wz_terrain_test_supersize"/>
+		<object				path="units/pd2_mod_warzone/terrain/wz_terrain_test_supersize"/>
+		<model				path="units/pd2_mod_warzone/terrain/wz_terrain_test_supersize"/>
+		<unit				path="units/pd2_mod_warzone/terrain/wz_terrain_island_mega"/>
+		<object				path="units/pd2_mod_warzone/terrain/wz_terrain_island_mega"/>
+		<model				path="units/pd2_mod_warzone/terrain/wz_terrain_island_mega"/>
+		
+		<unit				path="units/pd2_mod_warzone/terrain/wz_terrain_flat_128m"/>
+		<object				path="units/pd2_mod_warzone/terrain/wz_terrain_flat_128m"/>
+		<model				path="units/pd2_mod_warzone/terrain/wz_terrain_flat_128m"/>
+		<unit				path="units/pd2_mod_warzone/terrain/wz_terrain_flat_128m_hole"/>
+		<object				path="units/pd2_mod_warzone/terrain/wz_terrain_flat_128m_hole"/>
+		<model				path="units/pd2_mod_warzone/terrain/wz_terrain_flat_128m_hole"/>
+		<unit				path="units/pd2_mod_warzone/terrain/wz_terrain_flat_256m"/>
+		<object				path="units/pd2_mod_warzone/terrain/wz_terrain_flat_256m"/>
+		<model				path="units/pd2_mod_warzone/terrain/wz_terrain_flat_256m"/>
+		
+		<!--PROPS-->
+		<material_config	path="units/pd2_mod_warzone/props/wz_prop_compound_wall"/>
+		<unit				path="units/pd2_mod_warzone/props/wz_prop_compound_wall_2m_a"/>
+		<object				path="units/pd2_mod_warzone/props/wz_prop_compound_wall_2m_a"/>
+		<model				path="units/pd2_mod_warzone/props/wz_prop_compound_wall_2m_a"/>
+		<unit				path="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a"/>
+		<object				path="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a"/>
+		<model				path="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a"/>
+		<unit				path="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a_single"/>
+		<object				path="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a_single"/>
+		<model				path="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a_single"/>
+		<unit				path="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a_up025"/>
+		<object				path="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a_up025"/>
+		<model				path="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a_up025"/>
+		<unit				path="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a_dwn025"/>
+		<object				path="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a_dwn025"/>
+		<model				path="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a_dwn025"/>
+		<unit				path="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_b"/>
+		<object				path="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_b"/>
+		<model				path="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_b"/>
+		<unit				path="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_c"/>
+		<object				path="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_c"/>
+		<model				path="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_c"/>
+		
+		<material_config	path="units/pd2_mod_warzone/props/cover/wz_prop_barrier"/>
+		<unit				path="units/pd2_mod_warzone/props/cover/wz_prop_barrier_reinforced_2m_a"/>
+		<object				path="units/pd2_mod_warzone/props/cover/wz_prop_barrier_reinforced_2m_a"/>
+		<model				path="units/pd2_mod_warzone/props/cover/wz_prop_barrier_reinforced_2m_a"/>
+		
+		<material_config	path="units/pd2_mod_warzone/props/fences/wz_prop_heavy_wall"/>
+		<unit				path="units/pd2_mod_warzone/props/fences/wz_prop_heavy_wall_4m_a"/>
+		<object				path="units/pd2_mod_warzone/props/fences/wz_prop_heavy_wall_4m_a"/>
+		<model				path="units/pd2_mod_warzone/props/fences/wz_prop_heavy_wall_4m_a"/>
+		<unit				path="units/pd2_mod_warzone/props/fences/wz_prop_heavy_wall_4m_a_platform"/>
+		<object				path="units/pd2_mod_warzone/props/fences/wz_prop_heavy_wall_4m_a_platform"/>
+		<model				path="units/pd2_mod_warzone/props/fences/wz_prop_heavy_wall_4m_a_platform"/>
+		<unit				path="units/pd2_mod_warzone/props/fences/wz_prop_heavy_wall_4m_b"/>
+		<object				path="units/pd2_mod_warzone/props/fences/wz_prop_heavy_wall_4m_b"/>
+		<model				path="units/pd2_mod_warzone/props/fences/wz_prop_heavy_wall_4m_b"/>
+		<unit				path="units/pd2_mod_warzone/props/fences/wz_prop_heavy_wall_corner_a"/>
+		<object				path="units/pd2_mod_warzone/props/fences/wz_prop_heavy_wall_corner_a"/>
+		<model				path="units/pd2_mod_warzone/props/fences/wz_prop_heavy_wall_corner_a"/>
+		
+		<material_config	path="units/pd2_mod_warzone/props/rocks/wz_terrain"/>
+		<unit				path="units/pd2_mod_warzone/props/rocks/wz_terrain_rock_flat"/>
+		<object				path="units/pd2_mod_warzone/props/rocks/wz_terrain_rock_flat"/>
+		<model				path="units/pd2_mod_warzone/props/rocks/wz_terrain_rock_flat"/>
+		<unit				path="units/pd2_mod_warzone/props/rocks/wz_terrain_rock_cliff_8x16x4m"/>
+		<object				path="units/pd2_mod_warzone/props/rocks/wz_terrain_rock_cliff_8x16x4m"/>
+		<model				path="units/pd2_mod_warzone/props/rocks/wz_terrain_rock_cliff_8x16x4m"/>
+		<unit				path="units/pd2_mod_warzone/props/rocks/wz_terrain_rock_cliff_16x32x8m"/>
+		<object				path="units/pd2_mod_warzone/props/rocks/wz_terrain_rock_cliff_16x32x8m"/>
+		<model				path="units/pd2_mod_warzone/props/rocks/wz_terrain_rock_cliff_16x32x8m"/>
+		<unit				path="units/pd2_mod_warzone/props/rocks/wz_terrain_rock_cliff_16x32x12m"/>
+		<object				path="units/pd2_mod_warzone/props/rocks/wz_terrain_rock_cliff_16x32x12m"/>
+		<model				path="units/pd2_mod_warzone/props/rocks/wz_terrain_rock_cliff_16x32x12m"/>
+		<unit				path="units/pd2_mod_warzone/props/rocks/wz_terrain_rock_cliff_hexwall"/>
+		<object				path="units/pd2_mod_warzone/props/rocks/wz_terrain_rock_cliff_hexwall"/>
+		<model				path="units/pd2_mod_warzone/props/rocks/wz_terrain_rock_cliff_hexwall"/>
+		<unit				path="units/pd2_mod_warzone/props/rocks/wz_terrain_rock_cliff_hex_outer_connector"/>
+		<object				path="units/pd2_mod_warzone/props/rocks/wz_terrain_rock_cliff_hex_outer_connector"/>
+		<model				path="units/pd2_mod_warzone/props/rocks/wz_terrain_rock_cliff_hex_outer_connector"/>
+		
+		<material_config	path="units/pd2_mod_warzone/markers/wz_marker"/>
+		<texture			path="units/pd2_mod_warzone/markers/marker_gradient_black"/>
+		<unit				path="units/pd2_mod_warzone/markers/wz_marker_attack"/>
+		<object				path="units/pd2_mod_warzone/markers/wz_marker_attack"/>
+		<model				path="units/pd2_mod_warzone/markers/wz_marker_attack"/>
+		
+		<material_config	path="units/pd2_mod_warzone/architecture/underground/wz_bunker_materials"/>
+		<unit				path="units/pd2_mod_warzone/architecture/underground/wz_bunker_test"/>
+		<object				path="units/pd2_mod_warzone/architecture/underground/wz_bunker_test"/>
+		<model				path="units/pd2_mod_warzone/architecture/underground/wz_bunker_test"/>
+		
+		<material_config	path="units/pd2_mod_warzone/architecture/buildings/wz_compound_0x_0y_small"/>
+		<unit				path="units/pd2_mod_warzone/architecture/buildings/wz_compound_0x_0y_small"/>
+		<object				path="units/pd2_mod_warzone/architecture/buildings/wz_compound_0x_0y_small"/>
+		<model				path="units/pd2_mod_warzone/architecture/buildings/wz_compound_0x_0y_small"/>
+		
+		<material_config	path="units/pd2_mod_warzone/architecture/buildings/wz_bld_construction001"/>
+		<unit				path="units/pd2_mod_warzone/architecture/buildings/wz_bld_construction001"/>
+		<object				path="units/pd2_mod_warzone/architecture/buildings/wz_bld_construction001"/>
+		<model				path="units/pd2_mod_warzone/architecture/buildings/wz_bld_construction001"/>
+		
+		<material_config	path="units/pd2_mod_warzone/vegetation/wz_vegetation_bush_large/wz_vegetation_bush_large"/>
+		<material_config	path="units/pd2_mod_warzone/vegetation/wz_vegetation_bush_large/wz_vegetation_bush_large_shake"/>
+		<sequence_manager	path="units/pd2_mod_warzone/vegetation/wz_vegetation_bush_large/wz_vegetation_bush_large"/>
+		<unit				path="units/pd2_mod_warzone/vegetation/wz_vegetation_bush_large/wz_vegetation_bush_large_a"/>
+		<object				path="units/pd2_mod_warzone/vegetation/wz_vegetation_bush_large/wz_vegetation_bush_large_a"/>
+		<model				path="units/pd2_mod_warzone/vegetation/wz_vegetation_bush_large/wz_vegetation_bush_large_a"/>
+		<unit				path="units/pd2_mod_warzone/vegetation/wz_vegetation_bush_large/wz_vegetation_bush_large_b"/>
+		<object				path="units/pd2_mod_warzone/vegetation/wz_vegetation_bush_large/wz_vegetation_bush_large_b"/>
+		<model				path="units/pd2_mod_warzone/vegetation/wz_vegetation_bush_large/wz_vegetation_bush_large_b"/>
+		<unit				path="units/pd2_mod_warzone/vegetation/wz_vegetation_bush_large/wz_vegetation_bush_large_c"/>
+		<object				path="units/pd2_mod_warzone/vegetation/wz_vegetation_bush_large/wz_vegetation_bush_large_c"/>
+		<model				path="units/pd2_mod_warzone/vegetation/wz_vegetation_bush_large/wz_vegetation_bush_large_c"/>
+		<unit				path="units/pd2_mod_warzone/vegetation/wz_vegetation_bushes/wz_vegetation_bush_small/wz_vegetation_bush_small"/>
+		<object				path="units/pd2_mod_warzone/vegetation/wz_vegetation_bushes/wz_vegetation_bush_small/wz_vegetation_bush_small"/>
+		<model				path="units/pd2_mod_warzone/vegetation/wz_vegetation_bushes/wz_vegetation_bush_small/wz_vegetation_bush_small"/>
+		<material_config	path="units/pd2_mod_warzone/vegetation/wz_vegetation_bushes/wz_vegetation_bush_small/wz_vegetation_bush_small"/>
+		
+		<material_config	path="units/pd2_mod_warzone/vehicles/wz_vehicle_attack_jet/wz_vehicle_attack_jet"/>
+		<sequence_manager	path="units/pd2_mod_warzone/vehicles/wz_vehicle_attack_jet/wz_vehicle_attack_jet"/>
+		<unit				path="units/pd2_mod_warzone/vehicles/wz_vehicle_attack_jet/wz_vehicle_attack_jet"/>
+		<object				path="units/pd2_mod_warzone/vehicles/wz_vehicle_attack_jet/wz_vehicle_attack_jet"/>
+		<model				path="units/pd2_mod_warzone/vehicles/wz_vehicle_attack_jet/wz_vehicle_attack_jet"/>
+		<material_config	path="units/pd2_mod_warzone/vehicles/wz_vehicle_goat/wz_vehicle_goat"/>
+		<sequence_manager	path="units/pd2_mod_warzone/vehicles/wz_vehicle_goat/wz_vehicle_goat"/>
+		<unit				path="units/pd2_mod_warzone/vehicles/wz_vehicle_goat/wz_vehicle_goat"/>
+		<object				path="units/pd2_mod_warzone/vehicles/wz_vehicle_goat/wz_vehicle_goat"/>
+		<model				path="units/pd2_mod_warzone/vehicles/wz_vehicle_goat/wz_vehicle_goat"/>
+		<bnk				path="soundbanks/regular_car_sfx"	unload="true" force="true"/>
+		<bnk				path="soundbanks/car_muscle"		unload="true" force="true"/>
+		<bnk				path="soundbanks/regular_sfx"		unload="true" force="true"/>
+		<material_config	path="units/pd2_mod_warzone/vehicles/wz_vehicle_muscle_car/wz_vehicle_muscle_car"/>
+		<sequence_manager	path="units/pd2_mod_warzone/vehicles/wz_vehicle_muscle_car/wz_vehicle_muscle_car"/>
+		<unit				path="units/pd2_mod_warzone/vehicles/wz_vehicle_muscle_car/wz_vehicle_muscle_car"/>
+		<object				path="units/pd2_mod_warzone/vehicles/wz_vehicle_muscle_car/wz_vehicle_muscle_car"/>
+		<model				path="units/pd2_mod_warzone/vehicles/wz_vehicle_muscle_car/wz_vehicle_muscle_car"/>
+		<texture			path="units/pd2_mod_warzone/vehicles/wz_vehicle_muscle_car/tex/fps_vehicle_muscle_1_ext_cc"/>
+		<texture			path="units/pd2_mod_warzone/vehicles/wz_vehicle_muscle_car/tex/fps_vehicle_muscle_1_hood_cc"/>
+		<texture			path="units/pd2_mod_warzone/vehicles/wz_vehicle_muscle_car/tex/wz_vehicle_yellow_stripes_hood_df"/>
+		<texture			path="units/pd2_mod_warzone/vehicles/wz_vehicle_muscle_car/tex/wz_vehicle_yellow_stripes_df"/>
+		<texture			path="units/pd2_mod_warzone/vehicles/wz_vehicle_muscle_car/tex/wz_base_gradient_temp"/>
+		
+		<sequence_manager	path="units/pd2_mod_warzone/pickups/gen_pku_wz_weapons/gen_pku_wz_weapons"/>
+		<material_config	path="units/pd2_mod_warzone/pickups/gen_pku_wz_weapons/gen_pku_wz_weapons_modern"/>
+		<material_config	path="units/pd2_mod_warzone/pickups/gen_pku_wz_weapons/gen_pku_wz_weapons_old"/>
+		<unit				path="units/pd2_mod_warzone/pickups/gen_pku_wz_weapons/gen_pku_wz_weapons_small_modern"/>
+		<object				path="units/pd2_mod_warzone/pickups/gen_pku_wz_weapons/gen_pku_wz_weapons_small_modern"/>
+		<model				path="units/pd2_mod_warzone/pickups/gen_pku_wz_weapons/gen_pku_wz_weapons_small_modern"/>
+		<unit				path="units/pd2_mod_warzone/pickups/gen_pku_wz_weapons/gen_pku_wz_weapons_medium_modern"/>
+		<object				path="units/pd2_mod_warzone/pickups/gen_pku_wz_weapons/gen_pku_wz_weapons_medium_modern"/>
+		<model				path="units/pd2_mod_warzone/pickups/gen_pku_wz_weapons/gen_pku_wz_weapons_medium_modern"/>
+		<unit				path="units/pd2_mod_warzone/pickups/gen_pku_wz_weapons/gen_pku_wz_weapons_large_modern"/>
+		<object				path="units/pd2_mod_warzone/pickups/gen_pku_wz_weapons/gen_pku_wz_weapons_large_modern"/>
+		<model				path="units/pd2_mod_warzone/pickups/gen_pku_wz_weapons/gen_pku_wz_weapons_large_modern"/>
+		<unit				path="units/pd2_mod_warzone/pickups/gen_pku_wz_weapons/gen_pku_wz_weapons_medium_old"/>
+		<object				path="units/pd2_mod_warzone/pickups/gen_pku_wz_weapons/gen_pku_wz_weapons_medium_old"/>
+		<model				path="units/pd2_mod_warzone/pickups/gen_pku_wz_weapons/gen_pku_wz_weapons_medium_old"/>
+		
+		<material_config	path="units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_fake_prop"/>
+		<unit				path="units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_fake_prop"/>
+		<object				path="units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_fake_prop"/>
+		<model				path="units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_fake_prop"/>
+		
+		<sequence_manager	path="units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies"/>
+		<material_config	path="units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_munitions"/>
+		<unit				path="units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_munitions_medium"/>
+		<object				path="units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_munitions_medium"/>
+		<model				path="units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_munitions_medium"/>
+		<unit				path="units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_munitions_medium_static"/>
+		<object				path="units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_munitions_medium_static"/>
+		<model				path="units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_munitions_medium_static"/>
+		<material_config	path="units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_rations"/>
+		<unit				path="units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_rations_medium"/>
+		<object				path="units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_rations_medium"/>
+		<model				path="units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_rations_medium"/>
+		<unit				path="units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_rations_medium_static"/>
+		<object				path="units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_rations_medium_static"/>
+		<model				path="units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_rations_medium_static"/>
+		<material_config	path="units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_materials"/>
+		<unit				path="units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_materials_medium"/>
+		<object				path="units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_materials_medium"/>
+		<model				path="units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_materials_medium"/>
+		<unit				path="units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_materials_medium_static"/>
+		<object				path="units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_materials_medium_static"/>
+		<model				path="units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_materials_medium_static"/>
+		
+		<material_config	path="units/pd2_mod_warzone/pickups/gen_pku_wz_satchelbomb/gen_pku_wz_satchelbomb"/>
+		<sequence_manager	path="units/pd2_mod_warzone/pickups/gen_pku_wz_satchelbomb/gen_pku_wz_satchelbomb"/>
+		<unit				path="units/pd2_mod_warzone/pickups/gen_pku_wz_satchelbomb/gen_pku_wz_satchelbomb"/>
+		<object				path="units/pd2_mod_warzone/pickups/gen_pku_wz_satchelbomb/gen_pku_wz_satchelbomb"/>
+		<model				path="units/pd2_mod_warzone/pickups/gen_pku_wz_satchelbomb/gen_pku_wz_satchelbomb"/>
+		<texture			path="units/pd2_mod_warzone/pickups/gen_pku_wz_satchelbomb/gen_pku_wz_satchelbomb_df"/>
+		
+		<bnk				path="soundbanks/zipline"	unload="true" force="true"/>
+		<unit				path="units/pd2_mod_warzone/equipment/wz_equipment_zipline/wz_equipment_zipline_motor"/>
+		<object				path="units/pd2_mod_warzone/equipment/wz_equipment_zipline/wz_equipment_zipline_motor"/>
+		<model				path="units/pd2_mod_warzone/equipment/wz_equipment_zipline/wz_equipment_zipline_motor"/>
+		<material_config	path="units/pd2_mod_warzone/equipment/wz_equipment_zipline/wz_equipment_zipline_motor"/>
+		<sequence_manager	path="units/pd2_mod_warzone/equipment/wz_equipment_zipline/wz_equipment_zipline_motor"/>
+		
+		<!--Props-->
+		<material_config	path="units/pd2_mod_warzone/architecture/buildings/tents/props_field_tent/props_field_tent_01"/>
+		<texture			path="units/pd2_mod_warzone/architecture/buildings/tents/props_field_tent/props_field_tent_01_df"/>
+		<texture			path="units/pd2_mod_warzone/architecture/buildings/tents/props_field_tent/props_field_tent_01_nm"/>
+		<unit				path="units/pd2_mod_warzone/architecture/buildings/tents/props_field_tent/props_field_tent_01"/>
+		<object				path="units/pd2_mod_warzone/architecture/buildings/tents/props_field_tent/props_field_tent_01"/>
+		<model				path="units/pd2_mod_warzone/architecture/buildings/tents/props_field_tent/props_field_tent_01"/>
+		<unit				path="units/pd2_mod_warzone/architecture/buildings/tents/props_field_tent/props_field_tent_02"/>
+		<object				path="units/pd2_mod_warzone/architecture/buildings/tents/props_field_tent/props_field_tent_02"/>
+		<model				path="units/pd2_mod_warzone/architecture/buildings/tents/props_field_tent/props_field_tent_02"/>
+		
+		<unit				path="units/pd2_mod_warzone/architecture/radio_towers/wz_radio_tower"/>
+		<object				path="units/pd2_mod_warzone/architecture/radio_towers/wz_radio_tower"/>
+		<model				path="units/pd2_mod_warzone/architecture/radio_towers/wz_radio_tower"/>
+		<material_config	path="units/pd2_mod_warzone/architecture/radio_towers/wz_radio_tower"/>
+		<texture			path="units/pd2_mod_warzone/architecture/radio_towers/wz_radio_tower_df"/>
+		<texture			path="units/pd2_mod_warzone/architecture/radio_towers/wz_radio_tower_nm"/>
+		
+		<material_config	path="units/pd2_mod_warzone/props/telegraph_poles/wz_prop_telegraph_pole"/>
+		<texture			path="units/pd2_mod_warzone/props/telegraph_poles/wz_prop_telegraph_pole_df"/>
+		<texture			path="units/pd2_mod_warzone/props/telegraph_poles/wz_prop_telegraph_pole_gsma"/>
+		<texture			path="units/pd2_mod_warzone/props/telegraph_poles/wz_prop_telegraph_pole_nm"/>
+		<unit				path="units/pd2_mod_warzone/props/telegraph_poles/wz_prop_telegraph_pole_01"/>
+		<object				path="units/pd2_mod_warzone/props/telegraph_poles/wz_prop_telegraph_pole_01"/>
+		<model				path="units/pd2_mod_warzone/props/telegraph_poles/wz_prop_telegraph_pole_01"/>
+		<unit				path="units/pd2_mod_warzone/props/telegraph_poles/wz_prop_telegraph_pole_02"/>
+		<object				path="units/pd2_mod_warzone/props/telegraph_poles/wz_prop_telegraph_pole_02"/>
+		<model				path="units/pd2_mod_warzone/props/telegraph_poles/wz_prop_telegraph_pole_02"/>
+		
+		<material_config	path="units/pd2_mod_warzone/vehicles/wz_vehicle_m35_truck/wz_vehicle_m35_truck"/>
+		<unit				path="units/pd2_mod_warzone/vehicles/wz_vehicle_m35_truck/wz_vehicle_m35_truck"/>
+		<object				path="units/pd2_mod_warzone/vehicles/wz_vehicle_m35_truck/wz_vehicle_m35_truck"/>
+		<model				path="units/pd2_mod_warzone/vehicles/wz_vehicle_m35_truck/wz_vehicle_m35_truck"/>
+		<unit				path="units/pd2_mod_warzone/vehicles/wz_vehicle_m35_truck/wz_vehicle_m35_truck_no_cover"/>
+		<object				path="units/pd2_mod_warzone/vehicles/wz_vehicle_m35_truck/wz_vehicle_m35_truck_no_cover"/>
+		<model				path="units/pd2_mod_warzone/vehicles/wz_vehicle_m35_truck/wz_vehicle_m35_truck_no_cover"/>
+		
+		<material_config	path="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood"/>
+		<unit				path="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_a"/>
+		<object				path="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_a"/>
+		<model				path="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_a"/>
+		<unit				path="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_b"/>
+		<object				path="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_b"/>
+		<model				path="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_b"/>
+		
+		<!--Characters-->
+		<unit				path="units/pd2_mod_warzone/characters/team_zeal_tazer/team_zeal_tazer"/>
+		<unit				path="units/pd2_mod_warzone/characters/team_zeal_tazer/team_zeal_tazer_husk"/>
+		<object				path="units/pd2_mod_warzone/characters/team_zeal_tazer/team_zeal_tazer"/>
+		<model				path="units/pd2_mod_warzone/characters/team_zeal_tazer/team_zeal_tazer"/>
+		<material_config	path="units/pd2_mod_warzone/characters/team_zeal_tazer/team_zeal_tazer"/>
+		<material_config	path="units/pd2_mod_warzone/characters/team_zeal_tazer/team_zeal_tazer_contour"/>
+		<unit				path="units/pd2_mod_warzone/characters/ene_terror_light_ak47/ene_terror_light_ak47"/>
+		<unit				path="units/pd2_mod_warzone/characters/ene_terror_light_ak47/ene_terror_light_ak47_husk"/>
+		<object				path="units/pd2_mod_warzone/characters/ene_terror_light_ak47/ene_terror_light_ak47"/>
+		<model				path="units/pd2_mod_warzone/characters/ene_terror_light_ak47/ene_terror_light_ak47"/>
+		<material_config	path="units/pd2_mod_warzone/characters/ene_terror_light_ak47/ene_terror_light_ak47"/>
+		<material_config	path="units/pd2_mod_warzone/characters/ene_terror_light_ak47/ene_terror_light_ak47_contour"/>
+		<texture			path="units/pd2_mod_warzone/characters/shared_textures/ene_terror_light_df"/>
+		
+		<!--Equipments-->
+		<unit				path="units/pd2_mod_warzone/equipment/gen_equipment_landmine/gen_equipment_landmine"/>
+		<unit				path="units/pd2_mod_warzone/equipment/gen_equipment_landmine/gen_equipment_landmine_dummy"/>
+		<object				path="units/pd2_mod_warzone/equipment/gen_equipment_landmine/gen_equipment_landmine"/>
+		<model				path="units/pd2_mod_warzone/equipment/gen_equipment_landmine/gen_equipment_landmine"/>
+		<material_config	path="units/pd2_mod_warzone/equipment/gen_equipment_landmine/gen_equipment_landmine"/>
+		<sequence_manager	path="units/pd2_mod_warzone/equipment/gen_equipment_landmine/gen_equipment_landmine"/>
+		<texture			path="units/pd2_mod_warzone/equipment/gen_equipment_landmine/gen_equipment_landmine_df"/>
+		<texture			path="units/pd2_mod_warzone/equipment/gen_equipment_landmine/gen_equipment_landmine_nm"/>
+		<unit				path="units/pd2_mod_warzone/equipment/wz_equipment_shapedcharge/wz_equipment_shapedcharge"/>
+		<unit				path="units/pd2_mod_warzone/equipment/wz_equipment_shapedcharge/wz_equipment_shapedcharge_dummy"/>
+		<object				path="units/pd2_mod_warzone/equipment/wz_equipment_shapedcharge/wz_equipment_shapedcharge"/>
+		<model				path="units/pd2_mod_warzone/equipment/wz_equipment_shapedcharge/wz_equipment_shapedcharge"/>
+		<material_config	path="units/pd2_mod_warzone/equipment/wz_equipment_shapedcharge/wz_equipment_shapedcharge"/>
+		<sequence_manager	path="units/pd2_mod_warzone/equipment/wz_equipment_shapedcharge/wz_equipment_shapedcharge"/>
+		
+		<!--Weapon Thanatos-->
+		<unit				path="units/pd2_mod_warzone/weapons/wpn_fps_snp_m95/wpn_fps_snp_m95"/>
+		<unit				path="units/pd2_mod_warzone/weapons/wpn_fps_snp_m95/wpn_fps_snp_m95_npc"/>
+		<object				path="units/pd2_mod_warzone/weapons/wpn_fps_snp_m95/wpn_fps_snp_m95"/>
+		<model				path="units/pd2_mod_warzone/weapons/wpn_fps_snp_m95/wpn_fps_snp_m95"/>
+		
+		<!--Ammo Bulletdrop 50cal-->
+		<unit				path="units/pd2_mod_warzone/weapons/wz_prj_50cal/wz_prj_50cal"/>
+		<unit				path="units/pd2_mod_warzone/weapons/wz_prj_50cal/wz_prj_50cal_local"/>
+		<object				path="units/pd2_mod_warzone/weapons/wz_prj_50cal/wz_prj_50cal"/>
+		<model				path="units/pd2_mod_warzone/weapons/wz_prj_50cal/wz_prj_50cal"/>
+		<material_config	path="units/pd2_mod_warzone/weapons/wz_prj_50cal/wz_prj_50cal"/>
+		<cooked_physics		path="units/pd2_mod_warzone/weapons/wz_prj_50cal/wz_prj_50cal"/>
+		
+		
+		<unit				path="units/pd2_mod_warzone/dev_units/level_tools/nav_hex_splitter/nav_hex_splitter"/>
+		<object				path="units/pd2_mod_warzone/dev_units/level_tools/nav_hex_splitter/nav_hex_splitter"/>
+		<model				path="units/pd2_mod_warzone/dev_units/level_tools/nav_hex_splitter/nav_hex_splitter"/>
+	</add>
+	<add>
+		<material_config	path="core/material_configs/hub_elements"/>
+		<unit				path="units/dev_tools/level_tools/dev_vehicle_only_collision/dev_vehicle_only_collision_8x3m"/>
+		<object				path="units/dev_tools/level_tools/dev_vehicle_only_collision/dev_vehicle_only_collision_8x3m"/>
+		<model				path="units/dev_tools/level_tools/dev_vehicle_only_collision/dev_vehicle_only_collision_8x3m"/>
+		<unit				path="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_8x3m"/>
+		<object				path="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_8x3m"/>
+		<model				path="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_8x3m"/>
+	</add>
+	<add path="core/units/light_omni/light_omni" type="unit">
+		<unit force="true" path="core/units/light_omni/light_omni" unload="true"/>
+		<object force="true" path="core/units/light_omni/light_omni" unload="true"/>
+		<material_config force="true" path="core/material_configs/hub_elements" unload="true"/>
+	</add>
+</table>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<unit type="dev" slot="38">
+	<object file="units/dev_tools/level_tools/ai_attention_object/ai_attention_object" />
+	
+	<extensions>
+		<extension class="ScriptUnitData" name="unit_data" >
+			<var name="only_visible_in_editor" value="true" />
+		</extension>
+		<extension class="UnitBase" name="base" />
+		<extension class="AIAttentionObject" name="attention" />
+	</extensions>
+	
+	<network sync="spawn" remote_unit="units/dev_tools/level_tools/ai_attention_object/ai_attention_object"/>
+</unit>

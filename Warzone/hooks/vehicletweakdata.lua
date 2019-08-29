@@ -108,14 +108,14 @@ function VehicleTweakData:_init_data_wz_muscle()
 		},
 		trunk_point = "trunk",
 		damage = {
-			max_health = 25000
+			max_health = 20000
 		},
-		max_speed = 160,
-		max_rpm = 8000,
+		max_speed = 150,
+		max_rpm = 6000,
 		loot_drop_point = "v_repair_engine",
-		max_loot_bags = 4,
+		max_loot_bags = 32,
 		interact_distance = 350,
 		driver_camera_offset = Vector3(0, 0.2, 2.5),
-		fov = 75
+		fov = 80
 	}
 end

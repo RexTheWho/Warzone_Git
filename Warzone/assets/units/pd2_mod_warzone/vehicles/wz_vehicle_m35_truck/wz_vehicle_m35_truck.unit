@@ -4,10 +4,5 @@
 	<network sync="spawn"/>
 	<extensions>
 		<extension name="unit_data" class="ScriptUnitData" />
-		<extension name="damage" class="UnitDamage" />
-		<extension name="interaction" class="UseInteractionExt">
-			<var name="tweak_data" value="set_off_alarm" />
-			<var name="_interact_object" value="interact"/>
-		</extension>
 	</extensions>
 </unit>

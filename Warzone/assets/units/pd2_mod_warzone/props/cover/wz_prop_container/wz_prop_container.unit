@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<unit type="wz" slot="1">
+	<network sync="spawn"/>
+	<object file="units/pd2_mod_warzone/props/cover/wz_prop_container/wz_prop_container" />
+	<extensions>
+		<extension name="unit_data" class="ScriptUnitData" />
+		<extension name="damage" class="UnitDamage" />
+		<extension name="sync_unit_data" class="SyncUnitData" />
+	</extensions>
+</unit>

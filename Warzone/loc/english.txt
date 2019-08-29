@@ -1,4 +1,9 @@
 {
+	"contractor_warzone_name":	"Warzone",
+	"heist_wz_demo_name":		"Warzone - DEMO",
+	"heist_wz_demo_brief":		"Warzone gameplay test DEMO. Features incomplete.",
+	
+	
 	"hud_carry_wz_resource_rations":			"Rations",
 	"hud_carry_wz_resource_munitions":			"Munitions",
 	"hud_carry_wz_resource_scrap":				"Scrap",

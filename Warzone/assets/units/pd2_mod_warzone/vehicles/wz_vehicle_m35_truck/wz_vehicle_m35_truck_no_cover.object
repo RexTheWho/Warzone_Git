@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<dynamic_object>
+	<diesel orientation_object="rp_str_vehicle_m35_truck" materials="units/pd2_mod_warzone/vehicles/wz_vehicle_m35_truck/wz_vehicle_m35_truck" />
+	<bodies>
+		<body name="body" enabled="true" template="static">
+			<object name="c_convex_01"	collision_type="convex" padding="-2.5" />
+			<object name="c_convex_02"	collision_type="convex" padding="-2.5" />
+			<object name="c_box_02"		collision_type="box" padding="-2.5" />
+			<object name="c_box_03"		collision_type="box" padding="-2.5" />
+			<object name="c_box_04"		collision_type="box" padding="-2.5" />
+			<object name="c_box_05"		collision_type="box" padding="-2.5" />
+			<object name="c_box_06"		collision_type="box" padding="-2.5" />
+			<object name="c_box_07"		collision_type="box" padding="-2.5" />
+			<object name="c_box_08"		collision_type="box" padding="-2.5" />
+			<object name="c_box_09"		collision_type="box" padding="-2.5" />
+			<object name="c_box_010"	collision_type="box" padding="-2.5" />
+			<object name="c_box_011"	collision_type="box" padding="-2.5" />
+			<object name="c_box_012"	collision_type="box" padding="-2.5" />
+			<object name="c_box_013"	collision_type="box" padding="-2.5" />
+			<object name="c_box_014"	collision_type="box" padding="-2.5" />
+			<object name="c_box_015"	collision_type="box" padding="-2.5" />
+			<object name="c_box_016"	collision_type="box" padding="-2.5" />
+			<object name="c_box_017"	collision_type="box" padding="-2.5" />
+			<object name="c_box_018"	collision_type="box" padding="-2.5" />
+			<object name="c_box_019"	collision_type="box" padding="-2.5" />
+			<object name="c_box_021"	collision_type="box" padding="-2.5" /> <!--Front Wheels-->
+			<object name="c_box_024"	collision_type="box" padding="-2.5" /> <!--Back Wheels-->
+			<object name="c_box_025"	collision_type="box" padding="-2.5" /> <!--???-->
+			<object name="c_box_026"	collision_type="box" padding="-2.5" /> <!--???-->
+			<object name="c_box_027"	collision_type="box" padding="-2.5" />
+			<!-- <object name="c_box_020"	collision_type="box" padding="-2.5" /> --> <!--Cloth Wall-->
+			<!-- <object name="c_box_022"	collision_type="box" padding="-2.5" /> --> <!--Cloth Roof-->
+			<!-- <object name="c_box_023"	collision_type="box" padding="-2.5" /> --> <!--Cloth Wall-->
+			<!-- <object name="c_box_028"	collision_type="box" padding="-2.5" /> -->
+		</body>   	
+		<body name="body_blocker" enabled="false" template="mover_blocker">
+			<object name="c_box_029"	collision_type="box" padding="-2.5" />
+		</body>   
+		<body name="bag_blocker" enabled="true" template="bag" collision_class="bag_blocker">
+			<object name="rp_str_vehicle_m35_truck" />
+			<object name="c_bag_blocker" collision_type="box" padding="-2.5" />
+		</body>
+	</bodies>
+
+	<decal_surfaces default_material="metal">
+		<decal_mesh name="dm_metal" 		enabled="true" material="sheet_metal" />
+		<decal_mesh name="dm_metal_01" 		enabled="true" material="sheet_metal" />
+		<decal_mesh name="g_windows" 	enabled="true" material="glass_breakable" />
+	</decal_surfaces>
+
+	<graphics>
+		<lod_object name="LodGroupName">
+			<object name="g_m35_lod0" 	enabled="true"  max_distance="6400" />
+			<object name="g_m35_lod1" 	enabled="true" />
+		</lod_object>
+		<object name="g_windows" 		enabled="true" shadow_caster="true" />
+		<object name="s_s" 				enabled="true" shadow_caster="true" />
+	</graphics>
+
+	<lights>
+		<light name="ls_left" far_range="1600" type="spot|specular"   end_angle="53" multiplier="identity" editable="false" enabled="false"/>
+		<light name="ls_right" far_range="1600" type="spot|specular"   end_angle="39" multiplier="identity" editable="false" enabled="false"/>
+		<light name="ls_rear" far_range="450" type="omni|specular" multiplier="0.1" falloff="4" editable="false" enabled="false"/>
+	</lights>
+</dynamic_object>

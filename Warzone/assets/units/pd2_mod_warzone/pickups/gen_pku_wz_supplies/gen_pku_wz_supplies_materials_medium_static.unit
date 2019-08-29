@@ -1,0 +1,21 @@
+<unit type="gen" slot="14" >
+	<object file="units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_materials_medium_static" />
+	<network sync="bodies" remote_unit=""/>
+	<extensions>
+		<extension name="unit_data" class="ScriptUnitData" />
+		<extension name="damage" class="UnitDamage" />
+		<extension name="interaction" class="CarryInteractionExt">
+			<var name="tweak_data" value="wz_carry_drop_scrap" />
+			<var name="_remove_on_interact" value="true" />
+			<var name="_ray_object_names" type="table" >
+				<var value="rp_jfr_prop_crate_a"/>
+			</var>
+			<var name="_global_event" value="blue_loot_bags" />
+		</extension>
+		<extension name="carry_data" class="CarryData"/>
+	</extensions>
+	<sounds>
+		<default_soundsource source="sound" />
+		<soundsource name="sound" source="sound" />
+	</sounds>
+</unit>

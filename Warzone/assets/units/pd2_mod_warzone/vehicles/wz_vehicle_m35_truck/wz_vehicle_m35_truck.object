@@ -1,14 +1,6 @@
 <?xml version="1.0"?>
 <dynamic_object>
 	<diesel orientation_object="rp_str_vehicle_m35_truck" materials="units/pd2_mod_warzone/vehicles/wz_vehicle_m35_truck/wz_vehicle_m35_truck" />
-	<sequence_manager file="units/pd2_mod_warzone/vehicles/wz_vehicle_m35_truck/wz_vehicle_m35_truck" />
-	<animations>
-		<animation_group name="anim" enabled="false">
-			<object name="ls_left" />
-			<object name="ls_right" />
-			<object name="ls_rear" />
-		</animation_group>
-	</animations>
 	<bodies>
 		<body name="body" enabled="true" template="static">
 			<object name="c_convex_01"	collision_type="convex" padding="-2.5" />
@@ -58,18 +50,16 @@
 
 	<graphics>
 		<lod_object name="LodGroupName">
-			<object name="g_m35_lod0" 	enabled="true"  max_distance="5000" />
+			<object name="g_m35_lod0" 	enabled="true"  max_distance="6400" />
 			<object name="g_m35_lod1" 	enabled="true" />
 		</lod_object>
-		<object name="g_lights" 		enabled="false" shadow_caster="false" />
-		<object name="g_cone_light" 	enabled="false" shadow_caster="false" />
 		<object name="g_windows" 		enabled="true" shadow_caster="true" />
 		<object name="s_s" 				enabled="true" shadow_caster="true" />
 	</graphics>
 
 	<lights>
-		<light name="ls_left" far_range="2000" type="spot|specular"   end_angle="53" multiplier="identity" editable="true" />
-		<light name="ls_right" far_range="2000" type="spot|specular"   end_angle="39" multiplier="identity" editable="true" />
-		<light name="ls_rear" far_range="350" type="omni|specular" multiplier="0.1" falloff="4" editable="true" />
+		<light name="ls_left" far_range="1600" type="spot|specular"   end_angle="53" multiplier="identity" editable="false" enabled="false"/>
+		<light name="ls_right" far_range="1600" type="spot|specular"   end_angle="39" multiplier="identity" editable="false" enabled="false"/>
+		<light name="ls_rear" far_range="450" type="omni|specular" multiplier="0.1" falloff="4" editable="false" enabled="false"/>
 	</lights>
 </dynamic_object>

@@ -1,0 +1,47 @@
+<table directory="assets">
+	<add unload_on_restart="true">		
+		<sequence_manager	path="units/pd2_mod_warzone/pickups/gen_pku_wz_weapons/gen_pku_wz_weapons"/>
+		<material_config	path="units/pd2_mod_warzone/pickups/gen_pku_wz_weapons/gen_pku_wz_weapons_modern"/>
+		<material_config	path="units/pd2_mod_warzone/pickups/gen_pku_wz_weapons/gen_pku_wz_weapons_old"/>
+		<unit				path="units/pd2_mod_warzone/pickups/gen_pku_wz_weapons/gen_pku_wz_weapons_small_modern"/>
+		<object				path="units/pd2_mod_warzone/pickups/gen_pku_wz_weapons/gen_pku_wz_weapons_small_modern"/>
+		<model				path="units/pd2_mod_warzone/pickups/gen_pku_wz_weapons/gen_pku_wz_weapons_small_modern"/>
+		<unit				path="units/pd2_mod_warzone/pickups/gen_pku_wz_weapons/gen_pku_wz_weapons_medium_modern"/>
+		<object				path="units/pd2_mod_warzone/pickups/gen_pku_wz_weapons/gen_pku_wz_weapons_medium_modern"/>
+		<model				path="units/pd2_mod_warzone/pickups/gen_pku_wz_weapons/gen_pku_wz_weapons_medium_modern"/>
+		<unit				path="units/pd2_mod_warzone/pickups/gen_pku_wz_weapons/gen_pku_wz_weapons_large_modern"/>
+		<object				path="units/pd2_mod_warzone/pickups/gen_pku_wz_weapons/gen_pku_wz_weapons_large_modern"/>
+		<model				path="units/pd2_mod_warzone/pickups/gen_pku_wz_weapons/gen_pku_wz_weapons_large_modern"/>
+		<unit				path="units/pd2_mod_warzone/pickups/gen_pku_wz_weapons/gen_pku_wz_weapons_medium_old"/>
+		<object				path="units/pd2_mod_warzone/pickups/gen_pku_wz_weapons/gen_pku_wz_weapons_medium_old"/>
+		<model				path="units/pd2_mod_warzone/pickups/gen_pku_wz_weapons/gen_pku_wz_weapons_medium_old"/>
+		
+		<material_config	path="units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_fake_prop"/>
+		<unit				path="units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_fake_prop"/>
+		<object				path="units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_fake_prop"/>
+		<model				path="units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_fake_prop"/>
+		
+		<sequence_manager	path="units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies"/>
+		<material_config	path="units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_munitions"/>
+		<unit				path="units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_munitions_medium"/>
+		<object				path="units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_munitions_medium"/>
+		<model				path="units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_munitions_medium"/>
+		<unit				path="units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_munitions_medium_static"/>
+		<object				path="units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_munitions_medium_static"/>
+		<model				path="units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_munitions_medium_static"/>
+		<material_config	path="units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_rations"/>
+		<unit				path="units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_rations_medium"/>
+		<object				path="units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_rations_medium"/>
+		<model				path="units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_rations_medium"/>
+		<unit				path="units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_rations_medium_static"/>
+		<object				path="units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_rations_medium_static"/>
+		<model				path="units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_rations_medium_static"/>
+		<material_config	path="units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_materials"/>
+		<unit				path="units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_materials_medium"/>
+		<object				path="units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_materials_medium"/>
+		<model				path="units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_materials_medium"/>
+		<unit				path="units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_materials_medium_static"/>
+		<object				path="units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_materials_medium_static"/>
+		<model				path="units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_materials_medium_static"/>
+	</add>
+</table>

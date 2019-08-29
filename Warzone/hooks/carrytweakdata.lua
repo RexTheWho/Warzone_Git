@@ -45,84 +45,82 @@ Hooks:PostHook(CarryTweakData,"init","warzone_carrytweak_init",function(self)
 	}
 	
 	--RATIONS
+	
 	self.wz_resource_rations_light = {
 		type = "wz_weight_1",
-		name_id = "hud_carry_wz_resource_rations",
-		visual_unit_name = "units/payday2/characters/npc_acc_loot_bag_1/npc_acc_loot_bag_1",
-		default_value = 1,
 		is_unique_loot = true,
-		skip_exit_secure = true
+		name_id = "hud_carry_wz_resource_rations",
+		unit = "units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_rations_medium",
+		visual_unit_name = "units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_rations_medium",
+		wz_supply_value = 1
 	}
 	self.wz_resource_rations_medium = {
 		type = "wz_weight_2",
-		name_id = "hud_carry_wz_resource_rations",
-		visual_unit_name = "units/payday2/characters/npc_acc_loot_bag_1/npc_acc_loot_bag_1",
-		default_value = 1,
 		is_unique_loot = true,
-		skip_exit_secure = true
+		name_id = "hud_carry_wz_resource_rations",
+		unit = "units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_rations_medium",
+		visual_unit_name = "units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_rations_medium",
+		wz_supply_value = 2
 	}
 	self.wz_resource_rations_slightly_heavy = {
 		type = "wz_weight_3",
-		name_id = "hud_carry_wz_resource_rations",
-		visual_unit_name = "units/payday2/characters/npc_acc_loot_bag_1/npc_acc_loot_bag_1",
-		default_value = 1,
 		is_unique_loot = true,
-		skip_exit_secure = true
+		name_id = "hud_carry_wz_resource_rations",
+		unit = "units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_rations_medium",
+		visual_unit_name = "units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_rations_medium",
+		wz_supply_value = 3
 	}
 	
 	--MUNITIONS
 	self.wz_resource_munitions_light = {
 		type = "wz_weight_1",
-		name_id = "hud_carry_wz_resource_munitions",
-		unit = "units/pd2_mod_warzone/pickups/gen_pku_wz_weapons/gen_pku_wz_weapons_medium_old",
-		visual_unit_name = "units/pd2_mod_warzone/pickups/gen_pku_wz_weapons/gen_pku_wz_weapons_medium_old",
-		default_value = 1,
 		is_unique_loot = true,
-		skip_exit_secure = true
+		name_id = "hud_carry_wz_resource_munitions",
+		unit = "units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_munitions_medium",
+		visual_unit_name = "units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_munitions_medium",
+		default_value = 1
 	}
 	self.wz_resource_munitions_medium = {
 		type = "wz_weight_2",
-		name_id = "hud_carry_wz_resource_munitions",
-		unit = "units/pd2_mod_warzone/pickups/gen_pku_wz_weapons/gen_pku_wz_weapons_medium_old",
-		visual_unit_name = "units/pd2_mod_warzone/pickups/gen_pku_wz_weapons/gen_pku_wz_weapons_medium_old",
-		default_value = 1,
 		is_unique_loot = true,
-		skip_exit_secure = true
+		name_id = "hud_carry_wz_resource_munitions",
+		unit = "units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_munitions_medium",
+		visual_unit_name = "units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_munitions_medium",
+		default_value = 1
 	}
 	self.wz_resource_munitions_slightly_heavy = {
 		type = "wz_weight_3",
-		name_id = "hud_carry_wz_resource_munitions",
-		unit = "units/pd2_mod_warzone/pickups/gen_pku_wz_weapons/gen_pku_wz_weapons_medium_old",
-		visual_unit_name = "units/pd2_mod_warzone/pickups/gen_pku_wz_weapons/gen_pku_wz_weapons_medium_old",
-		default_value = 1,
 		is_unique_loot = true,
-		skip_exit_secure = true
+		name_id = "hud_carry_wz_resource_munitions",
+		unit = "units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_munitions_medium",
+		visual_unit_name = "units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_munitions_medium",
+		default_value = 1
 	}
 	
 	--SCRAP
 	self.wz_resource_scrap_light = {
 		type = "wz_weight_1",
-		name_id = "hud_carry_wz_resource_scrap",
-		visual_unit_name = "units/payday2/characters/npc_acc_loot_bag_1/npc_acc_loot_bag_1",
-		default_value = 1,
 		is_unique_loot = true,
-		skip_exit_secure = true
+		name_id = "hud_carry_wz_resource_scrap",
+		unit = "units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_materials_medium",
+		visual_unit_name = "units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_materials_medium",
+		default_value = 1
 	}
 	self.wz_resource_scrap_medium = {
 		type = "wz_weight_2",
-		name_id = "hud_carry_wz_resource_scrap",
-		visual_unit_name = "units/payday2/characters/npc_acc_loot_bag_1/npc_acc_loot_bag_1",
-		default_value = 1,
 		is_unique_loot = true,
-		skip_exit_secure = true
+		name_id = "hud_carry_wz_resource_scrap",
+		unit = "units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_materials_medium",
+		visual_unit_name = "units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_materials_medium",
+		default_value = 1
 	}
 	self.wz_resource_scrap_slightly_heavy = {
 		type = "wz_weight_3",
-		name_id = "hud_carry_wz_resource_scrap",
-		visual_unit_name = "units/payday2/characters/npc_acc_loot_bag_1/npc_acc_loot_bag_1",
-		default_value = 1,
 		is_unique_loot = true,
-		skip_exit_secure = true
+		name_id = "hud_carry_wz_resource_scrap",
+		unit = "units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_materials_medium",
+		visual_unit_name = "units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_materials_medium",
+		default_value = 1
 	}
 	
 	--WEAPON CASE
