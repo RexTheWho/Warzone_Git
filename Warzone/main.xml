@@ -50,7 +50,7 @@
 			<value_node value="levels/narratives/locke/des/editor_only/editor_only"/>
 			<value_node value="levels/narratives/short1/stage1/editor_only/editor_only"/>
 			<value_node value="levels/narratives/e_framing_frame/stage_2/editor_only/editor_only"/>
-			<value_node value="levels/instances/unique/brb/civ_intro_spawner/world/world"/>
+			<value_node value="levels/narratives/vlad/moon/mkp/mkp"/>
 		</packages>
 		<script_data_mods directory="scriptdata">
 			<mod replacement="objectives.objective" replacement_type="custom_xml" target_ext="objective" target_path="gamedata/objectives">

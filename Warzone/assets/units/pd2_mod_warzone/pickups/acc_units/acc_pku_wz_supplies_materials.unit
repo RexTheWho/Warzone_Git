@@ -1,0 +1,6 @@
+<unit type="tst" slot="1">
+	<object file="units/pd2_mod_warzone/pickups/acc_units/acc_pku_wz_supplies_materials" />
+	<extensions>
+		<extension name="unit_data" class="ScriptUnitData" />
+	</extensions>
+</unit>

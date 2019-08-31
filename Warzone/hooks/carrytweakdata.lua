@@ -51,7 +51,7 @@ Hooks:PostHook(CarryTweakData,"init","warzone_carrytweak_init",function(self)
 		is_unique_loot = true,
 		name_id = "hud_carry_wz_resource_rations",
 		unit = "units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_rations_medium",
-		visual_unit_name = "units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_rations_medium",
+		visual_unit_name = "units/pd2_mod_warzone/pickups/acc_units/acc_pku_wz_supplies_materials",
 		wz_supply_value = 1
 	}
 	self.wz_resource_rations_medium = {
@@ -59,7 +59,7 @@ Hooks:PostHook(CarryTweakData,"init","warzone_carrytweak_init",function(self)
 		is_unique_loot = true,
 		name_id = "hud_carry_wz_resource_rations",
 		unit = "units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_rations_medium",
-		visual_unit_name = "units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_rations_medium",
+		visual_unit_name = "units/pd2_mod_warzone/pickups/acc_units/acc_pku_wz_supplies_materials",
 		wz_supply_value = 2
 	}
 	self.wz_resource_rations_slightly_heavy = {
@@ -67,7 +67,7 @@ Hooks:PostHook(CarryTweakData,"init","warzone_carrytweak_init",function(self)
 		is_unique_loot = true,
 		name_id = "hud_carry_wz_resource_rations",
 		unit = "units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_rations_medium",
-		visual_unit_name = "units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_rations_medium",
+		visual_unit_name = "units/pd2_mod_warzone/pickups/acc_units/acc_pku_wz_supplies_materials",
 		wz_supply_value = 3
 	}
 	
@@ -77,7 +77,7 @@ Hooks:PostHook(CarryTweakData,"init","warzone_carrytweak_init",function(self)
 		is_unique_loot = true,
 		name_id = "hud_carry_wz_resource_munitions",
 		unit = "units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_munitions_medium",
-		visual_unit_name = "units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_munitions_medium",
+		visual_unit_name = "units/pd2_mod_warzone/pickups/acc_units/acc_pku_wz_supplies_materials",
 		default_value = 1
 	}
 	self.wz_resource_munitions_medium = {
@@ -85,7 +85,7 @@ Hooks:PostHook(CarryTweakData,"init","warzone_carrytweak_init",function(self)
 		is_unique_loot = true,
 		name_id = "hud_carry_wz_resource_munitions",
 		unit = "units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_munitions_medium",
-		visual_unit_name = "units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_munitions_medium",
+		visual_unit_name = "units/pd2_mod_warzone/pickups/acc_units/acc_pku_wz_supplies_materials",
 		default_value = 1
 	}
 	self.wz_resource_munitions_slightly_heavy = {
@@ -93,7 +93,7 @@ Hooks:PostHook(CarryTweakData,"init","warzone_carrytweak_init",function(self)
 		is_unique_loot = true,
 		name_id = "hud_carry_wz_resource_munitions",
 		unit = "units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_munitions_medium",
-		visual_unit_name = "units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_munitions_medium",
+		visual_unit_name = "units/pd2_mod_warzone/pickups/acc_units/acc_pku_wz_supplies_materials",
 		default_value = 1
 	}
 	
@@ -103,7 +103,7 @@ Hooks:PostHook(CarryTweakData,"init","warzone_carrytweak_init",function(self)
 		is_unique_loot = true,
 		name_id = "hud_carry_wz_resource_scrap",
 		unit = "units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_materials_medium",
-		visual_unit_name = "units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_materials_medium",
+		visual_unit_name = "units/pd2_mod_warzone/pickups/acc_units/acc_pku_wz_supplies_materials",
 		default_value = 1
 	}
 	self.wz_resource_scrap_medium = {
@@ -111,7 +111,7 @@ Hooks:PostHook(CarryTweakData,"init","warzone_carrytweak_init",function(self)
 		is_unique_loot = true,
 		name_id = "hud_carry_wz_resource_scrap",
 		unit = "units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_materials_medium",
-		visual_unit_name = "units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_materials_medium",
+		visual_unit_name = "units/pd2_mod_warzone/pickups/acc_units/acc_pku_wz_supplies_materials",
 		default_value = 1
 	}
 	self.wz_resource_scrap_slightly_heavy = {
@@ -119,7 +119,7 @@ Hooks:PostHook(CarryTweakData,"init","warzone_carrytweak_init",function(self)
 		is_unique_loot = true,
 		name_id = "hud_carry_wz_resource_scrap",
 		unit = "units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_materials_medium",
-		visual_unit_name = "units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_materials_medium",
+		visual_unit_name = "units/pd2_mod_warzone/pickups/acc_units/acc_pku_wz_supplies_materials",
 		default_value = 1
 	}
 	
@@ -128,7 +128,7 @@ Hooks:PostHook(CarryTweakData,"init","warzone_carrytweak_init",function(self)
 		type = "wz_weight_3",
 		name_id = "hud_carry_wz_weapons_modern_large",
 		unit = "units/pd2_mod_warzone/pickups/gen_pku_wz_weapons/gen_pku_wz_weapons_large_modern",
-		visual_unit_name = "units/pd2_mod_warzone/pickups/gen_pku_wz_weapons/gen_pku_wz_weapons_large_modern",
+		visual_unit_name = "units/pd2_mod_warzone/pickups/acc_units/acc_pku_wz_supplies_materials",
 		default_value = 1,
 		is_unique_loot = true,
 		skip_exit_secure = true
@@ -137,7 +137,7 @@ Hooks:PostHook(CarryTweakData,"init","warzone_carrytweak_init",function(self)
 		type = "wz_weight_2",
 		name_id = "hud_carry_wz_weapons_modern_medium",
 		unit = "units/pd2_mod_warzone/pickups/gen_pku_wz_weapons/gen_pku_wz_weapons_medium_modern",
-		visual_unit_name = "units/pd2_mod_warzone/pickups/gen_pku_wz_weapons/gen_pku_wz_weapons_medium_modern",
+		visual_unit_name = "units/pd2_mod_warzone/pickups/acc_units/acc_pku_wz_supplies_materials",
 		default_value = 1,
 		is_unique_loot = true,
 		skip_exit_secure = true
@@ -146,7 +146,7 @@ Hooks:PostHook(CarryTweakData,"init","warzone_carrytweak_init",function(self)
 		type = "wz_weight_1",
 		name_id = "hud_carry_wz_weapons_modern_small",
 		unit = "units/pd2_mod_warzone/pickups/gen_pku_wz_weapons/gen_pku_wz_weapons_small_modern",
-		visual_unit_name = "units/pd2_mod_warzone/pickups/gen_pku_wz_weapons/gen_pku_wz_weapons_small_modern",
+		visual_unit_name = "units/pd2_mod_warzone/pickups/acc_units/acc_pku_wz_supplies_materials",
 		default_value = 1,
 		is_unique_loot = true,
 		skip_exit_secure = true
@@ -157,7 +157,7 @@ Hooks:PostHook(CarryTweakData,"init","warzone_carrytweak_init",function(self)
 		type = "wz_weight_1_throwboosted",
 		name_id = "hud_carry_wz_satchelbomb",
 		unit = "units/pd2_mod_warzone/pickups/gen_pku_wz_satchelbomb/gen_pku_wz_satchelbomb",
-		visual_unit_name = "units/pd2_mod_warzone/pickups/gen_pku_wz_satchelbomb/gen_pku_wz_satchelbomb",
+		visual_unit_name = "units/pd2_mod_warzone/pickups/acc_units/acc_pku_wz_supplies_materials",
 		default_value = 1,
 		is_unique_loot = true,
 		skip_exit_secure = true

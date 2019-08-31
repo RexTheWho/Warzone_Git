@@ -163,6 +163,12 @@
 		<object				path="units/pd2_mod_warzone/pickups/gen_pku_wz_weapons/gen_pku_wz_weapons_medium_old"/>
 		<model				path="units/pd2_mod_warzone/pickups/gen_pku_wz_weapons/gen_pku_wz_weapons_medium_old"/>
 		
+		<material_config	path="units/pd2_mod_warzone/pickups/acc_units/acc_pku_wz_supplies_materials"/>
+		<unit				path="units/pd2_mod_warzone/pickups/acc_units/acc_pku_wz_supplies_materials"/>
+		<object				path="units/pd2_mod_warzone/pickups/acc_units/acc_pku_wz_supplies_materials"/>
+		<model				path="units/pd2_mod_warzone/pickups/acc_units/acc_pku_wz_supplies_materials"/>
+
+		
 		<material_config	path="units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_fake_prop"/>
 		<unit				path="units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_fake_prop"/>
 		<object				path="units/pd2_mod_warzone/pickups/gen_pku_wz_supplies/gen_pku_wz_supplies_fake_prop"/>
