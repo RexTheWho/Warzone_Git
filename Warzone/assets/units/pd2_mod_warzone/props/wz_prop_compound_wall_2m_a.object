@@ -5,7 +5,8 @@
 	<bodies>
 		<body name="body_main" enabled="true" template="static">
 			<object name="rp_root"/>
-			<object name="g_wall"		collision_type="mesh_mopp"/>
+			<object name="c_box_001"	collision_type="box"/>
+			<object name="c_box_002"	collision_type="box"/>
 		</body>	
 	</bodies>
 	

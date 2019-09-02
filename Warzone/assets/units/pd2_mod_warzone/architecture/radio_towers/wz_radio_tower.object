@@ -24,9 +24,9 @@
 				<object name="g_terrain_lod2"	lod="2" enabled="true" shadow_caster="false" max_distance="25600" />
 			</lod_object>
 			<lod_object name="lod_tower">
-				<object name="g_tower"		lod="0" enabled="true" shadow_caster="true" max_distance="9600" />
-				<object name="g_tower_lod1"	lod="1" enabled="true" shadow_caster="true" max_distance="25600" />
-				<object name="g_tower_lod2"	lod="2" enabled="true" shadow_caster="false" max_distance="51200" />
+				<object name="g_tower"		lod="0" enabled="true" shadow_caster="true" />
+				<!-- <object name="g_tower_lod1"	lod="1" enabled="true" shadow_caster="true" max_distance="25600" /> -->
+				<!-- <object name="g_tower_lod2"	lod="2" enabled="true" shadow_caster="false" max_distance="51200" /> -->
 			</lod_object>
 		</graphic_group>
 	</graphics>

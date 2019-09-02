@@ -1,6 +1,9 @@
 <?xml version="1.0"?>
 <unit type="gen" slot="1">
 	<network sync="spawn"/>
+	<dependencies>
+		<depends_on bnk="soundbanks/zipline" />
+	</dependencies>
 	<object file="units/pd2_mod_warzone/equipment/wz_equipment_zipline/wz_equipment_zipline_motor" />
 	<extensions>
 		<extension name="unit_data" class="ScriptUnitData" />

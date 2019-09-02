@@ -50,6 +50,14 @@
 		<unit				path="units/pd2_mod_warzone/props/cover/wz_prop_barrier_reinforced_2m_a"/>
 		<object				path="units/pd2_mod_warzone/props/cover/wz_prop_barrier_reinforced_2m_a"/>
 		<model				path="units/pd2_mod_warzone/props/cover/wz_prop_barrier_reinforced_2m_a"/>
+		<unit				path="units/pd2_mod_warzone/props/cover/wz_prop_container/wz_prop_container_01"/>
+		<object				path="units/pd2_mod_warzone/props/cover/wz_prop_container/wz_prop_container_01"/>
+		<model				path="units/pd2_mod_warzone/props/cover/wz_prop_container/wz_prop_container_01"/>
+		<material_config	path="units/pd2_mod_warzone/props/cover/wz_prop_container/wz_prop_container_01"/>
+		<unit				path="units/pd2_mod_warzone/props/cover/wz_prop_container/wz_prop_container_02"/>
+		<object				path="units/pd2_mod_warzone/props/cover/wz_prop_container/wz_prop_container_02"/>
+		<model				path="units/pd2_mod_warzone/props/cover/wz_prop_container/wz_prop_container_02"/>
+		<material_config	path="units/pd2_mod_warzone/props/cover/wz_prop_container/wz_prop_container_02"/>
 		
 		<material_config	path="units/pd2_mod_warzone/props/fences/wz_prop_heavy_wall"/>
 		<unit				path="units/pd2_mod_warzone/props/fences/wz_prop_heavy_wall_4m_a"/>
@@ -122,6 +130,10 @@
 		<object				path="units/pd2_mod_warzone/vegetation/wz_vegetation_bushes/wz_vegetation_bush_small/wz_vegetation_bush_small"/>
 		<model				path="units/pd2_mod_warzone/vegetation/wz_vegetation_bushes/wz_vegetation_bush_small/wz_vegetation_bush_small"/>
 		<material_config	path="units/pd2_mod_warzone/vegetation/wz_vegetation_bushes/wz_vegetation_bush_small/wz_vegetation_bush_small"/>
+		<unit				path="units/pd2_mod_warzone/vegetation/wz_vegetation_bushes/wz_vegetation_bush_medium/wz_vegetation_bush_medium"/>
+		<object				path="units/pd2_mod_warzone/vegetation/wz_vegetation_bushes/wz_vegetation_bush_medium/wz_vegetation_bush_medium"/>
+		<model				path="units/pd2_mod_warzone/vegetation/wz_vegetation_bushes/wz_vegetation_bush_medium/wz_vegetation_bush_medium"/>
+		<material_config	path="units/pd2_mod_warzone/vegetation/wz_vegetation_bushes/wz_vegetation_bush_medium/wz_vegetation_bush_medium"/>
 		
 		<material_config	path="units/pd2_mod_warzone/vehicles/wz_vehicle_attack_jet/wz_vehicle_attack_jet"/>
 		<sequence_manager	path="units/pd2_mod_warzone/vehicles/wz_vehicle_attack_jet/wz_vehicle_attack_jet"/>
@@ -266,6 +278,19 @@
 		<object				path="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_c"/>
 		<model				path="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_c"/>
 		
+		<material_config	path="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_sandy"/>
+		<unit				path="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_a_sandy"/>
+		<object				path="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_a_sandy"/>
+		<model				path="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_a_sandy"/>
+		<unit				path="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_b_sandy"/>
+		<object				path="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_b_sandy"/>
+		<model				path="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_b_sandy"/>
+		
+		<material_config	path="units/pd2_mod_warzone/props/cover/wz_prop_military_mre/wz_prop_military_mre"/>
+		<unit				path="units/pd2_mod_warzone/props/cover/wz_prop_military_mre/wz_prop_military_mre_medium"/>
+		<object				path="units/pd2_mod_warzone/props/cover/wz_prop_military_mre/wz_prop_military_mre_medium"/>
+		<model				path="units/pd2_mod_warzone/props/cover/wz_prop_military_mre/wz_prop_military_mre_medium"/>
+		
 		<!--Characters-->
 		<unit				path="units/pd2_mod_warzone/characters/team_zeal_tazer/team_zeal_tazer"/>
 		<unit				path="units/pd2_mod_warzone/characters/team_zeal_tazer/team_zeal_tazer_husk"/>
@@ -315,6 +340,10 @@
 		<object				path="units/pd2_mod_warzone/weapons/wz_prj_50cal/wz_prj_50cal"/>
 		<model				path="units/pd2_mod_warzone/weapons/wz_prj_50cal/wz_prj_50cal"/>
 		<material_config	path="units/pd2_mod_warzone/weapons/wz_prj_50cal/wz_prj_50cal"/>
+		
+		<!--Warzone Weapon List-->
+		<unit				path="units/pd2_mod_warzone/weapons/wz_wpn_m14/wpn_fps_ass_m14_primary"/>
+		<unit				path="units/pd2_mod_warzone/weapons/wz_wpn_m14/wpn_fps_ass_m14_secondary"/>
 		
 		
 		<unit				path="units/pd2_mod_warzone/dev_units/level_tools/nav_hex_splitter/nav_hex_splitter"/>

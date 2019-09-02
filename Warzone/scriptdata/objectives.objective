@@ -1,2 +1,3 @@
 <table>
+	<objective description="test_desc" id="test" text="test"/>
 </table>

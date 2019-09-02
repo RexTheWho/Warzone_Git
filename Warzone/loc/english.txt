@@ -4,6 +4,11 @@
 	"heist_wz_demo_brief":		"Warzone gameplay test DEMO. Features incomplete.",
 	
 	
+	"wz_loc_ene_camp_radio_text":		"LOCATION // Hostile Radio Base",
+	"wz_loc_fri_camp_radio_text":		"LOCATION // Friendly Radio Base",
+	
+	
+	
 	"hud_carry_wz_resource_rations":			"Rations",
 	"hud_carry_wz_resource_munitions":			"Munitions",
 	"hud_carry_wz_resource_scrap":				"Scrap",

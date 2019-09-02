@@ -110,6 +110,10 @@
 							<entry key="delay" type="number" value="0"/>
 							<entry key="id" type="number" value="100070"/>
 						</entry>
+						<entry index="6" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="100074"/>
+						</entry>
 					</entry>
 					<entry key="position" type="vector3" value="10700 19400 4200"/>
 					<entry key="rotation" type="quaternion" value="-0 0 -0 -1"/>
@@ -321,109 +325,113 @@
 					<entry key="event_list" type="table">
 						<entry index="1" type="table">
 							<entry key="event" type="string" value="enable"/>
-							<entry key="instance" type="string" value="wz_pku_supplies_random_005"/>
+							<entry key="instance" type="string" value="wz_pku_supplies_random_004"/>
 						</entry>
 						<entry index="2" type="table">
 							<entry key="event" type="string" value="enable"/>
-							<entry key="instance" type="string" value="wz_pku_supplies_random_006"/>
+							<entry key="instance" type="string" value="wz_pku_supplies_random_005"/>
 						</entry>
 						<entry index="3" type="table">
 							<entry key="event" type="string" value="enable"/>
-							<entry key="instance" type="string" value="wz_pku_supplies_random_007"/>
+							<entry key="instance" type="string" value="wz_pku_supplies_random_006"/>
 						</entry>
 						<entry index="4" type="table">
 							<entry key="event" type="string" value="enable"/>
-							<entry key="instance" type="string" value="wz_pku_supplies_random_008"/>
+							<entry key="instance" type="string" value="wz_pku_supplies_random_007"/>
 						</entry>
 						<entry index="5" type="table">
 							<entry key="event" type="string" value="enable"/>
-							<entry key="instance" type="string" value="wz_pku_supplies_random_009"/>
+							<entry key="instance" type="string" value="wz_pku_supplies_random_008"/>
 						</entry>
 						<entry index="6" type="table">
 							<entry key="event" type="string" value="enable"/>
-							<entry key="instance" type="string" value="wz_pku_supplies_random_010"/>
+							<entry key="instance" type="string" value="wz_pku_supplies_random_009"/>
 						</entry>
 						<entry index="7" type="table">
 							<entry key="event" type="string" value="enable"/>
-							<entry key="instance" type="string" value="wz_pku_supplies_random_011"/>
+							<entry key="instance" type="string" value="wz_pku_supplies_random_010"/>
 						</entry>
 						<entry index="8" type="table">
 							<entry key="event" type="string" value="enable"/>
-							<entry key="instance" type="string" value="wz_pku_supplies_random_012"/>
+							<entry key="instance" type="string" value="wz_pku_supplies_random_011"/>
 						</entry>
 						<entry index="9" type="table">
 							<entry key="event" type="string" value="enable"/>
-							<entry key="instance" type="string" value="wz_pku_supplies_random_013"/>
+							<entry key="instance" type="string" value="wz_pku_supplies_random_012"/>
 						</entry>
 						<entry index="10" type="table">
 							<entry key="event" type="string" value="enable"/>
-							<entry key="instance" type="string" value="wz_pku_supplies_random_014"/>
+							<entry key="instance" type="string" value="wz_pku_supplies_random_013"/>
 						</entry>
 						<entry index="11" type="table">
 							<entry key="event" type="string" value="enable"/>
-							<entry key="instance" type="string" value="wz_pku_supplies_random_015"/>
+							<entry key="instance" type="string" value="wz_pku_supplies_random_014"/>
 						</entry>
 						<entry index="12" type="table">
 							<entry key="event" type="string" value="enable"/>
-							<entry key="instance" type="string" value="wz_pku_supplies_random_016"/>
+							<entry key="instance" type="string" value="wz_pku_supplies_random_015"/>
 						</entry>
 						<entry index="13" type="table">
 							<entry key="event" type="string" value="enable"/>
-							<entry key="instance" type="string" value="wz_pku_supplies_random_017"/>
+							<entry key="instance" type="string" value="wz_pku_supplies_random_016"/>
 						</entry>
 						<entry index="14" type="table">
 							<entry key="event" type="string" value="enable"/>
-							<entry key="instance" type="string" value="wz_pku_supplies_random_018"/>
+							<entry key="instance" type="string" value="wz_pku_supplies_random_017"/>
 						</entry>
 						<entry index="15" type="table">
 							<entry key="event" type="string" value="enable"/>
-							<entry key="instance" type="string" value="wz_pku_supplies_random_019"/>
+							<entry key="instance" type="string" value="wz_pku_supplies_random_018"/>
 						</entry>
 						<entry index="16" type="table">
 							<entry key="event" type="string" value="enable"/>
-							<entry key="instance" type="string" value="wz_pku_supplies_random_020"/>
+							<entry key="instance" type="string" value="wz_pku_supplies_random_019"/>
 						</entry>
 						<entry index="17" type="table">
 							<entry key="event" type="string" value="enable"/>
-							<entry key="instance" type="string" value="wz_pku_supplies_random_021"/>
+							<entry key="instance" type="string" value="wz_pku_supplies_random_020"/>
 						</entry>
 						<entry index="18" type="table">
 							<entry key="event" type="string" value="enable"/>
-							<entry key="instance" type="string" value="wz_pku_supplies_random_022"/>
+							<entry key="instance" type="string" value="wz_pku_supplies_random_021"/>
 						</entry>
 						<entry index="19" type="table">
 							<entry key="event" type="string" value="enable"/>
-							<entry key="instance" type="string" value="wz_pku_supplies_random_023"/>
+							<entry key="instance" type="string" value="wz_pku_supplies_random_022"/>
 						</entry>
 						<entry index="20" type="table">
 							<entry key="event" type="string" value="enable"/>
-							<entry key="instance" type="string" value="wz_pku_supplies_random_024"/>
+							<entry key="instance" type="string" value="wz_pku_supplies_random_023"/>
 						</entry>
 						<entry index="21" type="table">
 							<entry key="event" type="string" value="enable"/>
-							<entry key="instance" type="string" value="wz_pku_supplies_random_025"/>
+							<entry key="instance" type="string" value="wz_pku_supplies_random_024"/>
 						</entry>
 						<entry index="22" type="table">
 							<entry key="event" type="string" value="enable"/>
-							<entry key="instance" type="string" value="wz_pku_supplies_random_026"/>
+							<entry key="instance" type="string" value="wz_pku_supplies_random_025"/>
 						</entry>
 						<entry index="23" type="table">
 							<entry key="event" type="string" value="enable"/>
-							<entry key="instance" type="string" value="wz_pku_supplies_random_027"/>
+							<entry key="instance" type="string" value="wz_pku_supplies_random_026"/>
 						</entry>
 						<entry index="24" type="table">
 							<entry key="event" type="string" value="enable"/>
-							<entry key="instance" type="string" value="wz_pku_supplies_random_028"/>
+							<entry key="instance" type="string" value="wz_pku_supplies_random_027"/>
 						</entry>
 						<entry index="25" type="table">
 							<entry key="event" type="string" value="enable"/>
-							<entry key="instance" type="string" value="wz_pku_supplies_random_029"/>
+							<entry key="instance" type="string" value="wz_pku_supplies_random_028"/>
 						</entry>
 						<entry index="26" type="table">
 							<entry key="event" type="string" value="enable"/>
-							<entry key="instance" type="string" value="wz_pku_supplies_random_030"/>
+							<entry key="instance" type="string" value="wz_pku_supplies_random_029"/>
 						</entry>
 						<entry index="27" type="table">
+							<entry key="event" type="string" value="enable"/>
+							<entry key="instance" type="string" value="wz_pku_supplies_random_030"/>
+						</entry>
+						<entry index="28" type="table">
 							<entry key="event" type="string" value="enable"/>
 							<entry key="instance" type="string" value="wz_pku_supplies_random_031"/>
 						</entry>
@@ -448,109 +456,113 @@
 					<entry key="event_list" type="table">
 						<entry index="1" type="table">
 							<entry key="event" type="string" value="disable"/>
-							<entry key="instance" type="string" value="wz_pku_supplies_random_005"/>
+							<entry key="instance" type="string" value="wz_pku_supplies_random_004"/>
 						</entry>
 						<entry index="2" type="table">
 							<entry key="event" type="string" value="disable"/>
-							<entry key="instance" type="string" value="wz_pku_supplies_random_006"/>
+							<entry key="instance" type="string" value="wz_pku_supplies_random_005"/>
 						</entry>
 						<entry index="3" type="table">
 							<entry key="event" type="string" value="disable"/>
-							<entry key="instance" type="string" value="wz_pku_supplies_random_007"/>
+							<entry key="instance" type="string" value="wz_pku_supplies_random_006"/>
 						</entry>
 						<entry index="4" type="table">
 							<entry key="event" type="string" value="disable"/>
-							<entry key="instance" type="string" value="wz_pku_supplies_random_008"/>
+							<entry key="instance" type="string" value="wz_pku_supplies_random_007"/>
 						</entry>
 						<entry index="5" type="table">
 							<entry key="event" type="string" value="disable"/>
-							<entry key="instance" type="string" value="wz_pku_supplies_random_009"/>
+							<entry key="instance" type="string" value="wz_pku_supplies_random_008"/>
 						</entry>
 						<entry index="6" type="table">
 							<entry key="event" type="string" value="disable"/>
-							<entry key="instance" type="string" value="wz_pku_supplies_random_010"/>
+							<entry key="instance" type="string" value="wz_pku_supplies_random_009"/>
 						</entry>
 						<entry index="7" type="table">
 							<entry key="event" type="string" value="disable"/>
-							<entry key="instance" type="string" value="wz_pku_supplies_random_011"/>
+							<entry key="instance" type="string" value="wz_pku_supplies_random_010"/>
 						</entry>
 						<entry index="8" type="table">
 							<entry key="event" type="string" value="disable"/>
-							<entry key="instance" type="string" value="wz_pku_supplies_random_012"/>
+							<entry key="instance" type="string" value="wz_pku_supplies_random_011"/>
 						</entry>
 						<entry index="9" type="table">
 							<entry key="event" type="string" value="disable"/>
-							<entry key="instance" type="string" value="wz_pku_supplies_random_013"/>
+							<entry key="instance" type="string" value="wz_pku_supplies_random_012"/>
 						</entry>
 						<entry index="10" type="table">
 							<entry key="event" type="string" value="disable"/>
-							<entry key="instance" type="string" value="wz_pku_supplies_random_014"/>
+							<entry key="instance" type="string" value="wz_pku_supplies_random_013"/>
 						</entry>
 						<entry index="11" type="table">
 							<entry key="event" type="string" value="disable"/>
-							<entry key="instance" type="string" value="wz_pku_supplies_random_015"/>
+							<entry key="instance" type="string" value="wz_pku_supplies_random_014"/>
 						</entry>
 						<entry index="12" type="table">
 							<entry key="event" type="string" value="disable"/>
-							<entry key="instance" type="string" value="wz_pku_supplies_random_016"/>
+							<entry key="instance" type="string" value="wz_pku_supplies_random_015"/>
 						</entry>
 						<entry index="13" type="table">
 							<entry key="event" type="string" value="disable"/>
-							<entry key="instance" type="string" value="wz_pku_supplies_random_017"/>
+							<entry key="instance" type="string" value="wz_pku_supplies_random_016"/>
 						</entry>
 						<entry index="14" type="table">
 							<entry key="event" type="string" value="disable"/>
-							<entry key="instance" type="string" value="wz_pku_supplies_random_018"/>
+							<entry key="instance" type="string" value="wz_pku_supplies_random_017"/>
 						</entry>
 						<entry index="15" type="table">
 							<entry key="event" type="string" value="disable"/>
-							<entry key="instance" type="string" value="wz_pku_supplies_random_019"/>
+							<entry key="instance" type="string" value="wz_pku_supplies_random_018"/>
 						</entry>
 						<entry index="16" type="table">
 							<entry key="event" type="string" value="disable"/>
-							<entry key="instance" type="string" value="wz_pku_supplies_random_020"/>
+							<entry key="instance" type="string" value="wz_pku_supplies_random_019"/>
 						</entry>
 						<entry index="17" type="table">
 							<entry key="event" type="string" value="disable"/>
-							<entry key="instance" type="string" value="wz_pku_supplies_random_021"/>
+							<entry key="instance" type="string" value="wz_pku_supplies_random_020"/>
 						</entry>
 						<entry index="18" type="table">
 							<entry key="event" type="string" value="disable"/>
-							<entry key="instance" type="string" value="wz_pku_supplies_random_022"/>
+							<entry key="instance" type="string" value="wz_pku_supplies_random_021"/>
 						</entry>
 						<entry index="19" type="table">
 							<entry key="event" type="string" value="disable"/>
-							<entry key="instance" type="string" value="wz_pku_supplies_random_023"/>
+							<entry key="instance" type="string" value="wz_pku_supplies_random_022"/>
 						</entry>
 						<entry index="20" type="table">
 							<entry key="event" type="string" value="disable"/>
-							<entry key="instance" type="string" value="wz_pku_supplies_random_024"/>
+							<entry key="instance" type="string" value="wz_pku_supplies_random_023"/>
 						</entry>
 						<entry index="21" type="table">
 							<entry key="event" type="string" value="disable"/>
-							<entry key="instance" type="string" value="wz_pku_supplies_random_025"/>
+							<entry key="instance" type="string" value="wz_pku_supplies_random_024"/>
 						</entry>
 						<entry index="22" type="table">
 							<entry key="event" type="string" value="disable"/>
-							<entry key="instance" type="string" value="wz_pku_supplies_random_026"/>
+							<entry key="instance" type="string" value="wz_pku_supplies_random_025"/>
 						</entry>
 						<entry index="23" type="table">
 							<entry key="event" type="string" value="disable"/>
-							<entry key="instance" type="string" value="wz_pku_supplies_random_027"/>
+							<entry key="instance" type="string" value="wz_pku_supplies_random_026"/>
 						</entry>
 						<entry index="24" type="table">
 							<entry key="event" type="string" value="disable"/>
-							<entry key="instance" type="string" value="wz_pku_supplies_random_028"/>
+							<entry key="instance" type="string" value="wz_pku_supplies_random_027"/>
 						</entry>
 						<entry index="25" type="table">
 							<entry key="event" type="string" value="disable"/>
-							<entry key="instance" type="string" value="wz_pku_supplies_random_029"/>
+							<entry key="instance" type="string" value="wz_pku_supplies_random_028"/>
 						</entry>
 						<entry index="26" type="table">
 							<entry key="event" type="string" value="disable"/>
-							<entry key="instance" type="string" value="wz_pku_supplies_random_030"/>
+							<entry key="instance" type="string" value="wz_pku_supplies_random_029"/>
 						</entry>
 						<entry index="27" type="table">
+							<entry key="event" type="string" value="disable"/>
+							<entry key="instance" type="string" value="wz_pku_supplies_random_030"/>
+						</entry>
+						<entry index="28" type="table">
 							<entry key="event" type="string" value="disable"/>
 							<entry key="instance" type="string" value="wz_pku_supplies_random_031"/>
 						</entry>
@@ -783,6 +795,7 @@
 						<entry index="5" type="number" value="100022"/>
 						<entry index="6" type="number" value="100023"/>
 						<entry index="7" type="number" value="100024"/>
+						<entry index="8" type="number" value="100058"/>
 					</entry>
 					<entry key="enabled" type="boolean" value="true"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
@@ -2761,6 +2774,213 @@
 					<entry key="width" type="number" value="500"/>
 				</entry>
 			</entry>
+			<entry index="71" type="table">
+				<entry key="class" type="string" value="ElementWaypoint"/>
+				<entry key="editor_name" type="string" value="waypoint"/>
+				<entry key="id" type="number" value="100014"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="icon" type="string" value="pd2_defend"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="only_in_civilian" type="boolean" value="false"/>
+					<entry key="position" type="vector3" value="0 0 400"/>
+					<entry key="rotation" type="quaternion" value="-0 0 -0 -1"/>
+					<entry key="text_id" type="string" value="debug_none"/>
+					<entry key="trigger_times" type="number" value="0"/>
+				</entry>
+			</entry>
+			<entry index="72" type="table">
+				<entry key="class" type="string" value="MissionScriptElement"/>
+				<entry key="editor_name" type="string" value="TEMP"/>
+				<entry key="id" type="number" value="100071"/>
+				<entry key="module" type="string" value="CoreMissionScriptElement"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="6"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="true"/>
+					<entry key="on_executed" type="table">
+						<entry index="1" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="100014"/>
+						</entry>
+						<entry index="2" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="100072"/>
+						</entry>
+						<entry index="3" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="100073"/>
+						</entry>
+					</entry>
+					<entry key="position" type="vector3" value="-493.896 111.624 14.1669"/>
+					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
+					<entry key="trigger_times" type="number" value="0"/>
+				</entry>
+			</entry>
+			<entry index="73" type="table">
+				<entry key="class" type="string" value="ElementWaypoint"/>
+				<entry key="editor_name" type="string" value="waypoint"/>
+				<entry key="id" type="number" value="100072"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="icon" type="string" value="pd2_question"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="only_in_civilian" type="boolean" value="false"/>
+					<entry key="position" type="vector3" value="11085.1 19200 400"/>
+					<entry key="rotation" type="quaternion" value="-0 0 -0 -1"/>
+					<entry key="text_id" type="string" value="debug_none"/>
+					<entry key="trigger_times" type="number" value="0"/>
+				</entry>
+			</entry>
+			<entry index="74" type="table">
+				<entry key="class" type="string" value="ElementWaypoint"/>
+				<entry key="editor_name" type="string" value="waypoint"/>
+				<entry key="id" type="number" value="100073"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="icon" type="string" value="pd2_question"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="only_in_civilian" type="boolean" value="false"/>
+					<entry key="position" type="vector3" value="-33255.3 19200 400"/>
+					<entry key="rotation" type="quaternion" value="-0 0 -0 -1"/>
+					<entry key="text_id" type="string" value="debug_none"/>
+					<entry key="trigger_times" type="number" value="0"/>
+				</entry>
+			</entry>
+			<entry index="75" type="table">
+				<entry key="class" type="string" value="ElementHint"/>
+				<entry key="editor_name" type="string" value="wz_loc_enemy_camp_radio"/>
+				<entry key="id" type="number" value="100074"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="hint_id" type="string" value="wz_loc_enemy_camp_radio"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="position" type="vector3" value="5.76163 -281.173 19.0926"/>
+					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
+					<entry key="trigger_times" type="number" value="0"/>
+				</entry>
+			</entry>
+			<entry index="76" type="table">
+				<entry key="class" type="string" value="ElementInstanceOutputEvent"/>
+				<entry key="editor_name" type="string" value="instance_output_event"/>
+				<entry key="id" type="number" value="100075"/>
+				<entry key="module" type="string" value="CoreElementInstance"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="event_list" type="table">
+						<entry index="1" type="table">
+							<entry key="event" type="string" value="reached_amount_1"/>
+							<entry key="instance" type="string" value="wz_hex_manager_001"/>
+						</entry>
+					</entry>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+						<entry index="1" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="100076"/>
+						</entry>
+					</entry>
+					<entry key="position" type="vector3" value="-26894.4 18547 11.5312"/>
+					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
+					<entry key="trigger_times" type="number" value="0"/>
+				</entry>
+			</entry>
+			<entry index="77" type="table">
+				<entry key="class" type="string" value="ElementSpawnEnemyDummy"/>
+				<entry key="editor_name" type="string" value="spawn_enemy_dummy"/>
+				<entry key="id" type="number" value="100076"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="accessibility" type="string" value="any"/>
+					<entry key="amount" type="number" value="0"/>
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="enemy" type="string" value="units/payday2/characters/ene_swat_1/ene_swat_1"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="force_pickup" type="string" value="none"/>
+					<entry key="interval" type="number" value="5"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="participate_to_group_ai" type="boolean" value="true"/>
+					<entry key="position" type="vector3" value="-26745.9 18538.8 10.286"/>
+					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
+					<entry key="spawn_action" type="string" value="none"/>
+					<entry key="team" type="string" value="default"/>
+					<entry key="trigger_times" type="number" value="0"/>
+					<entry key="voice" type="number" value="0"/>
+				</entry>
+			</entry>
+			<entry index="78" type="table">
+				<entry key="class" type="string" value="ElementWeaponSwitch"/>
+				<entry key="editor_name" type="string" value="weapon_switch"/>
+				<entry key="id" type="number" value="100077"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="force_classic_id" type="boolean" value="false"/>
+					<entry key="instigator_only" type="boolean" value="true"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="position" type="vector3" value="-591.691 1457.63 83.4355"/>
+					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
+					<entry key="trigger_times" type="number" value="0"/>
+					<entry key="weapon_id" type="string" value="new_m14"/>
+				</entry>
+			</entry>
+			<entry index="79" type="table">
+				<entry key="class" type="string" value="ElementAreaTrigger"/>
+				<entry key="editor_name" type="string" value="area_trigger"/>
+				<entry key="id" type="number" value="100078"/>
+				<entry key="module" type="string" value="CoreElementArea"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="amount" type="string" value="1"/>
+					<entry key="base_delay" type="number" value="5"/>
+					<entry key="depth" type="number" value="200"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="height" type="number" value="200"/>
+					<entry key="instigator" type="string" value="player"/>
+					<entry key="interval" type="number" value="0.1"/>
+					<entry key="on_executed" type="table">
+						<entry index="1" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="100077"/>
+						</entry>
+					</entry>
+					<entry key="position" type="vector3" value="-612.987 1492.12 108.647"/>
+					<entry key="radius" type="number" value="250"/>
+					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
+					<entry key="shape_type" type="string" value="box"/>
+					<entry key="spawn_unit_elements" type="table">
+					</entry>
+					<entry key="trigger_on" type="string" value="on_enter"/>
+					<entry key="trigger_times" type="number" value="1"/>
+					<entry key="use_disabled_shapes" type="boolean" value="false"/>
+					<entry key="width" type="number" value="200"/>
+				</entry>
+			</entry>
 		</entry>
 		<entry key="instances" type="table">
 			<entry index="1" type="string" value="wz_pku_supplies_random_005"/>
@@ -2793,6 +3013,8 @@
 			<entry index="28" type="string" value="wz_pku_supplies_random_001"/>
 			<entry index="29" type="string" value="wz_pku_supplies_random_002"/>
 			<entry index="30" type="string" value="wz_pku_supplies_random_003"/>
+			<entry index="31" type="string" value="wz_hex_manager_001"/>
+			<entry index="32" type="string" value="wz_pku_supplies_random_004"/>
 		</entry>
 		<entry key="name" type="string" value="default"/>
 	</entry>
