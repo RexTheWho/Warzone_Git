@@ -1,5 +1,5 @@
 # Blender MTL File: 'wz_vegetation_bush_medium.blend'
-# Material Count: 3
+# Material Count: 5
 
 newmtl None
 Ns 0
@@ -29,4 +29,26 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 0
+map_Kd C:\\Program Files (x86)\\Steam\\steamapps\\common\\PAYDAY 2\\assets\\extract\\units\\pd2_dlc_berry\\vegetation\\bry_vegetation_bush_large\\bry_vegetation_bush_large_bilboard_df.texture.dds
+
+newmtl mtl_bush_billboard_bry_vegetation_bush_large_bilboard_df.texture.dds
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 0
 map_Kd C:\Program Files (x86)\Steam\steamapps\common\PAYDAY 2\assets\extract\units\pd2_dlc_berry\vegetation\bry_vegetation_bush_large\bry_vegetation_bush_large_bilboard_df.texture.dds
+
+newmtl mtl_bush_lod
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 0
+map_Kd C:\Program Files (x86)\Steam\steamapps\common\PAYDAY 2\assets\extract\units\pd2_dlc_berry\vegetation\bry_vegetation_bush_large\bry_vegetation_bush_large_df.texture.dds

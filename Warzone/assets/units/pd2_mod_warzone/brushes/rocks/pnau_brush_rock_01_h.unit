@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<unit type="fakebrush" slot="1">
+	<object file="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_h" />
+	<extensions>
+		<extension name="unit_data" class="ScriptUnitData" />
+	</extensions>
+</unit>

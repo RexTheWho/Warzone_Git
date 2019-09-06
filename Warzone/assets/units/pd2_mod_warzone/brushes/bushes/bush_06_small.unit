@@ -1,0 +1,9 @@
+<unit type="brush" slot="29" >
+	<object file="units/payday2/brushes/bushes/bush_06_small" />
+	<mass>
+		<spawn in="4900" method="pool" out="5000" />
+	</mass>	
+    <extensions>
+        <extension class="ScriptUnitData" name="unit_data" />
+    </extensions>
+</unit>

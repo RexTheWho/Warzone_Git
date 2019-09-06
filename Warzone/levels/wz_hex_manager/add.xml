@@ -1,1 +1,42 @@
-<table directory="assets"/>
+<table directory="assets">
+	<add unload_on_restart="true">
+		<material_config	path="units/pd2_mod_warzone/markers/wz_marker"/>
+		<texture			path="units/pd2_mod_warzone/markers/marker_op"/>
+		<texture			path="units/pd2_mod_warzone/markers/marker_red"/>
+		<unit				path="units/pd2_mod_warzone/markers/wz_marker_attack"/>
+		<object				path="units/pd2_mod_warzone/markers/wz_marker_attack"/>
+		<model				path="units/pd2_mod_warzone/markers/wz_marker_attack"/>
+	<!--Terrain-->
+		<material_config	path="units/pd2_mod_warzone/terrain/wz_terrain"/>
+		<texture			path="units/pd2_mod_warzone/terrain/textures/wz_terrain_rock_solid_df"/>
+		<texture			path="units/pd2_mod_warzone/terrain/textures/wz_terrain_rock_solid_nm"/>
+		<texture			path="units/pd2_mod_warzone/terrain/textures/wz_terrain_rock_solid_gsma"/>
+		
+		<unit				path="units/pd2_mod_warzone/terrain/wz_terrain_test_supersize"/>
+		<object				path="units/pd2_mod_warzone/terrain/wz_terrain_test_supersize"/>
+		<model				path="units/pd2_mod_warzone/terrain/wz_terrain_test_supersize"/>
+		<unit				path="units/pd2_mod_warzone/terrain/wz_terrain_island_mega"/>
+		<object				path="units/pd2_mod_warzone/terrain/wz_terrain_island_mega"/>
+		<model				path="units/pd2_mod_warzone/terrain/wz_terrain_island_mega"/>
+		
+		<unit				path="units/pd2_mod_warzone/terrain/wz_terrain_flat_128m"/>
+		<object				path="units/pd2_mod_warzone/terrain/wz_terrain_flat_128m"/>
+		<model				path="units/pd2_mod_warzone/terrain/wz_terrain_flat_128m"/>
+		<unit				path="units/pd2_mod_warzone/terrain/wz_terrain_flat_128m_hole"/>
+		<object				path="units/pd2_mod_warzone/terrain/wz_terrain_flat_128m_hole"/>
+		<model				path="units/pd2_mod_warzone/terrain/wz_terrain_flat_128m_hole"/>
+		<unit				path="units/pd2_mod_warzone/terrain/wz_terrain_flat_256m"/>
+		<object				path="units/pd2_mod_warzone/terrain/wz_terrain_flat_256m"/>
+		<model				path="units/pd2_mod_warzone/terrain/wz_terrain_flat_256m"/>
+	</add>
+	<add path="units/test/jocke/plane_black_temp" type="unit">
+		<material_config force="true" path="units/test/jocke/plane_black_temp" unload="true"/>
+		<object force="true" path="units/test/jocke/plane_black_temp" unload="true"/>
+		<unit force="true" path="units/test/jocke/plane_black_temp" unload="true"/>
+	</add>
+	<add path="units/dev_tools/editable_text_long/editable_text_long" type="unit">
+		<unit force="true" path="units/dev_tools/editable_text_long/editable_text_long" unload="true"/>
+		<object force="true" path="units/dev_tools/editable_text_long/editable_text_long" unload="true"/>
+		<material_config force="true" path="units/dev_tools/editable_text_long/editable_text_long" unload="true"/>
+	</add>
+</table>

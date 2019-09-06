@@ -1,0 +1,16 @@
+<dynamic_object>
+    <diesel orientation_object="rp_ind_brush_concrete_debris_a" materials="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris" />
+    <bodies>
+        <body enabled="true" template="editor" name="editor_body" >
+            <object collision_type="box" name="g_g" />
+        </body>
+    </bodies>
+	<graphics>
+		<lod_object name="lod_hide_brush">
+			<object name="g_g"			lod="0" enabled="true"	instance_struct="world_tm" max_distance="4800" />
+			<object name="g_nothing"	lod="1" enabled="false"	instance_struct="world_tm" />
+		</lod_object>
+	</graphics>
+</dynamic_object>
+
+

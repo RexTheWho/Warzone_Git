@@ -1,0 +1,8 @@
+<materials version="3">
+    <material name="mat_pnau_brush_grass" render_template="generic:ALIGN_NORMAL_WORLD_Z:ALPHA_MASKED:DIFFUSE_TEXTURE:DOUBLE_SIDED:EXTERNAL_ALPHA_REF:INSTANCED:OPACITY_TEXTURE" version="2">
+        <variable value="0.64800000190735" type="scalar" name="normal_world_z_blend"/>
+        <diffuse_texture file="units/payday2/nature/pnau/pnau_brush/pnau_brush_grass/pnau_brush_grass_df"/>
+        <opacity_texture file="units/payday2/nature/pnau/pnau_brush/pnau_brush_grass/pnau_brush_grass_op"/>
+        <variable value="0.20200000703335" type="scalar" name="alpha_ref"/>
+    </material>
+</materials>

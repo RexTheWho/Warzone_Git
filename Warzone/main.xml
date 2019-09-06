@@ -17,13 +17,16 @@
 			<hook file="equipmentstweakdata.lua" source_file="lib/tweak_data/equipmentstweakdata"/>
 			<hook file="hudiconstweakdata.lua" source_file="lib/tweak_data/hudiconstweakdata"/>
 			<hook file="vehicletweakdata.lua" source_file="lib/tweak_data/vehicletweakdata"/>
-			<hook file="elementareatrigger.lua" source_file="lib/managers/mission/elementareatrigger"/>
 			<hook file="WeaponTweakData.lua" source_file="lib/tweak_data/weapontweakdata"/>
 			<hook file="ProjectilesTweakData.lua" source_file="lib/tweak_data/blackmarket/projectilestweakdata"/>
+			<hook file="SkillTreeTweakData.lua" source_file="lib/tweak_data/skilltreetweakdata"/>
+			<hook file="UpgradesTweakData.lua" source_file="lib/tweak_data/upgradestweakdata"/>
 			<hook file="WeaponFactoryTweakData.lua" source_file="lib/tweak_data/weaponfactorytweakdata"/>
 			<hook file="TweakData.lua" source_file="lib/tweak_data/tweakdata"/>
 			<hook file="Setup.lua" source_file="lib/setups/gamesetup"/>
 			<hook file="MissionManager.lua" source_file="lib/managers/missionmanager"/>
+			<hook file="ElementAreaTrigger.lua" source_file="lib/managers/mission/elementareatrigger"/>
+			<hook file="ElementStopWatch.lua" source_file="lib/managers/mission/elementstopwatch"/>
 		</hooks>
 		<include directory="levels/wz_demo">
 			<file file="world.world" type="generic_xml"/>
@@ -37,6 +40,7 @@
 			<file file="world/world.continent" type="custom_xml"/>
 			<file file="world/world.mission" type="generic_xml"/>
 			<file file="cover_data.cover_data" type="custom_xml"/>
+			<file file="environments/dev_flat.environment" type="custom_xml"/>
 			<file file="environments/wz_demo.environment" type="custom_xml"/>
 			<file file="environments/wz_temp.environment" type="custom_xml"/>
 			<file file="environments/terrain_test_env.environment" type="custom_xml"/>
@@ -49,7 +53,7 @@
 			<value_node value="levels/narratives/locke/des/editor_only/editor_only"/>
 			<value_node value="levels/narratives/short1/stage1/editor_only/editor_only"/>
 			<value_node value="levels/narratives/e_framing_frame/stage_2/editor_only/editor_only"/>
-			<value_node value="levels/narratives/vlad/moon/mkp/mkp"/>
+			<value_node value="levels/narratives/bain/shadow_raid/editor_only/editor_only"/>
 		</packages>
 		<script_data_mods directory="scriptdata">
 			<mod replacement="objectives.objective" replacement_type="custom_xml" target_ext="objective" target_path="gamedata/objectives">
@@ -71,18 +75,23 @@
 		<hooks directory="hooks">
 			<hook file="UnitNetworkHandler.lua" source_file="lib/network/handlers/unitnetworkhandler"/>
 			<hook file="playerequipment.lua" source_file="lib/units/beings/player/playerequipment"/>
-			<hook file="charactertweakdata.lua" source_file="lib/tweak_data/charactertweakdata"/>
+			<hook file="CharacterTweakData.lua" source_file="lib/tweak_data/charactertweakdata"/>
 			<hook file="carrytweakdata.lua" source_file="lib/tweak_data/carrytweakdata"/>
 			<hook file="interactiontweakdata.lua" source_file="lib/tweak_data/interactiontweakdata"/>
 			<hook file="moneytweakdata.lua" source_file="lib/tweak_data/moneytweakdata"/>
 			<hook file="equipmentstweakdata.lua" source_file="lib/tweak_data/equipmentstweakdata"/>
 			<hook file="hudiconstweakdata.lua" source_file="lib/tweak_data/hudiconstweakdata"/>
 			<hook file="vehicletweakdata.lua" source_file="lib/tweak_data/vehicletweakdata"/>
-			<hook file="elementareatrigger.lua" source_file="lib/managers/mission/elementareatrigger"/>
 			<hook file="WeaponTweakData.lua" source_file="lib/tweak_data/weapontweakdata"/>
 			<hook file="ProjectilesTweakData.lua" source_file="lib/tweak_data/blackmarket/projectilestweakdata"/>
+			<hook file="SkillTreeTweakData.lua" source_file="lib/tweak_data/skilltreetweakdata"/>
+			<hook file="UpgradesTweakData.lua" source_file="lib/tweak_data/upgradestweakdata"/>
 			<hook file="WeaponFactoryTweakData.lua" source_file="lib/tweak_data/weaponfactorytweakdata"/>
 			<hook file="TweakData.lua" source_file="lib/tweak_data/tweakdata"/>
+			<hook file="Setup.lua" source_file="lib/setups/gamesetup"/>
+			<hook file="MissionManager.lua" source_file="lib/managers/missionmanager"/>
+			<hook file="ElementAreaTrigger.lua" source_file="lib/managers/mission/elementareatrigger"/>
+			<hook file="ElementStopWatch.lua" source_file="lib/managers/mission/elementstopwatch"/>
 		</hooks>
 		<include directory="levels/wz_pku_supplies_random">
 			<file file="world.world" type="generic_xml"/>
@@ -98,23 +107,45 @@
 			<file file="cover_data.cover_data" type="custom_xml"/>
 			<file file="environments/default.environment" type="custom_xml"/>
 		</include>
-		<packages>
-			<value_node value="levels/narratives/elephant/chew/collision/collision"/>
-		</packages>
+		<packages/>
 		<script_data_mods directory="scriptdata">
 			<mod replacement="objectives.objective" replacement_type="custom_xml" target_ext="objective" target_path="gamedata/objectives">
+				<options merge_mode="add" mode="add"/>
+			</mod>
+			<mod replacement="hints.hint" replacement_type="custom_xml" target_ext="hint" target_path="gamedata/hints">
 				<options merge_mode="add" mode="add"/>
 			</mod>
 		</script_data_mods>
 	</level>
 	<level ai_group_type="america" id="wz_hex_manager" max_bags="54">
-		<add directory="assets"/>
+		<add file="levels/wz_hex_manager/add.xml"/>
 		<assets>
 			<asset name="ammo_bag"/>
 			<asset name="health_bag"/>
 			<asset name="grenade_crate"/>
 			<asset name="bodybags_bag"/>
 		</assets>
+		<hooks directory="hooks">
+			<hook file="UnitNetworkHandler.lua" source_file="lib/network/handlers/unitnetworkhandler"/>
+			<hook file="playerequipment.lua" source_file="lib/units/beings/player/playerequipment"/>
+			<hook file="CharacterTweakData.lua" source_file="lib/tweak_data/charactertweakdata"/>
+			<hook file="carrytweakdata.lua" source_file="lib/tweak_data/carrytweakdata"/>
+			<hook file="interactiontweakdata.lua" source_file="lib/tweak_data/interactiontweakdata"/>
+			<hook file="moneytweakdata.lua" source_file="lib/tweak_data/moneytweakdata"/>
+			<hook file="equipmentstweakdata.lua" source_file="lib/tweak_data/equipmentstweakdata"/>
+			<hook file="hudiconstweakdata.lua" source_file="lib/tweak_data/hudiconstweakdata"/>
+			<hook file="vehicletweakdata.lua" source_file="lib/tweak_data/vehicletweakdata"/>
+			<hook file="WeaponTweakData.lua" source_file="lib/tweak_data/weapontweakdata"/>
+			<hook file="ProjectilesTweakData.lua" source_file="lib/tweak_data/blackmarket/projectilestweakdata"/>
+			<hook file="SkillTreeTweakData.lua" source_file="lib/tweak_data/skilltreetweakdata"/>
+			<hook file="UpgradesTweakData.lua" source_file="lib/tweak_data/upgradestweakdata"/>
+			<hook file="WeaponFactoryTweakData.lua" source_file="lib/tweak_data/weaponfactorytweakdata"/>
+			<hook file="TweakData.lua" source_file="lib/tweak_data/tweakdata"/>
+			<hook file="Setup.lua" source_file="lib/setups/gamesetup"/>
+			<hook file="MissionManager.lua" source_file="lib/managers/missionmanager"/>
+			<hook file="ElementAreaTrigger.lua" source_file="lib/managers/mission/elementareatrigger"/>
+			<hook file="ElementStopWatch.lua" source_file="lib/managers/mission/elementstopwatch"/>
+		</hooks>
 		<include directory="levels/wz_hex_manager">
 			<file file="world.world" type="generic_xml"/>
 			<file file="continents.continents" type="custom_xml"/>
@@ -129,16 +160,27 @@
 			<file file="cover_data.cover_data" type="custom_xml"/>
 			<file file="environments/default.environment" type="custom_xml"/>
 		</include>
-		<packages>
-			<value_node value="levels/narratives/elephant/chew/collision/collision"/>
-			<value_node value="levels/narratives/locke/des/editor_only/editor_only"/>
-		</packages>
+		<packages/>
 		<script_data_mods directory="scriptdata">
 			<mod replacement="objectives.objective" replacement_type="custom_xml" target_ext="objective" target_path="gamedata/objectives">
 				<options merge_mode="add" mode="add"/>
 			</mod>
+			<mod replacement="hints.hint" replacement_type="custom_xml" target_ext="hint" target_path="gamedata/hints">
+				<options merge_mode="add" mode="add"/>
+			</mod>
 		</script_data_mods>
 	</level>
+	<instance id="wz_global_manager">
+		<add file="levels/wz_global_manager/add.xml"/>
+		<include directory="levels/wz_global_manager">
+			<file file="world.world" type="generic_xml"/>
+			<file file="world/world.continent" type="custom_xml"/>
+			<file file="world/world.mission" type="generic_xml"/>
+			<file file="editor_only/editor_only.continent" type="custom_xml"/>
+			<file file="editor_only/editor_only.mission" type="generic_xml"/>
+		</include>
+		<packages/>
+	</instance>
 	<instance id="wz_pku_supplies_random">
 		<add file="levels/wz_pku_supplies_random/add.xml"/>
 		<include directory="levels/wz_pku_supplies_random">
@@ -161,13 +203,144 @@
 		</include>
 		<packages/>
 	</instance>
+	<instance id="wz_base_alarm">
+		<add file="levels/wz_base_alarm/add.xml"/>
+		<include directory="levels/wz_base_alarm">
+			<file file="world.world" type="generic_xml"/>
+			<file file="world/world.continent" type="custom_xml"/>
+			<file file="world/world.mission" type="generic_xml"/>
+			<file file="editor_only/editor_only.continent" type="custom_xml"/>
+			<file file="editor_only/editor_only.mission" type="generic_xml"/>
+		</include>
+		<packages>
+			<value_node value="levels/narratives/elephant/chew/collision/collision"/>
+			<value_node value="levels/narratives/vlad/moon/mkp/mkp"/>
+			<value_node value="levels/narratives/bain/big/day/day"/>
+		</packages>
+	</instance>
+	<level ai_group_type="america" id="wz_base_alarm" max_bags="54">
+		<add file="levels/wz_base_alarm/add.xml"/>
+		<assets>
+			<asset name="ammo_bag"/>
+			<asset name="health_bag"/>
+			<asset name="grenade_crate"/>
+			<asset name="bodybags_bag"/>
+		</assets>
+		<hooks directory="hooks">
+			<hook file="UnitNetworkHandler.lua" source_file="lib/network/handlers/unitnetworkhandler"/>
+			<hook file="playerequipment.lua" source_file="lib/units/beings/player/playerequipment"/>
+			<hook file="CharacterTweakData.lua" source_file="lib/tweak_data/charactertweakdata"/>
+			<hook file="carrytweakdata.lua" source_file="lib/tweak_data/carrytweakdata"/>
+			<hook file="interactiontweakdata.lua" source_file="lib/tweak_data/interactiontweakdata"/>
+			<hook file="moneytweakdata.lua" source_file="lib/tweak_data/moneytweakdata"/>
+			<hook file="equipmentstweakdata.lua" source_file="lib/tweak_data/equipmentstweakdata"/>
+			<hook file="hudiconstweakdata.lua" source_file="lib/tweak_data/hudiconstweakdata"/>
+			<hook file="vehicletweakdata.lua" source_file="lib/tweak_data/vehicletweakdata"/>
+			<hook file="WeaponTweakData.lua" source_file="lib/tweak_data/weapontweakdata"/>
+			<hook file="ProjectilesTweakData.lua" source_file="lib/tweak_data/blackmarket/projectilestweakdata"/>
+			<hook file="SkillTreeTweakData.lua" source_file="lib/tweak_data/skilltreetweakdata"/>
+			<hook file="UpgradesTweakData.lua" source_file="lib/tweak_data/upgradestweakdata"/>
+			<hook file="WeaponFactoryTweakData.lua" source_file="lib/tweak_data/weaponfactorytweakdata"/>
+			<hook file="TweakData.lua" source_file="lib/tweak_data/tweakdata"/>
+			<hook file="Setup.lua" source_file="lib/setups/gamesetup"/>
+			<hook file="MissionManager.lua" source_file="lib/managers/missionmanager"/>
+			<hook file="ElementAreaTrigger.lua" source_file="lib/managers/mission/elementareatrigger"/>
+			<hook file="ElementStopWatch.lua" source_file="lib/managers/mission/elementstopwatch"/>
+		</hooks>
+		<include directory="levels/wz_base_alarm">
+			<file file="world.world" type="generic_xml"/>
+			<file file="continents.continents" type="custom_xml"/>
+			<file file="mission.mission" type="custom_xml"/>
+			<file file="nav_manager_data.nav_data" type="generic_xml"/>
+			<file file="world_sounds.world_sounds" type="generic_xml"/>
+			<file file="world_cameras.world_cameras" type="custom_xml"/>
+			<file file="editor_only/editor_only.continent" type="custom_xml"/>
+			<file file="editor_only/editor_only.mission" type="generic_xml"/>
+			<file file="world/world.continent" type="custom_xml"/>
+			<file file="world/world.mission" type="generic_xml"/>
+			<file file="cover_data.cover_data" type="custom_xml"/>
+			<file file="environments/default.environment" type="custom_xml"/>
+		</include>
+		<packages>
+			<value_node value="levels/narratives/elephant/chew/collision/collision"/>
+			<value_node value="levels/narratives/vlad/moon/mkp/mkp"/>
+			<value_node value="levels/narratives/bain/big/day/day"/>
+		</packages>
+		<script_data_mods directory="scriptdata">
+			<mod replacement="objectives.objective" replacement_type="custom_xml" target_ext="objective" target_path="gamedata/objectives">
+				<options merge_mode="add" mode="add"/>
+			</mod>
+			<mod replacement="hints.hint" replacement_type="custom_xml" target_ext="hint" target_path="gamedata/hints">
+				<options merge_mode="add" mode="add"/>
+			</mod>
+		</script_data_mods>
+	</level>
+	<level ai_group_type="america" id="wz_global_manager" max_bags="54">
+		<add file="levels/wz_global_manager/add.xml"/>
+		<assets>
+			<asset name="ammo_bag"/>
+			<asset name="health_bag"/>
+			<asset name="grenade_crate"/>
+			<asset name="bodybags_bag"/>
+		</assets>
+		<hooks directory="hooks">
+			<hook file="UnitNetworkHandler.lua" source_file="lib/network/handlers/unitnetworkhandler"/>
+			<hook file="playerequipment.lua" source_file="lib/units/beings/player/playerequipment"/>
+			<hook file="CharacterTweakData.lua" source_file="lib/tweak_data/charactertweakdata"/>
+			<hook file="carrytweakdata.lua" source_file="lib/tweak_data/carrytweakdata"/>
+			<hook file="interactiontweakdata.lua" source_file="lib/tweak_data/interactiontweakdata"/>
+			<hook file="moneytweakdata.lua" source_file="lib/tweak_data/moneytweakdata"/>
+			<hook file="equipmentstweakdata.lua" source_file="lib/tweak_data/equipmentstweakdata"/>
+			<hook file="hudiconstweakdata.lua" source_file="lib/tweak_data/hudiconstweakdata"/>
+			<hook file="vehicletweakdata.lua" source_file="lib/tweak_data/vehicletweakdata"/>
+			<hook file="WeaponTweakData.lua" source_file="lib/tweak_data/weapontweakdata"/>
+			<hook file="ProjectilesTweakData.lua" source_file="lib/tweak_data/blackmarket/projectilestweakdata"/>
+			<hook file="SkillTreeTweakData.lua" source_file="lib/tweak_data/skilltreetweakdata"/>
+			<hook file="UpgradesTweakData.lua" source_file="lib/tweak_data/upgradestweakdata"/>
+			<hook file="WeaponFactoryTweakData.lua" source_file="lib/tweak_data/weaponfactorytweakdata"/>
+			<hook file="TweakData.lua" source_file="lib/tweak_data/tweakdata"/>
+			<hook file="Setup.lua" source_file="lib/setups/gamesetup"/>
+			<hook file="MissionManager.lua" source_file="lib/managers/missionmanager"/>
+			<hook file="ElementAreaTrigger.lua" source_file="lib/managers/mission/elementareatrigger"/>
+			<hook file="ElementStopWatch.lua" source_file="lib/managers/mission/elementstopwatch"/>
+		</hooks>
+		<include directory="levels/wz_global_manager">
+			<file file="world.world" type="generic_xml"/>
+			<file file="continents.continents" type="custom_xml"/>
+			<file file="mission.mission" type="custom_xml"/>
+			<file file="nav_manager_data.nav_data" type="generic_xml"/>
+			<file file="world_sounds.world_sounds" type="generic_xml"/>
+			<file file="world_cameras.world_cameras" type="custom_xml"/>
+			<file file="editor_only/editor_only.continent" type="custom_xml"/>
+			<file file="editor_only/editor_only.mission" type="generic_xml"/>
+			<file file="world/world.continent" type="custom_xml"/>
+			<file file="world/world.mission" type="generic_xml"/>
+			<file file="cover_data.cover_data" type="custom_xml"/>
+			<file file="environments/default.environment" type="custom_xml"/>
+		</include>
+		<packages>
+			<value_node value="levels/narratives/elephant/chew/collision/collision"/>
+			<value_node value="levels/narratives/locke/des/editor_only/editor_only"/>
+			<value_node value="levels/instances/unique/cane/cane_trap_flame/world/world"/>
+		</packages>
+		<script_data_mods directory="scriptdata">
+			<mod replacement="objectives.objective" replacement_type="custom_xml" target_ext="objective" target_path="gamedata/objectives">
+				<options merge_mode="add" mode="add"/>
+			</mod>
+			<mod replacement="hints.hint" replacement_type="custom_xml" target_ext="hint" target_path="gamedata/hints">
+				<options merge_mode="add" mode="add"/>
+			</mod>
+		</script_data_mods>
+	</level>
 	<AssetUpdates id="-1" provider="modworkshop" use_local_dir="true" version="1"/>
 	<Localization default="english.txt" directory="loc"/>
-	<contact assets_gui="guis/mission_briefing/preload_contact_hector" hidden="false" id="contractor_warzone" name_id="contractor_warzone_name" package="packages/contact_hector"/>
+	<contact assets_gui="guis/dlcs/the_bomb/guis/preload_contact_the_butcher" hidden="false" id="contractor_warzone" name_id="contractor_warzone_name" package="packages/contact_the_butcher"/>
 	<narrative contact="contractor_warzone" id="wz_demo">
 		<chain>
 			<table level_id="wz_demo" type="d" type_id="heist_type_assault"/>
 			<table level_id="wz_hex_manager" type="d" type_id="heist_type_assault"/>
+			<table level_id="wz_base_alarm" type="d" type_id="heist_type_assault"/>
+			<table level_id="wz_global_manager" type="d" type_id="heist_type_assault"/>
 		</chain>
 		<contract_cost>
 			<value_node value="1"/>

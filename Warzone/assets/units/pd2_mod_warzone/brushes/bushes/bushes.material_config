@@ -1,0 +1,11 @@
+<materials version="3">
+    <material name="mat_leaves" render_template="generic:ALIGN_NORMAL_WORLD_Z:ALPHA_MASKED:DIFFUSE_TEXTURE:DOUBLE_SIDED:EXTERNAL_ALPHA_REF:INSTANCED:NORMALMAP:VEGETATION_BENDING" version="2">
+        <diffuse_texture file="units/payday2/brushes/bushes/bushes_df"/>
+        <bump_normal_texture file="units/payday2/brushes/bushes/bushes_nm"/>
+        <variable value="1.5" type="scalar" name="speed"/>
+        <variable value="5.5620002746582 0.30000001192093 0" type="vector3" name="detail_settings"/>
+        <variable value="15 0.12100000679493 0" type="vector3" name="branch_settings"/>
+        <variable value="0.026000000536442" type="scalar" name="normal_world_z_blend"/>
+        <variable value="0.019999" type="scalar" name="alpha_ref"/>
+    </material>
+</materials>

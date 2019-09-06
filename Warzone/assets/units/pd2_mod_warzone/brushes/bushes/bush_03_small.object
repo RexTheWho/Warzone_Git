@@ -1,0 +1,17 @@
+<dynamic_object>
+	<diesel materials="units/payday2/brushes/bushes/bushes" orientation_object="rp_bush_03_small" />
+	<graphics>
+        <object enabled="true" name="g_g" lod="0" max_distance="750" instance_struct="world_tm"/>
+	</graphics>
+</dynamic_object>
+
+
+
+
+
+
+
+
+
+
+

@@ -1,4 +1,6 @@
 <table>
-	<hint id="wz_loc_ene_camp_radio" event="stinger_feedback_negative" text_id="wz_loc_ene_camp_radio_text"/>
-	<hint id="wz_loc_fri_camp_radio" event="stinger_feedback_positive" text_id="wz_loc_fri_camp_radio_text"/>
+	<hint id="wz_loc_ene_camp_radio"		event="stinger_feedback_negative"	text_id="wz_loc_ene_camp_radio_text"/>
+	<hint id="wz_loc_fri_camp_radio"		event="stinger_feedback_positive"	text_id="wz_loc_fri_camp_radio_text"/>
+	<hint id="wz_warn_mission_wrn_fail"		event="stinger_feedback_negative"	text_id="wz_warn_mission_wrn_fail_text"/>
+	<hint id="wz_warn_mission_alr_found"	event="stinger_feedback_positive"	text_id="wz_warn_mission_alr_found_text"/>
 </table>

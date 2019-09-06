@@ -3,14 +3,11 @@
 	<diesel materials="units/pd2_mod_warzone/markers/wz_marker" orientation_object="rp_root" />
 	
 	<bodies>
-		<body name="body_main" enabled="true" template="static">
+		<body name="body_main" enabled="true" template="editor">
 			<object name="rp_root"/>
-			<object name="g_marker"		collision_type="mesh_mopp" padding="-2.5" />
+			<object name="g_marker"		collision_type="mesh_mopp" />
 		</body>	
 	</bodies>
-	
-	<decal_surfaces default_material="concrete" static="true">
-	</decal_surfaces>
 	
 	<graphics>
 		<graphic_group name="g_group" enabled="true" culling_object="co_culling">

@@ -1,6 +1,6 @@
-Hooks:PostHook(HudIconsTweakData,"init","raidday2_hudiconstweak_init",function(self)
+Hooks:PostHook(HudIconsTweakData,"init","warzone_hudiconstweak_init",function(self)
 
-
+	--EQUIPMENT
 	self.equipment_dynamite = {
 		texture = "ui/atlas/raid_atlas_hud",
 		texture_rect = {
@@ -10,42 +10,25 @@ Hooks:PostHook(HudIconsTweakData,"init","raidday2_hudiconstweak_init",function(s
 			32
 		}
 	}
-	self.equipment_dynamite_bag = {
-		texture = "ui/atlas/raid_atlas_hud",
-		texture_rect = {
-			609,
-			1316,
-			32,
-			32
-		}
-	}
-	self.equipment_fuelcan_empty = {
-		texture = "ui/atlas/raid_atlas_hud",
-		texture_rect = {
-			609,
-			1279,
-			32,
-			32
-		}
-	}
-	self.equipment_fuelcan_full = {
-		texture = "ui/atlas/raid_atlas_hud",
-		texture_rect = {
-			643,
-			1313,
-			32,
-			32
-		}
-	}
-	self.equipment_safe_key = {
-		texture = "ui/atlas/raid_atlas_hud",
-		texture_rect = {
-			682,
-			1716,
-			32,
-			32
-		}
-	}
 	
+	--WAYPOINTS
+	self.wz_wp_player_camp = {
+		texture = "guis/warzone/textures/hud/wz_waypoints",
+		texture_rect = {
+			0,
+			0,
+			32,
+			32
+		}
+	}
+	self.wz_wp_player_goto = {
+		texture = "guis/warzone/textures/hud/wz_waypoints",
+		texture_rect = {
+			32,
+			0,
+			32,
+			32
+		}
+	}
 	
 end)

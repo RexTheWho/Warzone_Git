@@ -20,7 +20,7 @@ d 1.000000
 illum 0
 map_Kd C:\Program Files (x86)\Steam\steamapps\common\PAYDAY 2\assets\extract\units\pd2_dlc_berry\vegetation\bry_vegetation_bush_large\bry_vegetation_bush_large_df.texture.dds
 
-newmtl mtl_bush_billboard
+newmtl mtl_bush_lod
 Ns 96.078431
 Ka 1.000000 1.000000 1.000000
 Kd 0.640000 0.640000 0.640000
@@ -29,4 +29,4 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 0
-map_Kd C:\Program Files (x86)\Steam\steamapps\common\PAYDAY 2\assets\extract\units\pd2_dlc_berry\vegetation\bry_vegetation_bush_large\bry_vegetation_bush_large_bilboard_df.texture.dds
+map_Kd C:\Program Files (x86)\Steam\steamapps\common\PAYDAY 2\assets\extract\units\pd2_dlc_berry\vegetation\bry_vegetation_bush_large\bry_vegetation_bush_large_df.texture.dds

@@ -10,26 +10,17 @@
 		remove_on_impact = true
 	}
 	
-	
-	
-	
-	
-	
-	
-	
-
-	tweak_data.overlay_effects.wz_loc_enemy_radio_camp = {
-		sustain = 30,
-		blend_mode = "normal",
-		fade_in = 3,
-		text_blend_mode = "add",
-		fade_out = 0,
-		font = "fonts/font_large_mf",
-		text = [[LOCATION // Radio Camp]],
-		font_size = 44,
-		text_to_upper = false,
-		play_paused = true,
-		color = Color(1, 0, 0, 0),
-		timer = TimerManager:main(),
-		text_color = Color(255, 255, 255, 0) / 255
+	tweak_data.projectiles.wz_throwable_flare = {
+		damage = 0,
+		curve_pow = 0.1,
+		range = 1500,
+		name_id = "bm_wz_throwable_flare",
+		duration = 10,
+		dodge_chance = 0.5,
+		init_timer = 0,
+		accuracy_roll_chance = 0.5,
+		accuracy_fail_spread = {
+			5,
+			10
+		}
 	}

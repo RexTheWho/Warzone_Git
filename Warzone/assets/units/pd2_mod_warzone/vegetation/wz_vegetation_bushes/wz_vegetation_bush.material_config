@@ -1,0 +1,36 @@
+<materials version="3">
+	<!--Bry-->
+    <material name="mat_largebush" render_template="generic:ALPHA_MASKED:DIFFUSE_TEXTURE:DISTANCE_FADE_4:DOUBLE_SIDED:EXTERNAL_ALPHA_REF:INSTANCED:NORMALMAP" version="2">
+        <diffuse_texture		file="units/pd2_dlc_berry/vegetation/bry_vegetation_bush_large/bry_vegetation_bush_large_df"/>
+        <bump_normal_texture	file="units/pd2_dlc_berry/vegetation/bry_vegetation_bush_large/bry_vegetation_bush_large_nm"/>
+		
+        <variable	name="speed"			value="0.3" type="scalar"/>
+        <variable	name="detail_settings"	value="2.32 0.175 0" type="vector3"/>
+        <variable	name="branch_settings"	value="1.5 1.43 0" type="vector3"/>
+        <variable	name="alpha_ref"		value="0.1" type="scalar"/>
+    </material>
+	<!--WZ-->
+    <material name="mtl_bush" render_template="generic:ALPHA_MASKED:DIFFUSE_TEXTURE:DOUBLE_SIDED:EXTERNAL_ALPHA_REF:INSTANCED:NORMALMAP" version="2">
+        <diffuse_texture		file="units/pd2_dlc_berry/vegetation/bry_vegetation_bush_large/bry_vegetation_bush_large_df"/>
+        <bump_normal_texture	file="units/pd2_dlc_berry/vegetation/bry_vegetation_bush_large/bry_vegetation_bush_large_nm"/>
+		
+        <variable	name="speed"			value="0.3" type="scalar"/>
+        <variable	name="detail_settings"	value="2.32 0.175 0" type="vector3"/>
+        <variable	name="branch_settings"	value="1.5 1.43 0" type="vector3"/>
+        <variable	name="alpha_ref"		value="0.1" type="scalar"/>
+    </material>
+    <material name="mtl_bush_lod" render_template="generic:ALPHA_MASKED:DIFFUSE_TEXTURE:DISTANCE_FADE_4:DOUBLE_SIDED:EXTERNAL_ALPHA_REF:INSTANCED:NORMALMAP" version="2">
+        <diffuse_texture		file="units/pd2_dlc_berry/vegetation/bry_vegetation_bush_large/bry_vegetation_bush_large_df" mip="1"/>
+        <bump_normal_texture	file="units/pd2_dlc_berry/vegetation/bry_vegetation_bush_large/bry_vegetation_bush_large_nm" mip="1"/>
+		
+        <variable	name="speed"			value="0.3" type="scalar"/>
+        <variable	name="detail_settings"	value="2.32 0.175 0" type="vector3"/>
+        <variable	name="branch_settings"	value="1.5 1.43 0" type="vector3"/>
+        <variable	name="alpha_ref"		value="0.05" type="scalar"/>
+    </material>
+	
+    <material name="mtl_bush_billboard" render_template="generic:ALPHA_MASKED:DIFFUSE_TEXTURE:EXTERNAL_ALPHA_REF:INSTANCED" version="2">
+        <diffuse_texture		file="units/pd2_dlc_berry/vegetation/bry_vegetation_bush_large/bry_vegetation_bush_large_bilboard_df"/>
+        <variable				value="0.008" type="scalar" name="alpha_ref"/>
+    </material>
+</materials>

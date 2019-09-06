@@ -1,42 +1,50 @@
 <table>
 	<editor_groups/>
 	<instances>
-		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="1000" name="wz_pku_supplies_random_005" position="11441 15627 115" rotation="-0 0 -0.052336 -0.99863" script="default" start_index="4000"/>
-		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="1000" name="wz_pku_supplies_random_006" position="10809 15467 115" rotation="0 0 -0.615661 -0.788011" script="default" start_index="5000"/>
-		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="1000" name="wz_pku_supplies_random_007" position="10085.1 16750 115" rotation="0 0 -0.026177 -0.999657" script="default" start_index="6000"/>
-		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="1000" name="wz_pku_supplies_random_008" position="10709 16767 115" rotation="0 0 0.0958458 -0.995396" script="default" start_index="7000"/>
-		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="1000" name="wz_pku_supplies_random_009" position="11921.1 15686 15" rotation="0 0 -0.67559 -0.737277" script="default" start_index="8000"/>
-		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="1000" name="wz_pku_supplies_random_010" position="10001.1 16284 15" rotation="0 0 0.737277 -0.67559" script="default" start_index="9000"/>
-		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="1000" name="wz_pku_supplies_random_011" position="9895.1 15714 115" rotation="0 0 0 -1" script="default" start_index="10000"/>
-		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="1000" name="wz_pku_supplies_random_012" position="9989.1 14945 0" rotation="0 0 -0.0784591 -0.996917" script="default" start_index="11000"/>
-		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="1000" name="wz_pku_supplies_random_013" position="12158.1 14942 0" rotation="0 0 0.00872654 -0.999962" script="default" start_index="12000"/>
-		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="1000" name="wz_pku_supplies_random_014" position="12279.9 15762.6 7" rotation="0 0 0.0261764 -0.999657" script="default" start_index="13000"/>
-		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="1000" name="wz_pku_supplies_random_015" position="12239.1 16738 15" rotation="0 0 0.0348995 -0.999391" script="default" start_index="14000"/>
-		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="1000" name="wz_pku_supplies_random_016" position="10160.9 17489 115" rotation="0 0 0.771625 -0.636078" script="default" start_index="15000"/>
-		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="1000" name="wz_pku_supplies_random_017" position="11736 17527 115" rotation="0 0 0.0610485 -0.998135" script="default" start_index="16000"/>
-		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="1000" name="wz_pku_supplies_random_018" position="12271 19722 115" rotation="0 0 -0.809017 0.587785" script="default" start_index="17000"/>
-		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="1000" name="wz_pku_supplies_random_019" position="12156 19761 115" rotation="0 0 -0.0697565 -0.997564" script="default" start_index="18000"/>
-		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="1000" name="wz_pku_supplies_random_020" position="11793 20261 115" rotation="0 0 0.0697565 -0.997564" script="default" start_index="19000"/>
-		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="1000" name="wz_pku_supplies_random_021" position="11664 19883 115" rotation="0 0 -0.96363 -0.267238" script="default" start_index="20000"/>
-		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="1000" name="wz_pku_supplies_random_022" position="10339.8 19919.4 20" rotation="0 0 -0.190809 -0.981627" script="default" start_index="21000"/>
-		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="1000" name="wz_pku_supplies_random_023" position="10010.1 19925.1 20" rotation="0 0 -0.636078 -0.771625" script="default" start_index="22000"/>
-		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="1000" name="wz_pku_supplies_random_024" position="10076.8 20501.7 20" rotation="0 0 -0.996195 -0.0871557" script="default" start_index="23000"/>
-		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="1000" name="wz_pku_supplies_random_025" position="9991.09 20235 115" rotation="0 0 -0.766044 -0.642788" script="default" start_index="24000"/>
-		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="1000" name="wz_pku_supplies_random_026" position="6406.97 19089.3 130" rotation="0 0 -0.731354 -0.681998" script="default" start_index="25000"/>
-		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="1000" name="wz_pku_supplies_random_027" position="10752.5 18359.8 130" rotation="0 0 -0.0610485 -0.998135" script="default" start_index="26000"/>
-		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="1000" name="wz_pku_supplies_random_028" position="6008.22 17611.4 144" rotation="0 0 -0.782608 -0.622515" script="default" start_index="27000"/>
-		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="1000" name="wz_pku_supplies_random_029" position="6616.27 17628.7 131.813" rotation="0 0 -0.0958458 0.995396" script="default" start_index="28000"/>
-		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="1000" name="wz_pku_supplies_random_030" position="6827.56 16856.5 19.9235" rotation="0 0 -0.998135 0.0610485" script="default" start_index="29000"/>
-		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="1000" name="wz_pku_supplies_random_031" position="10756.5 18418.8 130" rotation="0 0 -0.996917 -0.0784591" script="default" start_index="30000"/>
-		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="1000" name="wz_pku_supplies_random_001" position="901 900 14" rotation="0 0 -0.707107 -0.707107" script="default" start_index="31000"/>
-		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="1000" name="wz_pku_supplies_random_002" position="801 900 14" rotation="0 0 -0.707107 -0.707107" script="default" start_index="32000"/>
-		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="1000" name="wz_pku_supplies_random_003" position="1001 900 14" rotation="0 0 0.707107 -0.707107" script="default" start_index="33000"/>
-		<table continent="world" folder="levels/instances/mods/wz_hex_manager/world" index_size="1000" name="wz_hex_manager_001" position="-33255.3 19200 0" rotation="-0 0 -0 -1" script="default" start_index="34000"/>
-		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="1000" name="wz_pku_supplies_random_004" position="8329.5 17089.8 100" rotation="0 0 -0.993572 -0.113203" script="default" start_index="35000"/>
+		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="50" name="wz_pku_supplies_camp1_0001" position="11441 15627 115" rotation="-0 0 -0.052336 -0.99863" script="default" start_index="1000"/>
+		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="50" name="wz_pku_supplies_camp1_0002" position="10809 15467 115" rotation="0 0 -0.615661 -0.788011" script="default" start_index="1050"/>
+		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="50" name="wz_pku_supplies_camp1_0003" position="10085.1 16750 115" rotation="0 0 -0.026177 -0.999657" script="default" start_index="1100"/>
+		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="50" name="wz_pku_supplies_camp1_0004" position="10709 16767 115" rotation="0 0 0.0958458 -0.995396" script="default" start_index="1150"/>
+		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="50" name="wz_pku_supplies_camp1_0005" position="11921.1 15686 15" rotation="0 0 -0.67559 -0.737277" script="default" start_index="1200"/>
+		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="50" name="wz_pku_supplies_camp1_0006" position="10001.1 16284 15" rotation="0 0 0.737277 -0.67559" script="default" start_index="1250"/>
+		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="50" name="wz_pku_supplies_camp1_0007" position="9895.1 15714 115" rotation="0 0 0 -1" script="default" start_index="1300"/>
+		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="50" name="wz_pku_supplies_camp1_0008" position="9989.1 14945 0" rotation="0 0 -0.0784591 -0.996917" script="default" start_index="1350"/>
+		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="50" name="wz_pku_supplies_camp1_0009" position="12158.1 14942 0" rotation="0 0 0.00872654 -0.999962" script="default" start_index="1400"/>
+		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="50" name="wz_pku_supplies_camp1_0010" position="12279.9 15762.6 7" rotation="0 0 0.0261764 -0.999657" script="default" start_index="1450"/>
+		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="50" name="wz_pku_supplies_camp1_0011" position="12239.1 16738 15" rotation="0 0 0.0348995 -0.999391" script="default" start_index="1500"/>
+		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="50" name="wz_pku_supplies_camp1_0012" position="10160.9 17489 115" rotation="0 0 0.771625 -0.636078" script="default" start_index="1550"/>
+		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="50" name="wz_pku_supplies_camp1_0013" position="11736 17527 115" rotation="0 0 0.0610485 -0.998135" script="default" start_index="1600"/>
+		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="50" name="wz_pku_supplies_camp1_0014" position="12271 19722 115" rotation="0 0 -0.809017 0.587785" script="default" start_index="1650"/>
+		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="50" name="wz_pku_supplies_camp1_0015" position="12156 19761 115" rotation="0 0 -0.0697565 -0.997564" script="default" start_index="1700"/>
+		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="50" name="wz_pku_supplies_camp1_0016" position="11793 20261 115" rotation="0 0 0.0697565 -0.997564" script="default" start_index="1750"/>
+		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="50" name="wz_pku_supplies_camp1_0017" position="11664 19883 115" rotation="0 0 -0.96363 -0.267238" script="default" start_index="1800"/>
+		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="50" name="wz_pku_supplies_camp1_0018" position="10339.8 19919.4 20" rotation="0 0 -0.190809 -0.981627" script="default" start_index="1950"/>
+		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="50" name="wz_pku_supplies_camp1_0019" position="10010.1 19925.1 20" rotation="0 0 -0.636078 -0.771625" script="default" start_index="2000"/>
+		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="50" name="wz_pku_supplies_camp1_0020" position="10076.8 20501.7 20" rotation="0 0 -0.996195 -0.0871557" script="default" start_index="2050"/>
+		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="50" name="wz_pku_supplies_camp1_0021" position="9991.09 20235 115" rotation="0 0 -0.766044 -0.642788" script="default" start_index="2100"/>
+		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="50" name="wz_pku_supplies_camp1_0022" position="6406.97 19089.3 130" rotation="0 0 -0.731354 -0.681998" script="default" start_index="2150"/>
+		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="50" name="wz_pku_supplies_camp1_0023" position="10752.5 18359.8 130" rotation="0 0 -0.0610485 -0.998135" script="default" start_index="2200"/>
+		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="50" name="wz_pku_supplies_camp1_0024" position="6008.22 17611.4 144" rotation="0 0 -0.782608 -0.622515" script="default" start_index="2250"/>
+		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="50" name="wz_pku_supplies_camp1_0025" position="6616.27 17628.7 131.813" rotation="0 0 -0.0958458 0.995396" script="default" start_index="2300"/>
+		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="50" name="wz_pku_supplies_camp1_0026" position="6827.56 16856.5 19.9235" rotation="0 0 -0.998135 0.0610485" script="default" start_index="2350"/>
+		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="50" name="wz_pku_supplies_camp1_0027" position="10756.5 18418.8 130" rotation="0 0 -0.996917 -0.0784591" script="default" start_index="2400"/>
+		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="50" name="wz_pku_supplies_test_002" position="901 900 14" rotation="0 0 -0.707107 -0.707107" script="default" start_index="2450"/>
+		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="50" name="wz_pku_supplies_test_001" position="801 900 14" rotation="0 0 -0.707107 -0.707107" script="default" start_index="2500"/>
+		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="50" name="wz_pku_supplies_camp1_0030" position="1001 900 14" rotation="0 0 0.707107 -0.707107" script="default" start_index="2550"/>
+		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="50" name="wz_pku_supplies_test_003" position="1001 900 14" rotation="0 0 0.707107 -0.707107" script="default" start_index="2600"/>
+		<table continent="world" folder="levels/instances/mods/wz_pku_supplies_random/world" index_size="50" name="wz_pku_supplies_camp1_0032" position="8329.5 17089.8 100" rotation="0 0 -0.993572 -0.113203" script="default" start_index="2650"/>
+		<table continent="world" folder="levels/instances/mods/wz_hex_manager/world" index_size="1000" name="wz_hex_manager_camp_002" position="-33255.3 19200 0" rotation="-0 0 -0 -1" script="default" start_index="34000"/>
+		<table continent="world" folder="levels/instances/mods/wz_base_alarm/world" index_size="1000" name="wz_base_alarm_001" position="-30455.3 18724 10" rotation="0 0 0.707107 -0.707107" script="default" start_index="36000"/>
+		<table continent="world" folder="levels/instances/mods/wz_base_alarm/world" index_size="1000" name="wz_base_alarm_002" position="-33541.2 18836.8 40.362" rotation="0 0 1 0" script="default" start_index="37000"/>
+		<table continent="world" folder="levels/instances/mods/wz_base_alarm/world" index_size="1000" name="wz_base_alarm_003" position="-32313.2 17890 15.954" rotation="0 0 -0.707107 -0.707107" script="default" start_index="38000"/>
+		<table continent="world" folder="levels/instances/mods/wz_base_alarm/world" index_size="1000" name="wz_base_alarm_004" position="-32492 20211.2 7.42" rotation="0 0 1 0" script="default" start_index="39000"/>
+		<table continent="world" folder="levels/instances/mods/wz_hex_manager/world" index_size="1000" name="wz_hex_manager_camp_001" position="11085.1 19200 50" rotation="-0 0 -0 -1" script="default" start_index="2700"/>
+		<table continent="world" folder="levels/instances/mods/wz_base_alarm/world" index_size="1000" name="wz_base001_alarm_001" position="10543.8 19853.7 15" rotation="0 0 0.707107 -0.707107" script="default" start_index="3700"/>
+		<table continent="world" folder="levels/instances/mods/wz_global_manager/world" index_size="1000" name="wz_global_manager_001" position="-500 438 136" rotation="-0 0 -0 -1" script="default" start_index="4700"/>
 	</instances>
 	<statics>
 		<table>
-			<unit_data _prev_pos="0 0 0" _prev_rot="-0 0 -0 -1" continent="world" disable_on_ai_graph="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/terrain/wz_terrain_flat_256m" name_id="wz_terrain_flat_256m_001" position="0 0 0" rotation="-0 0 -0 -1" unit_id="100000"/>
+			<unit_data _prev_pos="0 0 0" _prev_rot="0 0 0 -1" continent="world" disable_on_ai_graph="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/terrain/wz_terrain_flat_256m" name_id="wz_terrain_flat_256m_001" position="0 0 0" rotation="0 0 0 -1" unit_id="100000"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-11085.1 19200 0" _prev_rot="0 0 0 -1" continent="world" local_pos="-2650.83 -3222.77 0" local_rot="0 0 0.97237 -0.233445" name="units/pd2_mod_warzone/terrain/wz_terrain_flat_256m" name_id="wz_terrain_flat_256m_003" position="-11085.1 19200 0" rotation="0 0 0 -1" unit_id="100002"/>
@@ -78,7 +86,7 @@
 			<unit_data _prev_pos="33255.3 -19200 0" _prev_rot="0 0 0 -1" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 -38400 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/terrain/wz_terrain_flat_256m" name_id="wz_terrain_flat_256m_016" position="33255.3 -19200 0" rotation="0 0 0 -1" unit_id="100015"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-33255.3 19200 0" _prev_rot="-0 0 -0 -1" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/terrain/wz_terrain_flat_256m" name_id="wz_terrain_flat_256m_017" position="-33255.3 19200 0" rotation="-0 0 -0 -1" unit_id="100016"/>
+			<unit_data _prev_pos="-33255.3 19200 0" _prev_rot="0 0 0 -1" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/terrain/wz_terrain_flat_256m" name_id="wz_terrain_flat_256m_017" position="-33255.3 19200 0" rotation="0 0 0 -1" unit_id="100016"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-33255.3 -19200 0" _prev_rot="0 0 0 -1" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 -38400 0" local_rot="-0 0 0 1" name="units/pd2_mod_warzone/terrain/wz_terrain_flat_256m" name_id="wz_terrain_flat_256m_018" position="-33255.3 -19200 0" rotation="0 0 0 -1" unit_id="100017"/>
@@ -784,7 +792,7 @@
 			<unit_data _prev_pos="7885.1 16400 0" _prev_rot="0 0 0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="-7.15258e-005 400.001 0" local_rot="0 0 -0.707107 0.707107" name="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a" name_id="wz_prop_compound_wall_4m_a_023" position="9485.1 14800 0" rotation="0 0 0.707107 -0.707107" unit_id="100268"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="7885.1 16800 0" _prev_rot="0 0 0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="-0.000143051 800.001 0" local_rot="0 0 -0.707107 0.707107" name="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a" name_id="wz_prop_compound_wall_4m_a_024" position="9485.1 15200 0" rotation="0 0 0.707107 -0.707107" unit_id="100269"/>
+			<unit_data _prev_pos="9485.1 15200 0" _prev_rot="0 0 0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a" name_id="wz_prop_compound_wall_4m_a_024" position="9485.1 15200 0" rotation="0 0 0.707107 -0.707107" unit_id="100269"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="9485.1 15600 0" _prev_rot="0 0 0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a" name_id="wz_prop_compound_wall_4m_a_026" position="9485.1 16000 0" rotation="0 0 0.707107 -0.707107" unit_id="100271"/>
@@ -1838,103 +1846,100 @@
 			<unit_data _prev_pos="-29055.3 17500 50" _prev_rot="0 0 -0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="400 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/fences/wz_prop_heavy_wall_4m_a_platform" name_id="wz_prop_heavy_wall_4m_a_platform_012" position="-29055.3 19500 50" rotation="0 0 -0.707107 -0.707107" unit_id="100600"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-30140.8 19118.8 10.2213" _prev_rot="0 0 0.777146 -0.62932" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/vehicles/wz_vehicle_m35_truck/wz_vehicle_m35_truck_no_cover" name_id="wz_vehicle_m35_truck_no_cover_006" position="-30140.8 19118.8 10.2213" rotation="0 0 0.777146 -0.62932" unit_id="100591"/>
-		</table>
-		<table>
 			<unit_data _prev_pos="-31622.8 21653.1 30.4732" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/vehicles/wz_vehicle_m35_truck/wz_vehicle_m35_truck" name_id="wz_vehicle_m35_truck_003" position="-31622.8 21653.1 30.4732" rotation="0 0 0 -1" unit_id="100596"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-30922 21812.1 10.728" _prev_rot="0 0 0.165048 -0.986286" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/vehicles/wz_vehicle_m35_truck/wz_vehicle_m35_truck" name_id="wz_vehicle_m35_truck_004" position="-30922 21812.1 10.728" rotation="0 0 0.165048 -0.986286" unit_id="100601"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-29455.3 21100 50" _prev_rot="-0 -0 0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a" name_id="wz_prop_compound_wall_4m_a_005" position="-29455.3 21100 50" rotation="0 0 -0.707107 0.707107" unit_id="100602"/>
+			<unit_data _prev_pos="-29455.3 21100 0" _prev_rot="0 0 0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="-400 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a" name_id="wz_prop_compound_wall_4m_a_005" position="-29455.3 21100 0" rotation="0 0 0.707107 -0.707107" unit_id="100602"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-29455.3 20700 50" _prev_rot="-0 -0 0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="400 -0.000143051 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a" name_id="wz_prop_compound_wall_4m_a_006" position="-29455.3 20700 50" rotation="-0 -0 0.707107 -0.707107" unit_id="100603"/>
+			<unit_data _prev_pos="-29455.3 20700 0" _prev_rot="0 0 0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a" name_id="wz_prop_compound_wall_4m_a_006" position="-29455.3 20700 0" rotation="0 0 0.707107 -0.707107" unit_id="100603"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-29455.3 22700 50" _prev_rot="0 0 0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a" name_id="wz_prop_compound_wall_4m_a_009" position="-29455.3 22700 50" rotation="0 0 0.707107 -0.707107" unit_id="100606"/>
+			<unit_data _prev_pos="-29455.3 22700 15" _prev_rot="0 0 0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="-400 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a" name_id="wz_prop_compound_wall_4m_a_009" position="-29455.3 22700 15" rotation="0 0 0.707107 -0.707107" unit_id="100606"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-29455.3 22300 50" _prev_rot="0 0 0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="400 -0.000143051 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a" name_id="wz_prop_compound_wall_4m_a_011" position="-29455.3 22300 50" rotation="0 0 0.707107 -0.707107" unit_id="100607"/>
+			<unit_data _prev_pos="-29455.3 22300 15" _prev_rot="0 0 0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a" name_id="wz_prop_compound_wall_4m_a_011" position="-29455.3 22300 15" rotation="0 0 0.707107 -0.707107" unit_id="100607"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-29455.3 21900 50" _prev_rot="0 0 0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a_single" name_id="wz_prop_compound_wall_4m_a_single_001" position="-29455.3 21900 50" rotation="0 0 0.707107 -0.707107" unit_id="100604"/>
+			<unit_data _prev_pos="-29455.3 21900 15" _prev_rot="0 0 0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a_single" name_id="wz_prop_compound_wall_4m_a_single_001" position="-29455.3 21900 15" rotation="0 0 0.707107 -0.707107" unit_id="100604"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-30255.3 22700 50" _prev_rot="0 0 -1.49012e-007 -1" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="400 -0.000119209 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a" name_id="wz_prop_compound_wall_4m_a_008" position="-30255.3 22700 50" rotation="0 0 -1.49012e-007 -1" unit_id="100605"/>
+			<unit_data _prev_pos="-30255.3 22700 15" _prev_rot="0 0 -1.78814e-007 -1" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="-400 -800 0" local_rot="0 0 0.707107 0.707107" name="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a" name_id="wz_prop_compound_wall_4m_a_008" position="-30255.3 22700 15" rotation="0 0 -1.78814e-007 -1" unit_id="100605"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-29855.3 22700 50" _prev_rot="0 0 -1.49012e-007 -1" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="800 -0.000238419 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a" name_id="wz_prop_compound_wall_4m_a_013" position="-29855.3 22700 50" rotation="0 0 -1.49012e-007 -1" unit_id="100608"/>
+			<unit_data _prev_pos="-29855.3 22700 15" _prev_rot="0 0 -1.78814e-007 -1" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="-400 -400 0" local_rot="0 0 0.707107 0.707107" name="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a" name_id="wz_prop_compound_wall_4m_a_013" position="-29855.3 22700 15" rotation="0 0 -1.78814e-007 -1" unit_id="100608"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-30655.3 22700 50" _prev_rot="0 0 -1.49012e-007 -1" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a" name_id="wz_prop_compound_wall_4m_a_016" position="-30655.3 22700 50" rotation="0 0 -1.49012e-007 -1" unit_id="100610"/>
+			<unit_data _prev_pos="-30655.3 22700 15" _prev_rot="0 0 -1.78814e-007 -1" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a" name_id="wz_prop_compound_wall_4m_a_016" position="-30655.3 22700 15" rotation="0 0 -1.78814e-007 -1" unit_id="100610"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-31855.3 22700 50" _prev_rot="0 0 -1.49012e-007 -1" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="400 -0.000119209 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a" name_id="wz_prop_compound_wall_4m_a_014" position="-32655.3 22700 50" rotation="0 0 1 -1.053e-007" unit_id="100609"/>
+			<unit_data _prev_pos="-32655.3 22700 50" _prev_rot="0 0 1 -1.053e-007" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="400 -3.49691e-005 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a" name_id="wz_prop_compound_wall_4m_a_014" position="-32655.3 22700 15" rotation="0 0 1 -4.37114e-008" unit_id="100609"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-31455.3 22700 50" _prev_rot="0 0 -1.49012e-007 -1" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="800 -0.000238419 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a" name_id="wz_prop_compound_wall_4m_a_025" position="-33055.3 22700 50" rotation="0 0 1 -1.053e-007" unit_id="100611"/>
+			<unit_data _prev_pos="-33055.3 22700 50" _prev_rot="0 0 1 -1.053e-007" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="800 -6.99382e-005 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a" name_id="wz_prop_compound_wall_4m_a_025" position="-33055.3 22700 15" rotation="0 0 1 -4.37114e-008" unit_id="100611"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-31055.3 22700 50" _prev_rot="0 0 -1.49012e-007 -1" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="1200 -0.000357628 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a" name_id="wz_prop_compound_wall_4m_a_029" position="-33455.3 22700 50" rotation="0 0 1 -1.053e-007" unit_id="100612"/>
+			<unit_data _prev_pos="-33455.3 22700 50" _prev_rot="0 0 1 -1.053e-007" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="1200 -0.000104907 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a" name_id="wz_prop_compound_wall_4m_a_029" position="-33455.3 22700 15" rotation="0 0 1 -4.37114e-008" unit_id="100612"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-32255.3 22700 50" _prev_rot="0 0 -1.49012e-007 -1" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a" name_id="wz_prop_compound_wall_4m_a_030" position="-32255.3 22700 50" rotation="0 0 1 -1.053e-007" unit_id="100613"/>
+			<unit_data _prev_pos="-32255.3 22700 50" _prev_rot="0 0 1 -1.053e-007" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a" name_id="wz_prop_compound_wall_4m_a_030" position="-32255.3 22700 15" rotation="0 0 1 -4.37114e-008" unit_id="100613"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-33855.3 22700 50" _prev_rot="0 0 1 -1.053e-007" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a" name_id="wz_prop_compound_wall_4m_a_031" position="-33855.3 22700 50" rotation="0 0 1 -1.053e-007" unit_id="100614"/>
+			<unit_data _prev_pos="-33855.3 22700 50" _prev_rot="0 0 1 -1.053e-007" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="1600 -0.000139876 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a" name_id="wz_prop_compound_wall_4m_a_031" position="-33855.3 22700 15" rotation="0 0 1 -4.37114e-008" unit_id="100614"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-34255.3 22700 50" _prev_rot="0 0 1 -1.053e-007" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="400 -8.42402e-005 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a" name_id="wz_prop_compound_wall_4m_a_032" position="-34255.3 22700 50" rotation="0 0 1 -1.053e-007" unit_id="100615"/>
+			<unit_data _prev_pos="-34255.3 22700 50" _prev_rot="0 0 1 -1.053e-007" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="2000 -0.000174846 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a" name_id="wz_prop_compound_wall_4m_a_032" position="-34255.3 22700 15" rotation="0 0 1 -4.37114e-008" unit_id="100615"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-34655.3 22700 50" _prev_rot="0 0 1 -1.053e-007" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="800 -0.00016848 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a" name_id="wz_prop_compound_wall_4m_a_033" position="-34655.3 22700 50" rotation="0 0 1 -1.053e-007" unit_id="100616"/>
+			<unit_data _prev_pos="-34655.3 22700 50" _prev_rot="0 0 1 -1.053e-007" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="2400 -0.000209815 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a" name_id="wz_prop_compound_wall_4m_a_033" position="-34655.3 22700 15" rotation="0 0 1 -4.37114e-008" unit_id="100616"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-35055.3 22700 50" _prev_rot="0 0 1 -1.053e-007" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="1200 -0.000252721 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a" name_id="wz_prop_compound_wall_4m_a_034" position="-35055.3 22700 50" rotation="0 0 1 -1.053e-007" unit_id="100617"/>
+			<unit_data _prev_pos="-35055.3 22700 50" _prev_rot="0 0 1 -1.053e-007" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="2800 -0.000244784 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a" name_id="wz_prop_compound_wall_4m_a_034" position="-35055.3 22700 15" rotation="0 0 1 -4.37114e-008" unit_id="100617"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-33855.3 22700 50" _prev_rot="0 0 1 -1.053e-007" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a" name_id="wz_prop_compound_wall_4m_a_036" position="-35455.3 22700 50" rotation="0 0 1 -1.053e-007" unit_id="100618"/>
+			<unit_data _prev_pos="-35455.3 22700 50" _prev_rot="0 0 1 -1.053e-007" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="3200 -0.000279753 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a" name_id="wz_prop_compound_wall_4m_a_036" position="-35455.3 22700 15" rotation="0 0 1 -4.37114e-008" unit_id="100618"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-34255.3 22700 50" _prev_rot="0 0 1 -1.053e-007" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="400 -8.42402e-005 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a" name_id="wz_prop_compound_wall_4m_a_037" position="-35855.3 22700 50" rotation="0 0 1 -1.053e-007" unit_id="100619"/>
+			<unit_data _prev_pos="-35855.3 22700 50" _prev_rot="0 0 1 -1.053e-007" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="3600 -0.000314722 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a" name_id="wz_prop_compound_wall_4m_a_037" position="-35855.3 22700 15" rotation="0 0 1 -4.37114e-008" unit_id="100619"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-36255.3 22700 50" _prev_rot="0 0 0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a" name_id="wz_prop_compound_wall_4m_a_039" position="-36255.3 22700 50" rotation="0 0 0.707107 -0.707107" unit_id="100620"/>
+			<unit_data _prev_pos="-36255.3 22700 50" _prev_rot="0 0 0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="4000 -0.000349691 0" local_rot="0 0 0.707107 0.707107" name="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a" name_id="wz_prop_compound_wall_4m_a_039" position="-36255.3 22700 15" rotation="0 0 0.707107 -0.707107" unit_id="100620"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-36255.3 22300 50" _prev_rot="0 0 0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="400 -0.000143051 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a" name_id="wz_prop_compound_wall_4m_a_043" position="-36255.3 22300 50" rotation="0 0 0.707107 -0.707107" unit_id="100621"/>
+			<unit_data _prev_pos="-36255.3 22300 50" _prev_rot="0 0 0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="4000 400 0" local_rot="0 0 0.707107 0.707107" name="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a" name_id="wz_prop_compound_wall_4m_a_043" position="-36255.3 22300 15" rotation="0 0 0.707107 -0.707107" unit_id="100621"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-36255.3 21900 50" _prev_rot="0 0 0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="800 -0.000286102 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a" name_id="wz_prop_compound_wall_4m_a_085" position="-36255.3 21900 50" rotation="0 0 0.707107 -0.707107" unit_id="100622"/>
+			<unit_data _prev_pos="-36255.3 21900 50" _prev_rot="0 0 0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="4000 800 0" local_rot="0 0 0.707107 0.707107" name="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a" name_id="wz_prop_compound_wall_4m_a_085" position="-36255.3 21900 15" rotation="0 0 0.707107 -0.707107" unit_id="100622"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-36255.3 21500 50" _prev_rot="0 0 0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="1200 -0.000429153 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a" name_id="wz_prop_compound_wall_4m_a_086" position="-36255.3 21500 50" rotation="0 0 0.707107 -0.707107" unit_id="100623"/>
+			<unit_data _prev_pos="-36255.3 21500 50" _prev_rot="0 0 0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="4000 1200 0" local_rot="0 0 0.707107 0.707107" name="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a" name_id="wz_prop_compound_wall_4m_a_086" position="-36255.3 21500 15" rotation="0 0 0.707107 -0.707107" unit_id="100623"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-36255.3 21100 50" _prev_rot="0 0 0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a" name_id="wz_prop_compound_wall_4m_a_088" position="-36255.3 21100 50" rotation="0 0 1 -1.49012e-007" unit_id="100624"/>
+			<unit_data _prev_pos="-36255.3 21100 50" _prev_rot="0 0 1 -1.49012e-007" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="4000 1600 0" local_rot="0 0 4.3712e-008 1" name="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a" name_id="wz_prop_compound_wall_4m_a_088" position="-36255.3 21100 15" rotation="0 0 1 -8.74234e-008" unit_id="100624"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-36255.3 20700 50" _prev_rot="0 0 0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="400 -0.000119209 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a" name_id="wz_prop_compound_wall_4m_a_092" position="-36655.3 21100 50" rotation="0 0 1 -1.49012e-007" unit_id="100625"/>
+			<unit_data _prev_pos="-36655.3 21100 50" _prev_rot="0 0 1 -1.49012e-007" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="4400 1600 0" local_rot="0 0 4.3712e-008 1" name="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a" name_id="wz_prop_compound_wall_4m_a_092" position="-36655.3 21100 15" rotation="0 0 1 -8.74234e-008" unit_id="100625"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-36255.3 22700 50" _prev_rot="0 0 0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a" name_id="wz_prop_compound_wall_4m_a_093" position="-37055.3 21100 50" rotation="0 0 0.707107 -0.707107" unit_id="100626"/>
+			<unit_data _prev_pos="-37055.3 21100 15" _prev_rot="0 0 0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a" name_id="wz_prop_compound_wall_4m_a_093" position="-37055.3 21100 15" rotation="0 0 0.707107 -0.707107" unit_id="100626"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-36255.3 22300 50" _prev_rot="0 0 0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="400 -0.000143051 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a" name_id="wz_prop_compound_wall_4m_a_094" position="-37055.3 20700 50" rotation="0 0 0.707107 -0.707107" unit_id="100627"/>
+			<unit_data _prev_pos="-37055.3 20700 15" _prev_rot="0 0 0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="400 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a" name_id="wz_prop_compound_wall_4m_a_094" position="-37055.3 20700 15" rotation="0 0 0.707107 -0.707107" unit_id="100627"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-36255.3 21900 50" _prev_rot="0 0 0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="800 -0.000286102 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a" name_id="wz_prop_compound_wall_4m_a_095" position="-37055.3 20300 50" rotation="0 0 0.707107 -0.707107" unit_id="100628"/>
+			<unit_data _prev_pos="-37055.3 20300 15" _prev_rot="0 0 0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="800 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a" name_id="wz_prop_compound_wall_4m_a_095" position="-37055.3 20300 15" rotation="0 0 0.707107 -0.707107" unit_id="100628"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-36255.3 21500 50" _prev_rot="0 0 0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="1200 -0.000429153 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a" name_id="wz_prop_compound_wall_4m_a_096" position="-37055.3 19900 50" rotation="0 0 0.707107 -0.707107" unit_id="100629"/>
+			<unit_data _prev_pos="-37055.3 19900 15" _prev_rot="0 0 0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="1200 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a" name_id="wz_prop_compound_wall_4m_a_096" position="-37055.3 19900 15" rotation="0 0 0.707107 -0.707107" unit_id="100629"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-37055.3 21100 50" _prev_rot="0 0 0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a" name_id="wz_prop_compound_wall_4m_a_097" position="-37055.3 19500 50" rotation="0 0 0.707107 -0.707107" unit_id="100630"/>
+			<unit_data _prev_pos="-37055.3 19500 15" _prev_rot="0 0 0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="1600 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a" name_id="wz_prop_compound_wall_4m_a_097" position="-37055.3 19500 15" rotation="0 0 0.707107 -0.707107" unit_id="100630"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-37055.3 19100 50" _prev_rot="0 0 0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a" name_id="wz_prop_compound_wall_4m_a_098" position="-37055.3 19100 50" rotation="0 0 0.707107 -0.707107" unit_id="100631"/>
+			<unit_data _prev_pos="-37055.3 19100 15" _prev_rot="0 0 0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="2000 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a" name_id="wz_prop_compound_wall_4m_a_098" position="-37055.3 19100 15" rotation="0 0 0.707107 -0.707107" unit_id="100631"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-37055.3 17100 50" _prev_rot="0 0 0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a" name_id="wz_prop_compound_wall_4m_a_103" position="-37055.3 17100 50" rotation="0 0 0.707107 -0.707107" unit_id="100636"/>
@@ -1943,7 +1948,7 @@
 			<unit_data _prev_pos="-37055.3 16700 50" _prev_rot="0 0 0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="400 -0.000143051 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a" name_id="wz_prop_compound_wall_4m_a_104" position="-37055.3 16700 50" rotation="0 0 0.707107 -0.707107" unit_id="100637"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-37055.3 18700 50" _prev_rot="0 0 0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a_single" name_id="wz_prop_compound_wall_4m_a_single_002" position="-37055.3 18700 50" rotation="0 0 0.707107 -0.707107" unit_id="100632"/>
+			<unit_data _prev_pos="-37055.3 18700 15" _prev_rot="0 0 0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="2400 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a_single" name_id="wz_prop_compound_wall_4m_a_single_002" position="-37055.3 18700 15" rotation="0 0 0.707107 -0.707107" unit_id="100632"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-37055.3 16400 50" _prev_rot="0 0 0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/wz_prop_compound_wall_4m_a" name_id="wz_prop_compound_wall_4m_a_100" position="-37055.3 16300 50" rotation="0 0 0.707107 -0.707107" unit_id="100633"/>
@@ -2783,10 +2788,10 @@
 			<unit_data _prev_pos="77595.7 -19200 0" _prev_rot="0 0 0 -1" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/terrain/wz_terrain_flat_256m" name_id="wz_terrain_flat_256m_030" position="77595.7 -19200 0" rotation="0 0 -0 -1" unit_id="100912"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-66510.6 0 0" _prev_rot="-0 0 -0 -1" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/terrain/wz_terrain_flat_256m" name_id="wz_terrain_flat_256m_031" position="-66510.6 0 0" rotation="-0 0 -0 -1" unit_id="100913"/>
+			<unit_data _prev_pos="-66510.6 0 0" _prev_rot="-0 0 -0 -1" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/terrain/wz_terrain_flat_256m" name_id="hex_a_4" position="-66510.6 0 0" rotation="-0 0 -0 -1" unit_id="100913"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-77595.7 19200 0" _prev_rot="0 0 0 -1" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/terrain/wz_terrain_flat_256m" name_id="wz_terrain_flat_256m_032" position="-77595.7 19200 0" rotation="0 0 -0 -1" unit_id="100914"/>
+			<unit_data _prev_pos="-77595.7 19200 0" _prev_rot="0 0 0 -1" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/terrain/wz_terrain_flat_256m" name_id="hex_a_5" position="-77595.7 19200 0" rotation="-0 0 -0 -1" unit_id="100914"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-55425.5 19200 0" _prev_rot="0 0 0 -1" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="22170.2 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/terrain/wz_terrain_flat_256m" name_id="wz_terrain_flat_256m_033" position="-55425.5 19200 0" rotation="0 0 -0 -1" unit_id="100915"/>
@@ -2795,13 +2800,13 @@
 			<unit_data _prev_pos="-55425.5 -19200 0" _prev_rot="0 0 0 -1" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/terrain/wz_terrain_flat_256m" name_id="wz_terrain_flat_256m_034" position="-55425.5 -19200 0" rotation="0 0 -0 -1" unit_id="100916"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-77595.7 -19200 0" _prev_rot="0 0 0 -1" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="-22170.2 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/terrain/wz_terrain_flat_256m" name_id="wz_terrain_flat_256m_035" position="-77595.7 -19200 0" rotation="0 0 -0 -1" unit_id="100917"/>
+			<unit_data _prev_pos="-77595.7 -19200 0" _prev_rot="-0 0 -0 -1" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/terrain/wz_terrain_flat_256m" name_id="hex_a_3" position="-77595.7 -19200 0" rotation="-0 0 -0 -1" unit_id="100917"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-55425.5 -19200 0" _prev_rot="0 0 0 -1" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/terrain/wz_terrain_flat_256m" name_id="wz_terrain_flat_256m_036" position="-55425.5 -57600 0" rotation="0 0 0 -1" unit_id="100918"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-77595.7 -19200 0" _prev_rot="0 0 0 -1" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="-22170.2 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/terrain/wz_terrain_flat_256m" name_id="wz_terrain_flat_256m_037" position="-77595.7 -57600 0" rotation="0 0 0 -1" unit_id="100919"/>
+			<unit_data _prev_pos="-77595.7 -57600 0" _prev_rot="-0 0 -0 -1" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/terrain/wz_terrain_flat_256m" name_id="hex_a_1" position="-77595.7 -57600 0" rotation="-0 0 -0 -1" unit_id="100919"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-33255.3 -19200 0" _prev_rot="0 0 0 -1" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="22170.2 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/terrain/wz_terrain_flat_256m" name_id="wz_terrain_flat_256m_038" position="-33255.3 -57600 0" rotation="0 0 0 -1" unit_id="100920"/>
@@ -2810,7 +2815,7 @@
 			<unit_data _prev_pos="-44340.4 -38400 0" _prev_rot="0 0 0 -1" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="-22170.2 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/terrain/wz_terrain_flat_256m" name_id="wz_terrain_flat_256m_039" position="-44340.4 -38400 0" rotation="0 0 0 -1" unit_id="100921"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-66510.6 -38400 0" _prev_rot="0 0 0 -1" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="-44340.4 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/terrain/wz_terrain_flat_256m" name_id="wz_terrain_flat_256m_040" position="-66510.6 -38400 0" rotation="0 0 0 -1" unit_id="100922"/>
+			<unit_data _prev_pos="-66510.6 -38400 0" _prev_rot="-0 0 -0 -1" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/terrain/wz_terrain_flat_256m" name_id="hex_a_2" position="-66510.6 -38400 0" rotation="-0 0 -0 -1" unit_id="100922"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-22170.2 -38400 0" _prev_rot="0 0 0 -1" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/terrain/wz_terrain_flat_256m" name_id="wz_terrain_flat_256m_041" position="-22170.2 -76800 0" rotation="0 0 0 -1" unit_id="100923"/>
@@ -2819,7 +2824,7 @@
 			<unit_data _prev_pos="-44340.4 -38400 0" _prev_rot="0 0 0 -1" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="-22170.2 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/terrain/wz_terrain_flat_256m" name_id="wz_terrain_flat_256m_042" position="-44340.4 -76800 0" rotation="0 0 0 -1" unit_id="100924"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-66510.6 -38400 0" _prev_rot="0 0 0 -1" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="-44340.4 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/terrain/wz_terrain_flat_256m" name_id="wz_terrain_flat_256m_043" position="-66510.6 -76800 0" rotation="0 0 0 -1" unit_id="100925"/>
+			<unit_data _prev_pos="-66510.6 -76800 0" _prev_rot="-0 0 -0 -1" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/terrain/wz_terrain_flat_256m" name_id="hex_a_0" position="-66510.6 -76800 0" rotation="-0 0 -0 -1" unit_id="100925"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="77595.7 -19200 0" _prev_rot="0 0 0 -1" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/terrain/wz_terrain_flat_256m" name_id="wz_terrain_flat_256m_044" position="77595.7 -57600 0" rotation="0 0 0 -1" unit_id="100926"/>
@@ -2846,7 +2851,7 @@
 			<unit_data _prev_pos="66510.6 -38400 0" _prev_rot="0 0 0 -1" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="44340.4 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/terrain/wz_terrain_flat_256m" name_id="wz_terrain_flat_256m_051" position="66510.6 -76800 0" rotation="0 0 0 -1" unit_id="100933"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-66510.6 38400 0" _prev_rot="0 0 0 -1" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/terrain/wz_terrain_flat_256m" name_id="wz_terrain_flat_256m_052" position="-66510.6 38400 0" rotation="0 0 0 -1" unit_id="100934"/>
+			<unit_data _prev_pos="-66510.6 38400 0" _prev_rot="0 0 0 -1" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/terrain/wz_terrain_flat_256m" name_id="hex_a_6" position="-66510.6 38400 0" rotation="-0 0 -0 -1" unit_id="100934"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-44340.4 38400 0" _prev_rot="0 0 0 -1" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="22170.2 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/terrain/wz_terrain_flat_256m" name_id="wz_terrain_flat_256m_053" position="-44340.4 38400 0" rotation="0 0 0 -1" unit_id="100935"/>
@@ -2855,10 +2860,10 @@
 			<unit_data _prev_pos="-55425.5 51200 0" _prev_rot="0 0 0 -1" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="11085.1 19200 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/terrain/wz_terrain_flat_256m" name_id="wz_terrain_flat_256m_054" position="-55425.5 57600 0" rotation="0 0 0 -1" unit_id="100936"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-77595.7 51200 0" _prev_rot="0 0 0 -1" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="-11085.1 19200 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/terrain/wz_terrain_flat_256m" name_id="wz_terrain_flat_256m_055" position="-77595.7 57600 0" rotation="0 0 0 -1" unit_id="100937"/>
+			<unit_data _prev_pos="-77595.7 57600 0" _prev_rot="0 0 0 -1" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/terrain/wz_terrain_flat_256m" name_id="hex_a_7" position="-77595.7 57600 0" rotation="-0 0 -0 -1" unit_id="100937"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-66510.6 38400 0" _prev_rot="0 0 0 -1" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/terrain/wz_terrain_flat_256m" name_id="wz_terrain_flat_256m_056" position="-66510.6 76800 0" rotation="0 0 0 -1" unit_id="100938"/>
+			<unit_data _prev_pos="-66510.6 76800 0" _prev_rot="0 0 0 -1" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/terrain/wz_terrain_flat_256m" name_id="hex_a_8" position="-66510.6 76800 0" rotation="-0 0 -0 -1" unit_id="100938"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-44340.4 38400 0" _prev_rot="0 0 0 -1" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="22170.2 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/terrain/wz_terrain_flat_256m" name_id="wz_terrain_flat_256m_057" position="-44340.4 76800 0" rotation="0 0 0 -1" unit_id="100939"/>
@@ -2895,12 +2900,6 @@
 		</table>
 		<table>
 			<unit_data _prev_pos="12143.1 16006.1 -7.15255e-007" _prev_rot="2.51215e-015 2.51215e-015 0.998135 -0.0610485" continent="world" disable_collision="false" disable_on_ai_graph="true" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_a" name_id="wz_prop_crate_wood_a_080" position="12143.1 16006.1 -7.15255e-007" rotation="2.51215e-015 2.51215e-015 0.998135 -0.0610485" unit_id="100950"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="400 2400 25" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/vegetation/wz_vegetation_bushes/wz_vegetation_bush_small/wz_vegetation_bush_small" name_id="wz_vegetation_bush_small_070" position="400 2400 25" rotation="-0 0 -0 -1" unit_id="100951"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="600 2400 25" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/vegetation/wz_vegetation_bushes/wz_vegetation_bush_medium/wz_vegetation_bush_medium" name_id="wz_vegetation_bush_medium_001" position="600 2400 25" rotation="0 0 0 -1" unit_id="100952"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-1389.02 2377.83 14.5513" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_container/wz_prop_container_01" name_id="wz_prop_container_01_001" position="-1389.02 2377.83 14.5513" rotation="0 0 0 -1" unit_id="100953"/>
@@ -3000,6 +2999,1071 @@
 					</shape>
 				</editable_gui>
 			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-8505.45 20620 132.132" _prev_rot="-0.0518883 -0.00683122 -0.0783515 -0.995551" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/eggs/smb/smb_prop_unknown" name_id="smb_prop_unknown_001" position="-8519.38 20618.3 127.236" rotation="-0.0518884 -0.00683124 -0.0783518 -0.995551" unit_id="100983"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-30440 19189.8 142.045" _prev_rot="0 0 0.104528 -0.994522" continent="world" local_pos="120.002 -0.0014286 0" local_rot="0 0 1 -2.38419e-007" name="units/pd2_mod_warzone/props/cover/wz_prop_military_mre/wz_prop_military_mre_medium" name_id="wz_prop_military_mre_medium_019" position="-30436.1 19189 142.045" rotation="0 0 0.104528 -0.994522" unit_id="100984"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-30318.8 19164 142.045" _prev_rot="0 0 0.994522 0.104529" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_military_mre/wz_prop_military_mre_medium" name_id="wz_prop_military_mre_medium_020" position="-30318.8 19164 142.045" rotation="0 0 0.994522 0.104529" unit_id="100985"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-30203.3 19139.5 142.045" _prev_rot="0 0 0.0958461 -0.995396" continent="world" local_pos="-122 -4.19617e-005 0" local_rot="0 0 0.999962 -0.00872639" name="units/pd2_mod_warzone/props/cover/wz_prop_military_mre/wz_prop_military_mre_medium" name_id="wz_prop_military_mre_medium_021" position="-30199.4 19138.7 142.045" rotation="0 0 0.0958461 -0.995396" unit_id="100986"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-30140.8 19118.8 10.221" _prev_rot="0 0 0.777146 -0.62932" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/vehicles/wz_vehicle_m35_truck/wz_vehicle_m35_truck_no_cover" name_id="wz_vehicle_m35_truck_no_cover_009" position="-30140.8 19118.8 10.221" rotation="0 0 0.777146 -0.62932" unit_id="100591"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-31354.3 20277.2 22.7584" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_barrier_reinforced_2m_a" name_id="wz_prop_barrier_reinforced_2m_a_059" position="-31354.3 20277.2 22.7584" rotation="0 0 0 -1" unit_id="100987"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-31569.8 20276.4 23.465" _prev_rot="0 0 -0.0174524 -0.999848" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_barrier_reinforced_2m_a" name_id="wz_prop_barrier_reinforced_2m_a_060" position="-31569.8 20276.4 23.465" rotation="0 0 -0.0174524 -0.999848" unit_id="100988"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-32738.5 19282.3 17.8206" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_military_mre/wz_prop_military_mre_medium" name_id="wz_prop_military_mre_medium_022" position="-32738.5 19282.3 17.8206" rotation="0 0 0 -1" unit_id="100989"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-32736.8 19081.1 17.6492" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_military_mre/wz_prop_military_mre_medium" name_id="wz_prop_military_mre_medium_023" position="-32736.8 19081.1 17.6492" rotation="0 0 0 -1" unit_id="100990"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-32614.8 19177.6 16.8956" _prev_rot="0 0 1 -4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_military_mre/wz_prop_military_mre_medium" name_id="wz_prop_military_mre_medium_024" position="-32614.8 19177.6 16.8956" rotation="0 0 0.999848 -0.0174525" unit_id="100991"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-32734.5 19206.8 117.821" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_military_mre/wz_prop_military_mre_medium" name_id="wz_prop_military_mre_medium_025" position="-32734.5 19206.8 117.821" rotation="0 0 -1 4.37114e-008" unit_id="100992"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-34648.7 18115.9 3.56677" _prev_rot="0 0 0.766045 -0.642788" continent="world" local_pos="-439.449 43.2538 7.10311" local_rot="0.00136513 0.0086191 -0.156429 0.987651" name="units/pd2_mod_warzone/props/cover/wz_prop_barrier_reinforced_2m_a" name_id="wz_prop_barrier_reinforced_2m_a_061" position="-34648.7 18115.9 3.56677" rotation="0 0 0.766044 -0.642788" unit_id="100993"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-34630.3 17674.7 3.9921" _prev_rot="0.0074801 0.0044945 0.656034 -0.754681" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_barrier_reinforced_2m_a" name_id="wz_prop_barrier_reinforced_2m_a_062" position="-34630.3 17674.7 3.9921" rotation="0.0074801 0.0044945 0.656034 -0.754681" unit_id="100994"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-33234.8 16734.4 10.2994" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_barrier_reinforced_2m_a" name_id="wz_prop_barrier_reinforced_2m_a_063" position="-33234.8 16734.4 10.2994" rotation="0 0 0 -1" unit_id="100995"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-32877.9 16716.6 19.8824" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_barrier_reinforced_2m_a" name_id="wz_prop_barrier_reinforced_2m_a_064" position="-32877.9 16716.6 19.8824" rotation="0 0 0 -1" unit_id="100996"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-30955 17435.4 2.26086" _prev_rot="0 0 -0.748956 -0.66262" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/vehicles/wz_vehicle_m35_truck/wz_vehicle_m35_truck" name_id="wz_vehicle_m35_truck_016" position="-30965.9 17434.1 2.26086" rotation="0 0 -0.748956 -0.66262" unit_id="100997"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10000 16800 4000" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="-400 -400 0" local_rot="0 0 0.707107 0.707107" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_006" position="10000 16800 4000" rotation="0 0 -0.707107 -0.707107" unit_id="100998">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 1 1" font_size="2.58824" render_template="diffuse_vc_decal" text="LONG" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1575 400 125" _prev_rot="-0.5 -0.5 -0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_short/editable_text_short" name_id="editable_text_short_002" position="-1575 400 125" rotation="-0.5 -0.5 -0.5 -0.5" unit_id="100999">
+				<editable_gui align="center" alpha="1" blend_mode="normal" font="fonts/font_large_mf" font_color="1 1 1" font_size="0.5" render_template="diffuse_vc_decal" text="wz_hex_mission:none" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1575 400 125" _prev_rot="-0.5 -0.5 -0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_short/editable_text_short" name_id="editable_text_short_003" position="-1575 500 125" rotation="0.5 0.5 0.5 0.5" unit_id="101000">
+				<editable_gui align="center" alpha="1" blend_mode="normal" font="fonts/font_large_mf" font_color="1 1 1" font_size="0.5" render_template="diffuse_vc_decal" text="wz_hex_mission:intel" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1575 600 125" _prev_rot="-0.5 -0.5 -0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_short/editable_text_short" name_id="editable_text_short_004" position="-1575 600 125" rotation="-0.5 -0.5 -0.5 -0.5" unit_id="101001">
+				<editable_gui align="center" alpha="1" blend_mode="normal" font="fonts/font_large_mf" font_color="1 1 1" font_size="0.5" render_template="diffuse_vc_decal" text="wz_hex_mission:kill" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1575 700 125" _prev_rot="-0.5 -0.5 -0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_short/editable_text_short" name_id="editable_text_short_005" position="-1575 700 125" rotation="0.5 0.5 0.5 0.5" unit_id="101002">
+				<editable_gui align="center" alpha="1" blend_mode="normal" font="fonts/font_large_mf" font_color="1 1 1" font_size="0.5" render_template="diffuse_vc_decal" text="wz_hex_mission:hostage" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1575 800 125" _prev_rot="-0.5 -0.5 -0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_short/editable_text_short" name_id="editable_text_short_006" position="-1575 800 125" rotation="0.5 0.5 0.5 0.5" unit_id="101003">
+				<editable_gui align="center" alpha="1" blend_mode="normal" font="fonts/font_large_mf" font_color="1 1 1" font_size="0.5" render_template="diffuse_vc_decal" text="wz_hex_mission:takeover" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1575 900 125" _prev_rot="-0.5 -0.5 -0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_short/editable_text_short" name_id="editable_text_short_007" position="-1575 900 125" rotation="0.5 0.5 0.5 0.5" unit_id="101004">
+				<editable_gui align="center" alpha="1" blend_mode="normal" font="fonts/font_large_mf" font_color="1 1 1" font_size="0.5" render_template="diffuse_vc_decal" text="wz_hex_difficulty:easy" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1575 1000 125" _prev_rot="-0.5 -0.5 -0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_short/editable_text_short" name_id="editable_text_short_008" position="-1575 1000 125" rotation="0.5 0.5 0.5 0.5" unit_id="101005">
+				<editable_gui align="center" alpha="1" blend_mode="normal" font="fonts/font_large_mf" font_color="1 1 1" font_size="0.5" render_template="diffuse_vc_decal" text="wz_hex_difficulty:normal" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1575 1100 125" _prev_rot="-0.5 -0.5 -0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_short/editable_text_short" name_id="editable_text_short_009" position="-1575 1100 125" rotation="0.5 0.5 0.5 0.5" unit_id="101006">
+				<editable_gui align="center" alpha="1" blend_mode="normal" font="fonts/font_large_mf" font_color="1 1 1" font_size="0.5" render_template="diffuse_vc_decal" text="wz_hex_difficulty:hard" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1575 1200 125" _prev_rot="-0.5 -0.5 -0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_short/editable_text_short" name_id="editable_text_short_010" position="-1575 1200 125" rotation="0.5 0.5 0.5 0.5" unit_id="101007">
+				<editable_gui align="center" alpha="1" blend_mode="normal" font="fonts/font_large_mf" font_color="1 1 1" font_size="0.5" render_template="diffuse_vc_decal" text="wz_hex_difficulty:overkill" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="10948.7 18336.6 0" _prev_rot="0 0 0.492424 -0.870356" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/props/cover/wz_prop_crate_wood/wz_prop_crate_wood_a" name_id="wz_prop_crate_wood_a_085" position="10948.7 18336.6 0" rotation="0 0 0.492424 -0.870356" unit_id="101008"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1575 1300 125" _prev_rot="-0.5 -0.5 -0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_short/editable_text_short" name_id="editable_text_short_028" position="-1575 1300 125" rotation="0.5 0.5 0.5 0.5" unit_id="101009">
+				<editable_gui align="center" alpha="1" blend_mode="normal" font="fonts/font_large_mf" font_color="1 1 1" font_size="0.4" render_template="diffuse_vc_decal" text="hex_location_key:wz_location_01" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1575 1400 125" _prev_rot="-0.5 -0.5 -0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_short/editable_text_short" name_id="editable_text_short_029" position="-1575 1400 125" rotation="0.5 0.5 0.5 0.5" unit_id="101010">
+				<editable_gui align="center" alpha="1" blend_mode="normal" font="fonts/font_large_mf" font_color="1 1 1" font_size="0.4" render_template="diffuse_vc_decal" text="hex_location_key:wz_location_02" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="702.636 438.295 10.5366" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/grass/pnau_brush_grass_4" name_id="pnau_brush_grass_4_001" position="502.636 438.295 10.5366" rotation="0 0 0 -1" unit_id="101011"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10707.5 14362.4 0.629598" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/grass/pnau_brush_grass_4" name_id="pnau_brush_grass_4_002" position="10707.5 14362.4 0.629598" rotation="0 0 0 -1" unit_id="101012"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10478.6 14888.9 8.91403" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/grass/pnau_brush_grass_4" name_id="pnau_brush_grass_4_003" position="10478.6 14888.9 8.91403" rotation="0 0 0 -1" unit_id="101013"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="11274.8 15291.5 11.5777" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/grass/pnau_brush_grass_4" name_id="pnau_brush_grass_4_004" position="11274.8 15291.5 11.5777" rotation="0 0 0 -1" unit_id="101014"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10901.1 16367.1 10.2853" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/grass/pnau_brush_grass_4" name_id="pnau_brush_grass_4_005" position="10901.1 16367.1 10.2853" rotation="0 0 0 -1" unit_id="101015"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="11356.1 17190.6 10.8639" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/grass/pnau_brush_grass_4" name_id="pnau_brush_grass_4_006" position="11356.1 17190.6 10.8639" rotation="0 0 0 -1" unit_id="101016"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="9672.6 17343.2 5.16339" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/grass/pnau_brush_grass_4" name_id="pnau_brush_grass_4_007" position="9672.6 17343.2 5.16339" rotation="0 0 0 -1" unit_id="101017"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="8583.23 16480.1 21.1752" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/grass/pnau_brush_grass_4" name_id="pnau_brush_grass_4_008" position="8583.23 16480.1 21.1752" rotation="0 0 0 -1" unit_id="101018"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="8509.91 17315.7 18.4709" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/grass/pnau_brush_grass_4" name_id="pnau_brush_grass_4_009" position="8509.91 17315.7 18.4709" rotation="0 0 0 -1" unit_id="101019"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="8264.84 18309.6 19.9412" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/grass/pnau_brush_grass_4" name_id="pnau_brush_grass_4_010" position="8264.84 18309.6 19.9412" rotation="0 0 0 -1" unit_id="101020"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="9055.24 19019.6 7.33139" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/grass/pnau_brush_grass_4" name_id="pnau_brush_grass_4_011" position="9055.24 19019.6 7.33139" rotation="0 0 0 -1" unit_id="101021"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="8000.02 19780.9 14.0969" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/grass/pnau_brush_grass_4" name_id="pnau_brush_grass_4_012" position="8000.02 19780.9 14.0969" rotation="0 0 0 -1" unit_id="101022"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="8293.8 20338.4 12.847" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/grass/pnau_brush_grass_4" name_id="pnau_brush_grass_4_013" position="8293.8 20338.4 12.847" rotation="0 0 0 -1" unit_id="101023"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="8955.08 20804.6 10.7977" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/grass/pnau_brush_grass_4" name_id="pnau_brush_grass_4_014" position="8955.08 20804.6 10.7977" rotation="0 0 0 -1" unit_id="101024"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="8769.27 21451.2 13.1391" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/grass/pnau_brush_grass_4" name_id="pnau_brush_grass_4_015" position="8769.27 21451.2 13.1391" rotation="0 0 0 -1" unit_id="101025"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10341.3 21024.3 12.8837" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/grass/pnau_brush_grass_4" name_id="pnau_brush_grass_4_016" position="10341.3 21024.3 12.8837" rotation="0 0 0 -1" unit_id="101026"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10706.1 20995.5 12.4528" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/grass/pnau_brush_grass_4" name_id="pnau_brush_grass_4_017" position="10706.1 20995.5 12.4528" rotation="0 0 0 -1" unit_id="101027"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="11768.6 21381.5 23.2562" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/grass/pnau_brush_grass_4" name_id="pnau_brush_grass_4_018" position="11768.6 21381.5 23.2562" rotation="0 0 0 -1" unit_id="101028"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="11396.8 20843 10.3274" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/grass/pnau_brush_grass_4" name_id="pnau_brush_grass_4_019" position="11396.8 20843 10.3274" rotation="0 0 0 -1" unit_id="101029"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12748.4 20460.8 23.487" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/grass/pnau_brush_grass_4" name_id="pnau_brush_grass_4_020" position="12748.4 20460.8 23.487" rotation="0 0 0 -1" unit_id="101030"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="13451 18731.5 10.934" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/grass/pnau_brush_grass_4" name_id="pnau_brush_grass_4_021" position="13451 18731.5 10.934" rotation="0 0 0 -1" unit_id="101031"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12733.4 17705.6 6.93889" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/grass/pnau_brush_grass_4" name_id="pnau_brush_grass_4_022" position="12733.4 17705.6 6.93889" rotation="0 0 0 -1" unit_id="101032"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12990.7 17029.4 5.65396" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/grass/pnau_brush_grass_4" name_id="pnau_brush_grass_4_023" position="12990.7 17029.4 5.65396" rotation="0 0 0 -1" unit_id="101033"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12435.5 16750.6 12.8322" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/grass/pnau_brush_grass_4" name_id="pnau_brush_grass_4_024" position="12435.5 16750.6 12.8322" rotation="0 0 0 -1" unit_id="101034"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="11937.2 17057.1 17.6513" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/grass/pnau_brush_grass_4" name_id="pnau_brush_grass_4_025" position="11937.2 17057.1 17.6513" rotation="0 0 0 -1" unit_id="101035"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="11727.4 16321.4 9.80339" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/grass/pnau_brush_grass_4" name_id="pnau_brush_grass_4_026" position="11727.4 16321.4 9.80339" rotation="0 0 0 -1" unit_id="101036"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12411.5 15715.8 7.95872" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/grass/pnau_brush_grass_4" name_id="pnau_brush_grass_4_027" position="12411.5 15715.8 7.95872" rotation="0 0 0 -1" unit_id="101037"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-609.397 -485.568 29.0633" _prev_rot="0 0 0 -1" continent="world" local_pos="-300 0.000335693 0.000335693" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris" name_id="brush_concrete_debris_001" position="-609.397 -485.568 16.0633" rotation="0 0 0 -1" unit_id="101038"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-509.397 -485.568 29.063" _prev_rot="0 0 0 -1" continent="world" local_pos="-200 0 1.33514e-005" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_a" name_id="brush_concrete_debris_a_001" position="-509.397 -485.568 16.063" rotation="0 0 0 -1" unit_id="101039"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-409.397 -485.568 29.063" _prev_rot="0 0 0 -1" continent="world" local_pos="-100 0 1.14441e-005" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_b" name_id="brush_concrete_debris_b_001" position="-409.397 -485.568 16.063" rotation="0 0 0 -1" unit_id="101040"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-309.397 -485.568 16.063" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_c" name_id="brush_concrete_debris_c_001" position="-309.397 -485.568 16.063" rotation="0 0 0 -1" unit_id="101041"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="11001.9 18089 9.19708" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris" name_id="brush_concrete_debris_004" position="11001.9 18089 9.19708" rotation="0 0 0 -1" unit_id="101042"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10602.9 18331.3 2.30668" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris" name_id="brush_concrete_debris_005" position="10602.9 18331.3 2.30668" rotation="0 0 0 -1" unit_id="101043"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10546.3 18431.3 3.07264" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_c" name_id="brush_concrete_debris_c_002" position="10546.3 18431.3 3.07264" rotation="0 0 0 -1" unit_id="101044"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10124.7 18338.4 1.81965" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_c" name_id="brush_concrete_debris_c_003" position="10124.7 18338.4 1.81965" rotation="0 0 0 -1" unit_id="101045"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10109.7 18612.8 4.12966" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_c" name_id="brush_concrete_debris_c_004" position="10109.7 18612.8 4.12966" rotation="0 0 0 -1" unit_id="101046"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10029.8 18628.5 4.16966" _prev_rot="0 0 0.594823 -0.803857" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_c" name_id="brush_concrete_debris_c_005" position="10029.8 18628.5 4.16966" rotation="0 0 0.594823 -0.803857" unit_id="101047"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="9900.01 18580.8 3.77182" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_b" name_id="brush_concrete_debris_b_003" position="9900.01 18580.8 3.77182" rotation="0 0 0 -1" unit_id="101048"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="9895.53 18092.4 2.97132" _prev_rot="0 0 -0.477159 -0.878817" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_b" name_id="brush_concrete_debris_b_004" position="9895.53 18092.4 2.97132" rotation="0 0 -0.477159 -0.878817" unit_id="101049"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10136.1 18063.5 1.489" _prev_rot="0 0 0.350175 -0.936684" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris" name_id="brush_concrete_debris_006" position="10136.1 18063.5 1.489" rotation="0 0 0.350175 -0.936684" unit_id="101050"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10256.2 17849.8 -2.13553" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/grass/pnau_brush_grass_4" name_id="pnau_brush_grass_4_028" position="10256.2 17849.8 -2.13553" rotation="0 0 0 -1" unit_id="101051"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10375.6 18084.9 0.277684" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/grass/pnau_brush_grass_4" name_id="pnau_brush_grass_4_029" position="10375.6 18084.9 0.277684" rotation="0 0 0 -1" unit_id="101052"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="11031.7 18293 10.9558" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_a" name_id="brush_concrete_debris_a_003" position="11031.7 18293 10.9558" rotation="0 0 0.803857 -0.594823" unit_id="101053"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10943.9 18427.8 10.164" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_a" name_id="brush_concrete_debris_a_004" position="10943.9 18427.8 10.164" rotation="0 0 0.0610485 -0.998135" unit_id="101054"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12007.9 18304.3 14.0938" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_c" name_id="brush_concrete_debris_c_006" position="12007.9 18304.3 14.0938" rotation="0 0 0.446198 -0.894934" unit_id="101055"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12060.3 18215.4 16.3698" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_b" name_id="brush_concrete_debris_b_005" position="12060.3 18215.4 16.3698" rotation="0 0 0.866025 -0.5" unit_id="101056"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="11923.4 17923.5 17.1081" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris" name_id="brush_concrete_debris_007" position="11923.4 17923.5 17.1081" rotation="0 0 0 -1" unit_id="101057"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12252.3 17907.3 14.9173" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris" name_id="brush_concrete_debris_008" position="12252.3 17907.3 14.9173" rotation="0 0 -0.965926 0.258819" unit_id="101058"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12248.6 18648.2 7.17134" _prev_rot="0 0 -0.358368 -0.93358" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_b" name_id="brush_concrete_debris_b_006" position="12248.6 18648.2 7.17134" rotation="0 0 -0.358368 -0.93358" unit_id="101059"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="11913.2 18645.3 6.98614" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_c" name_id="brush_concrete_debris_c_007" position="11913.2 18645.3 6.98614" rotation="0 0 -0.0697565 -0.997564" unit_id="101060"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10516.1 19893.3 16.1992" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_b" name_id="brush_concrete_debris_b_007" position="10516.1 19893.3 16.1992" rotation="0 0 0 -1" unit_id="101061"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10509.3 20516.5 16.0559" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_a" name_id="brush_concrete_debris_a_005" position="10509.3 20516.5 16.0559" rotation="0 0 0.848048 -0.529919" unit_id="101062"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10466.4 20199.1 16.1015" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_b" name_id="brush_concrete_debris_b_008" position="10466.4 20199.1 16.1015" rotation="0 0 0 -1" unit_id="101063"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="9732.99 19874.5 7.60062" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_b" name_id="brush_concrete_debris_b_009" position="9732.99 19874.5 7.60062" rotation="0 0 -0.566406 -0.824126" unit_id="101064"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="9723.04 19866.4 7.48836" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/grass/pnau_brush_grass_4" name_id="pnau_brush_grass_4_030" position="9723.04 19866.4 7.48836" rotation="0 0 0 -1" unit_id="101065"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="9753.4 20570.5 11.4394" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_a" name_id="brush_concrete_debris_a_006" position="9753.4 20570.5 11.4394" rotation="0 0 0 -1" unit_id="101066"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="9731.44 20328.2 10.299" _prev_rot="0 0 -0.848048 -0.529919" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_a" name_id="brush_concrete_debris_a_007" position="9731.44 20328.2 10.299" rotation="0 0 -0.766045 -0.642787" unit_id="101067"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="9722.11 20536.3 10.9566" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/grass/pnau_brush_grass_4" name_id="pnau_brush_grass_4_031" position="9722.11 20536.3 10.9566" rotation="0 0 0 -1" unit_id="101068"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="9710.05 20240.6 10.3601" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/grass/pnau_brush_grass_4" name_id="pnau_brush_grass_4_032" position="9710.05 20240.6 10.3601" rotation="0 0 -0.707107 -0.707107" unit_id="101069"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="11946.5 18321.2 12.8061" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/grass/pnau_brush_grass_4" name_id="pnau_brush_grass_4_033" position="11946.5 18321.2 12.8061" rotation="0 0 0 -1" unit_id="101070"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12244.8 18075.9 15.5746" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/grass/pnau_brush_grass_4" name_id="pnau_brush_grass_4_034" position="12244.8 18075.9 15.5746" rotation="0 0 0.999391 0.0348996" unit_id="101071"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12085.3 18633.1 6.15642" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/grass/pnau_brush_grass_4" name_id="pnau_brush_grass_4_035" position="12085.3 18633.1 6.15642" rotation="0 0 0 -1" unit_id="101072"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12177.4 18552.5 9.86747" _prev_rot="0 0 0.430511 -0.902585" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_c" name_id="brush_concrete_debris_c_008" position="12177.4 18552.5 9.86747" rotation="0 0 0.430511 -0.902585" unit_id="101073"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12227.4 18270.8 16.7403" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_c" name_id="brush_concrete_debris_c_009" position="12227.4 18270.8 16.7403" rotation="0 0 0 -1" unit_id="101074"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12096.7 17923.7 15.6951" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_c" name_id="brush_concrete_debris_c_010" position="12096.7 17923.7 15.6951" rotation="0 0 -0.358368 -0.93358" unit_id="101075"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="490.842 207.702 17.5877" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/bushes/bush_01" name_id="bush_01_001" position="570.842 422.702 17.5877" rotation="0 0 0 -1" unit_id="101076"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="639.011 431.706 12.0202" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/bushes/bush_01_big" name_id="bush_01_big_001" position="639.011 431.706 12.0202" rotation="0 0 0 -1" unit_id="101077"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="11719.2 15665.8 9.9053" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/bushes/bush_01" name_id="bush_01_002" position="11719.2 15665.8 9.9053" rotation="0 0 0 -1" unit_id="101078"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="11430.9 16389.9 11.4266" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/bushes/bush_01" name_id="bush_01_003" position="11430.9 16389.9 11.4266" rotation="0 0 0 -1" unit_id="101079"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10722.1 16617.3 6.3256" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/bushes/bush_01" name_id="bush_01_004" position="10722.1 16617.3 6.3256" rotation="0 0 0 -1" unit_id="101080"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10455.8 17097.4 1.52682" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/bushes/bush_01" name_id="bush_01_005" position="10455.8 17097.4 1.52682" rotation="0 0 0 -1" unit_id="101081"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="9699.46 17118.1 7.56335" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/bushes/bush_01_big" name_id="bush_01_big_002" position="9699.46 17118.1 7.56335" rotation="0 0 0 -1" unit_id="101082"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="9408.57 16096 14.7751" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/bushes/bush_01" name_id="bush_01_006" position="9408.57 16096 14.7751" rotation="0 0 0 -1" unit_id="101083"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="9678.83 15646.3 16.3194" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/bushes/bush_01" name_id="bush_01_007" position="9678.83 15646.3 16.3194" rotation="0 0 0 -1" unit_id="101084"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="9665.14 15404.5 17.7774" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/bushes/bush_01" name_id="bush_01_008" position="9665.14 15404.5 17.7774" rotation="0 0 0 -1" unit_id="101085"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="9853.15 15512.9 16.7639" _prev_rot="0 0 0.857167 -0.515038" continent="world" local_pos="-118.909 3.07354 0.905981" local_rot="0 0 -0.984808 0.173648" name="units/pd2_mod_warzone/brushes/bushes/bush_01_big" name_id="bush_01_big_003" position="9853.15 15512.9 16.7639" rotation="0 0 0.857167 -0.515038" unit_id="101086"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10281.5 15415.1 13.432" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/bushes/bush_01" name_id="bush_01_009" position="10281.5 15415.1 13.432" rotation="0 0 -0.325568 -0.945519" unit_id="101087"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10290 15411 13.3992" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_a" name_id="brush_concrete_debris_a_002" position="10290 15411 13.3992" rotation="0 0 0 -1" unit_id="101088"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10051.7 15538.2 15.0781" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_a" name_id="brush_concrete_debris_a_008" position="10051.7 15538.2 15.0781" rotation="0 0 0.258819 -0.965926" unit_id="101089"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10045.3 15407 15.3854" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_b" name_id="brush_concrete_debris_b_002" position="10045.3 15407 15.3854" rotation="0 0 0 -1" unit_id="101090"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="9860.56 15406.5 17.3028" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_c" name_id="brush_concrete_debris_c_011" position="9860.56 15406.5 17.3028" rotation="0 0 0 -1" unit_id="101091"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="9850.43 15480.5 16.9313" _prev_rot="0 0 0.953717 0.300706" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_c" name_id="brush_concrete_debris_c_012" position="9850.43 15480.5 16.9313" rotation="0 0 -0.953717 -0.300706" unit_id="101092"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="9690.38 15536.5 16.7549" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris" name_id="brush_concrete_debris_002" position="9690.38 15536.5 16.7549" rotation="0 0 0 -1" unit_id="101093"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="9943.58 15590.2 15.8579" _prev_rot="0 0 -0.358368 -0.93358" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris" name_id="brush_concrete_debris_003" position="9943.58 15590.2 15.8579" rotation="0 0 -0.358368 -0.93358" unit_id="101094"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10219 15604.2 13.7295" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_a" name_id="brush_concrete_debris_a_009" position="10219 15604.2 13.7295" rotation="0 0 -0.366501 -0.930418" unit_id="101095"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10197.2 15451.1 14.0445" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/grass/pnau_brush_grass_4" name_id="pnau_brush_grass_4_036" position="10197.2 15451.1 14.0445" rotation="0 0 0 -1" unit_id="101096"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10454.1 15313.8 13.1747" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/grass/pnau_brush_grass_4" name_id="pnau_brush_grass_4_037" position="10454.1 15313.8 13.1747" rotation="0 0 0.5 -0.866025" unit_id="101097"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10238.6 15425.9 13.751" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/vegetation/wz_vegetation_bushes/wz_vegetation_bush_medium/wz_vegetation_bush_medium" name_id="wz_vegetation_bush_medium_002" position="10238.6 15425.9 13.751" rotation="0 0 -0.309017 -0.951057" unit_id="101098"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="9721.21 14888.7 24.2774" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/bushes/bush_01" name_id="bush_01_010" position="9721.21 14888.7 24.2774" rotation="0 0 0.866025 -0.5" unit_id="101099"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10217.8 14467.7 11.262" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/bushes/bush_01_big" name_id="bush_01_big_004" position="10217.8 14467.7 11.262" rotation="0 0 0 -1" unit_id="101100"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="11906.2 14680.7 1.76253" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/bushes/bush_01_big" name_id="bush_01_big_005" position="11906.2 14680.7 1.76253" rotation="0 0 0 -1" unit_id="101101"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10841.5 15603.2 10.533" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/bushes/bush_01_big" name_id="bush_01_big_006" position="10841.5 15603.2 10.533" rotation="0 0 0 -1" unit_id="101102"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="13135 16778.8 7.29665" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/bushes/bush_01_big" name_id="bush_01_big_007" position="13135 16778.8 7.29665" rotation="0 0 0 -1" unit_id="101103"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12824.2 17568.1 7.82456" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/bushes/bush_01_big" name_id="bush_01_big_008" position="12824.2 17568.1 7.82456" rotation="0 0 -1 4.37114e-008" unit_id="101104"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12486.9 17126.1 12.8256" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/bushes/bush_01_big" name_id="bush_01_big_009" position="12486.9 17126.1 12.8256" rotation="0 0 0.5 -0.866025" unit_id="101105"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12634.1 17514.4 8.35602" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/bushes/bush_01" name_id="bush_01_011" position="12634.1 17514.4 8.35602" rotation="0 0 0 -1" unit_id="101106"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="13462.4 17225.5 3.32174" _prev_rot="0 0 0.258819 -0.965926" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/bushes/bush_01" name_id="bush_01_012" position="13453.5 17226 3.32175" rotation="0 0 0.258819 -0.965926" unit_id="101107"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12970.4 16583.2 8.8575" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris" name_id="brush_concrete_debris_009" position="12970.4 16583.2 8.8575" rotation="0 0 -0.258819 -0.965926" unit_id="101108"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12985.8 16789.6 9.04389" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_b" name_id="brush_concrete_debris_b_010" position="12985.8 16789.6 9.04389" rotation="0 0 0.382683 -0.92388" unit_id="101109"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="13065 16909.8 6.12509" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_c" name_id="brush_concrete_debris_c_013" position="13065 16909.8 6.12509" rotation="0 0 0 -1" unit_id="101110"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12967.6 17009.5 6.51443" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_c" name_id="brush_concrete_debris_c_014" position="12967.6 17009.5 6.51443" rotation="0 0 0 -1" unit_id="101111"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12817.1 16817.1 11.3556" _prev_rot="0 0 0.258819 -0.965926" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_c" name_id="brush_concrete_debris_c_015" position="12817.1 16817.1 11.3556" rotation="0 0 0.258819 -0.965926" unit_id="101112"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12822.8 17074.8 14.8189" _prev_rot="0 0 -0.5 -0.866025" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_a" name_id="brush_concrete_debris_a_010" position="12822.8 17074.8 8.81888" rotation="0 0 -0.5 -0.866025" unit_id="101113"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12697.4 16668.9 12.9888" _prev_rot="0 0 0.725374 -0.688355" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_b" name_id="brush_concrete_debris_b_011" position="12694.3 16667 12.9888" rotation="0 0 0.725374 -0.688355" unit_id="101114"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12492 16600.4 13.4491" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris" name_id="brush_concrete_debris_010" position="12492 16600.4 13.4491" rotation="0 0 0 -1" unit_id="101115"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12320.5 16466.5 13.3715" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris" name_id="brush_concrete_debris_011" position="12320.5 16466.5 13.3715" rotation="0 0 0 -1" unit_id="101116"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12352.1 16476.5 13.4384" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/grass/pnau_brush_grass_4" name_id="pnau_brush_grass_4_038" position="12352.1 16476.5 13.4384" rotation="0 0 0 -1" unit_id="101117"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12492.5 16666 13.2781" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/grass/pnau_brush_grass_4" name_id="pnau_brush_grass_4_039" position="12492.5 16666 13.2781" rotation="0 0 0.333807 -0.942641" unit_id="101118"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12466.6 16585.8 13.451" _prev_rot="0 0 0.21644 -0.976296" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_b" name_id="brush_concrete_debris_b_012" position="12460.4 16584.2 13.451" rotation="0 0 0.21644 -0.976296" unit_id="101119"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12195.1 15252.2 6.72167" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_b" name_id="brush_concrete_debris_b_013" position="12195.1 15252.2 6.72167" rotation="0 0 0 -1" unit_id="101120"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="11934.8 14940.6 4.90953" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/grass/pnau_brush_grass_4" name_id="pnau_brush_grass_4_040" position="11934.8 14940.6 4.90953" rotation="0 0 0 -1" unit_id="101121"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10422.3 16692.5 6.41931" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_c" name_id="brush_concrete_debris_c_016" position="10422.3 16692.5 6.41931" rotation="0 0 0 -1" unit_id="101122"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10291.7 16302.3 8.04083" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_c" name_id="brush_concrete_debris_c_017" position="10291.7 16302.3 8.04083" rotation="0 0 0 -1" unit_id="101123"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10480 15667.3 10.9737" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_a" name_id="brush_concrete_debris_a_011" position="10480 15667.3 10.9737" rotation="0 0 -0.669131 -0.743145" unit_id="101124"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="701.604 425.669 10.7601" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/bushes/bush_02" name_id="bush_02_001" position="701.604 425.669 10.7601" rotation="0 0 0 -1" unit_id="101125"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10917.8 15469 11.4943" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/bushes/bush_02" name_id="bush_02_002" position="10917.8 15469 11.4943" rotation="0 0 0 -1" unit_id="101126"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="11364.3 15684.4 10.1053" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/bushes/bush_02" name_id="bush_02_003" position="11364.3 15684.4 10.1053" rotation="0 0 0 -1" unit_id="101127"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10702.6 16495.8 6.24226" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/bushes/bush_02" name_id="bush_02_004" position="10702.6 16495.8 6.24226" rotation="0 0 0 -1" unit_id="101128"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="11570.1 17312.1 13.2988" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/bushes/bush_02" name_id="bush_02_005" position="11570.1 17312.1 13.2988" rotation="0 0 -0.927184 -0.374607" unit_id="101129"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="11744.1 17075.4 16.2224" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/bushes/bush_02" name_id="bush_02_006" position="11744.1 17075.4 16.2224" rotation="0 0 0 -1" unit_id="101130"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="11897.8 16590 14.5198" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/bushes/bush_02" name_id="bush_02_007" position="11897.8 16590 14.5198" rotation="0 0 0.5 -0.866025" unit_id="101131"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10200.8 17429.4 -9.484" _prev_rot="0.0237244 0.0110629 0.422473 -0.905997" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/bushes/bush_02" name_id="bush_02_008" position="10200.8 17429.4 -9.484" rotation="-3.58341e-010 0.0221181 0.422039 -0.906308" unit_id="101132"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10218.5 17446.7 -3.91082" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/bushes/bush_02" name_id="bush_02_009" position="10218.5 17446.7 -3.91082" rotation="0 0 0.515038 -0.857167" unit_id="101133"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10202 17453.5 -3.911" _prev_rot="0 0 -0.0784591 -0.996917" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/bushes/bush_01" name_id="bush_01_013" position="10202 17453.5 -3.911" rotation="0 0 -0.0784591 -0.996917" unit_id="101134"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10199 17451.9 -3.86018" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_a" name_id="brush_concrete_debris_a_012" position="10199 17451.9 -3.86018" rotation="0 0 0 -1" unit_id="101135"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10083 17464.4 -3.23981" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_a" name_id="brush_concrete_debris_a_013" position="10083 17464.4 -3.23981" rotation="0 0 0 -1" unit_id="101136"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="11617.3 14469.9 0.133894" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/bushes/bush_01" name_id="bush_01_014" position="11617.3 14469.9 0.133894" rotation="0 0 0 -1" unit_id="101137"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12130.5 14484.4 0.317725" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/bushes/bush_02" name_id="bush_02_011" position="12130.5 14484.4 0.317725" rotation="0 0 0 -1" unit_id="101138"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12352.6 14787.3 1.21659" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_b" name_id="brush_concrete_debris_b_014" position="12352.6 14787.3 1.21659" rotation="0 0 0 -1" unit_id="101139"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="11785.2 14476.1 0.145765" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_b" name_id="brush_concrete_debris_b_015" position="11785.2 14476.1 0.145765" rotation="0 0 -0.866025 0.5" unit_id="101140"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="11852.9 14503.7 0.525" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_b" name_id="brush_concrete_debris_b_016" position="11852.9 14503.7 0.525" rotation="0 0 0 -1" unit_id="101141"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="11813.9 14523.5 0.475762" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/grass/pnau_brush_grass_4" name_id="pnau_brush_grass_4_041" position="11813.9 14523.5 0.475762" rotation="0 0 0 -1" unit_id="101142"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="11885.2 14558.6 1.02807" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_a" name_id="brush_concrete_debris_a_014" position="11885.2 14558.6 1.02807" rotation="0 0 0 -1" unit_id="101143"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12028.8 14662.1 1.30842" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_a" name_id="brush_concrete_debris_a_015" position="12028.8 14662.1 1.30842" rotation="0 0 0 -1" unit_id="101144"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12075.1 14703.3 1.44935" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_a" name_id="brush_concrete_debris_a_016" position="12075.1 14703.3 1.44935" rotation="0 0 0.5 -0.866025" unit_id="101145"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12345.3 14439.4 0.00751262" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_b" name_id="brush_concrete_debris_b_017" position="12345.3 14439.4 0.00751262" rotation="0 0 0 -1" unit_id="101146"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12389.5 14489.2 0.0126038" _prev_rot="0 0 0.987688 -0.156434" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_b" name_id="brush_concrete_debris_b_018" position="12389.5 14489.2 0.0126038" rotation="0 0 0.987688 -0.156434" unit_id="101147"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12419.1 14559.9 0.122992" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_c" name_id="brush_concrete_debris_c_018" position="12419.1 14559.9 0.122992" rotation="0 0 0.333807 -0.942641" unit_id="101148"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12548.6 14451 0.00973813" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_c" name_id="brush_concrete_debris_c_019" position="12548.6 14451 0.00973813" rotation="0 0 0 -1" unit_id="101149"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="11937.7 20699.9 9.6788" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/bushes/bush_02" name_id="bush_02_010" position="11937.7 20699.9 9.6788" rotation="0 0 0 -1" unit_id="101150"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12226.6 20699.8 14.9417" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/bushes/bush_01_big" name_id="bush_01_big_010" position="12226.6 20699.8 14.9417" rotation="0 0 0 -1" unit_id="101151"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12283.6 20695.3 15.8781" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_b" name_id="brush_concrete_debris_b_019" position="12283.6 20695.3 15.8781" rotation="0 0 0 -1" unit_id="101152"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="11886.1 20692.1 8.08123" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_b" name_id="brush_concrete_debris_b_020" position="11886.1 20692.1 8.08123" rotation="0 0 0.998135 0.0610486" unit_id="101153"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="11485.5 20693.7 7.81683" _prev_rot="0 0 0.34202 -0.939693" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_c" name_id="brush_concrete_debris_c_020" position="11475.5 20694.2 7.81683" rotation="0 0 0.34202 -0.939693" unit_id="101154"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12574.7 20399.6 21.9233" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_c" name_id="brush_concrete_debris_c_021" position="12574.7 20399.6 21.9233" rotation="0 0 0.113203 -0.993572" unit_id="101155"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12584.3 19654.7 11.4156" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_a" name_id="brush_concrete_debris_a_017" position="12584.3 19654.7 11.4156" rotation="0 0 -0.390731 -0.920505" unit_id="101156"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12597.6 19539.5 11.1742" _prev_rot="0 0 0.998135 0.0610488" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_a" name_id="brush_concrete_debris_a_018" position="12597.6 19539.5 11.1742" rotation="0 0 0.998135 0.0610488" unit_id="101157"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12562.4 20004.7 19.3012" _prev_rot="0 0 0.906308 -0.422618" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_c" name_id="brush_concrete_debris_c_022" position="12574.7 20002.2 19.3012" rotation="0 0 0.906308 -0.422618" unit_id="101158"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12309.6 19645.5 14.6928" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/bushes/bush_02" name_id="bush_02_012" position="12309.6 19645.5 14.6928" rotation="0 0 0 -1" unit_id="101159"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12319.9 19789.8 11.8334" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/grass/pnau_brush_grass_4" name_id="pnau_brush_grass_4_042" position="12319.9 19789.8 11.8334" rotation="0 0 0 -1" unit_id="101160"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="11885.3 20062.7 8.76974" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/grass/pnau_brush_grass_4" name_id="pnau_brush_grass_4_043" position="11885.3 20062.7 8.76974" rotation="0 0 0 -1" unit_id="101161"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="11778.7 19874.8 9.76051" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/grass/pnau_brush_grass_4" name_id="pnau_brush_grass_4_044" position="11778.7 19874.8 9.76051" rotation="0 0 -0.965926 -0.258819" unit_id="101162"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="11997.4 18908.8 5.56344" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/grass/pnau_brush_grass_4" name_id="pnau_brush_grass_4_045" position="11997.4 18908.8 5.56344" rotation="0 0 0 -1" unit_id="101163"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="914.302 -151.665 9.12835" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_a" name_id="pnau_brush_rock_01_a_001" position="914.302 -151.665 9.12835" rotation="0 0 0 -1" unit_id="101164"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="956.256 -127.871 8.87235" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_b" name_id="pnau_brush_rock_01_b_001" position="956.256 -127.871 8.87235" rotation="0 0 0 -1" unit_id="101165"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1002.97 -174.498 6.66934" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_c" name_id="pnau_brush_rock_01_c_001" position="1002.97 -174.498 6.66934" rotation="0 0 0 -1" unit_id="101166"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1056.53 -122.176 6.91814" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_d" name_id="pnau_brush_rock_01_d_001" position="1056.53 -122.176 6.91814" rotation="0 0 0 -1" unit_id="101167"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1093.62 -156.204 6.00374" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_e" name_id="pnau_brush_rock_01_e_001" position="1093.62 -156.204 6.00374" rotation="0 0 0 -1" unit_id="101168"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1144.59 -115.015 6.16328" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_f" name_id="pnau_brush_rock_01_f_001" position="1144.59 -115.015 6.16328" rotation="0 0 0 -1" unit_id="101169"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1177.85 -143.793 5.65227" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_g" name_id="pnau_brush_rock_01_g_001" position="1177.85 -143.793 5.65227" rotation="0 0 0 -1" unit_id="101170"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1227.2 -111.92 5.05071" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_h" name_id="pnau_brush_rock_01_h_001" position="1227.2 -111.92 5.05071" rotation="0 0 0 -1" unit_id="101171"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10733.4 14711.6 1.53474" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_b" name_id="pnau_brush_rock_01_b_002" position="10733.4 14711.6 1.53474" rotation="0 0 0 -1" unit_id="101172"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="11618 15281.7 11.408" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_b" name_id="pnau_brush_rock_01_b_003" position="11618 15281.7 11.408" rotation="0 0 0 -1" unit_id="101173"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10896.1 15916.1 11.4276" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_b" name_id="pnau_brush_rock_01_b_004" position="10896.1 15916.1 11.4276" rotation="0 0 0 -1" unit_id="101174"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="11219.1 16750 12.8225" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_b" name_id="pnau_brush_rock_01_b_005" position="11219.1 16750 12.8225" rotation="0 0 0 -1" unit_id="101175"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10774.4 17475.9 -0.487656" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_b" name_id="pnau_brush_rock_01_b_006" position="10774.4 17475.9 -0.487656" rotation="0 0 0 -1" unit_id="101176"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="11580.1 16975.8 17.9649" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_b" name_id="pnau_brush_rock_01_b_007" position="11580.1 16975.8 17.9649" rotation="0 0 0 -1" unit_id="101177"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="11746.1 15704.8 104.258" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_b" name_id="pnau_brush_rock_01_b_008" position="11746.1 15704.8 104.258" rotation="0 0 0 -1" unit_id="101178"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10446.5 14999.4 11.8698" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_b" name_id="pnau_brush_rock_01_b_009" position="10446.5 14999.4 11.8698" rotation="0 0 0 -1" unit_id="101179"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10154.6 14580 14.0918" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_b" name_id="pnau_brush_rock_01_b_010" position="10154.6 14580 14.0918" rotation="0 0 0 -1" unit_id="101180"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12192.7 14639.7 0.901873" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_b" name_id="pnau_brush_rock_01_b_011" position="12192.7 14639.7 0.901873" rotation="0 0 0 -1" unit_id="101181"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12278.4 15465.3 66.2076" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_b" name_id="pnau_brush_rock_01_b_012" position="12278.4 15465.3 66.2076" rotation="0 0 0 -1" unit_id="101182"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="13184.2 16546.7 6.60731" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_b" name_id="pnau_brush_rock_01_b_013" position="13184.2 16546.7 6.60731" rotation="0 0 0 -1" unit_id="101183"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="13361.4 16910.6 5.56274" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_b" name_id="pnau_brush_rock_01_b_014" position="13361.4 16910.6 5.56274" rotation="0 0 0 -1" unit_id="101184"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12714.5 17056.6 10.4138" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_b" name_id="pnau_brush_rock_01_b_015" position="12714.5 17056.6 10.4138" rotation="0 0 0 -1" unit_id="101185"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="11467.6 17935.6 10.0401" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_b" name_id="pnau_brush_rock_01_b_016" position="11467.6 17935.6 10.0401" rotation="0 0 0 -1" unit_id="101186"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10715 15922 11.1136" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_b" name_id="pnau_brush_rock_01_b_017" position="10715 15922 11.1136" rotation="0 0 0 -1" unit_id="101187"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="11356.4 16082.8 8.73737" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_b" name_id="pnau_brush_rock_01_b_018" position="11356.4 16082.8 8.73737" rotation="0 0 0 -1" unit_id="101188"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="11087.6 15426.2 11.7404" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_b" name_id="pnau_brush_rock_01_b_019" position="11087.6 15426.2 11.7404" rotation="0 0 0 -1" unit_id="101189"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="11491 14933 4.23255" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_b" name_id="pnau_brush_rock_01_b_020" position="11491 14933 4.23255" rotation="0 0 0 -1" unit_id="101190"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="11780.9 15202.6 11.4201" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_b" name_id="pnau_brush_rock_01_b_021" position="11780.9 15202.6 11.4201" rotation="0 0 0 -1" unit_id="101191"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10598.8 14482.4 2.64059" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_b" name_id="pnau_brush_rock_01_b_022" position="10598.8 14482.4 2.64059" rotation="0 0 0 -1" unit_id="101192"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="11308 14334.4 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_b" name_id="pnau_brush_rock_01_b_023" position="11308 14334.4 0" rotation="0 0 0 -1" unit_id="101193"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12242.2 14622.5 0.837333" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_b" name_id="pnau_brush_rock_01_b_024" position="12242.2 14622.5 0.837333" rotation="0 0 0 -1" unit_id="101194"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10057.3 14827.8 17.0832" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_b" name_id="pnau_brush_rock_01_b_025" position="10057.3 14827.8 17.0832" rotation="0 0 0 -1" unit_id="101195"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10247 15553 13.5697" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_b" name_id="pnau_brush_rock_01_b_026" position="10247 15553 13.5697" rotation="0 0 0 -1" unit_id="101196"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10385.9 16290.2 7.62729" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_c" name_id="pnau_brush_rock_01_c_002" position="10385.9 16290.2 7.62729" rotation="0 0 0 -1" unit_id="101197"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="11705.8 16335.1 10.0261" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_c" name_id="pnau_brush_rock_01_c_003" position="11705.8 16335.1 10.0261" rotation="0 0 0 -1" unit_id="101198"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="11392.3 16448.2 11.2484" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_c" name_id="pnau_brush_rock_01_c_004" position="11392.3 16448.2 11.2484" rotation="0 0 0 -1" unit_id="101199"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10927.9 15373.8 12.0055" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_c" name_id="pnau_brush_rock_01_c_005" position="10927.9 15373.8 12.0055" rotation="0 0 0 -1" unit_id="101200"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="11487.3 15786 7.55923" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_c" name_id="pnau_brush_rock_01_c_006" position="11487.3 15786 7.55923" rotation="0 0 0 -1" unit_id="101201"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12235.2 15520 7.77154" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_c" name_id="pnau_brush_rock_01_c_007" position="12235.2 15520 7.77154" rotation="0 0 0 -1" unit_id="101202"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="11836.2 14829.7 3.13843" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_c" name_id="pnau_brush_rock_01_c_008" position="11836.2 14829.7 3.13843" rotation="0 0 0 -1" unit_id="101203"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="9619.18 14957.9 25.4813" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_c" name_id="pnau_brush_rock_01_c_009" position="9619.18 14957.9 25.4813" rotation="0 0 0 -1" unit_id="101204"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="9811.79 15594.1 16.377" _prev_rot="0 0 0 -1" continent="world" local_pos="19.3438 22.7646 -0.1297" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_c" name_id="pnau_brush_rock_01_c_010" position="9811.79 15594.1 16.377" rotation="0 0 0 -1" unit_id="101205"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="9755.49 16390.5 14.4475" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_c" name_id="pnau_brush_rock_01_c_011" position="9755.49 16390.5 14.4475" rotation="0 0 0 -1" unit_id="101206"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="9938.73 17522 -3.05634" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_c" name_id="pnau_brush_rock_01_c_012" position="9938.73 17522 -3.05634" rotation="0 0 0 -1" unit_id="101207"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10582.8 17524.8 -3.39311" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_c" name_id="pnau_brush_rock_01_c_013" position="10582.8 17524.8 -3.39311" rotation="0 0 0 -1" unit_id="101208"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="11476.7 17740.5 10.3366" _prev_rot="0 0 0.258819 -0.965926" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_c" name_id="pnau_brush_rock_01_c_014" position="11476.7 17740.5 10.3366" rotation="0 0 0.258819 -0.965926" unit_id="101209"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="11435.4 17709.6 10.4604" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_d" name_id="pnau_brush_rock_01_d_002" position="11435.4 17709.6 10.4604" rotation="0 0 0 -1" unit_id="101210"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="11548.1 16995.3 17.8167" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_d" name_id="pnau_brush_rock_01_d_003" position="11548.1 16995.3 17.8167" rotation="0 0 -0.21644 -0.976296" unit_id="101211"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="11388.6 16399 11.6422" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_f" name_id="pnau_brush_rock_01_f_002" position="11388.6 16399 11.6422" rotation="0 0 0 -1" unit_id="101212"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10716.4 16489.5 6.39025" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_f" name_id="pnau_brush_rock_01_f_003" position="10716.4 16489.5 6.39025" rotation="0 0 0 -1" unit_id="101213"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10697.1 16487.2 6.19411" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_h" name_id="pnau_brush_rock_01_h_002" position="10697.1 16487.2 6.19411" rotation="0 0 0 -1" unit_id="101214"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10413.3 16264.1 7.53135" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_h" name_id="pnau_brush_rock_01_h_003" position="10413.3 16264.1 7.53135" rotation="0 0 0 -1" unit_id="101215"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10359.9 16260.1 7.77729" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_h" name_id="pnau_brush_rock_01_h_004" position="10359.9 16260.1 7.77729" rotation="0 0 -0.430511 -0.902585" unit_id="101216"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10429.3 16274.4 7.44797" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_g" name_id="pnau_brush_rock_01_g_002" position="10429.3 16274.4 7.44797" rotation="0 0 0.333807 -0.942641" unit_id="101217"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10470.3 15664.1 11.0847" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_e" name_id="pnau_brush_rock_01_e_002" position="10470.3 15664.1 11.0847" rotation="0 0 0 -1" unit_id="101218"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="11689 15432.8 11.5985" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_e" name_id="pnau_brush_rock_01_e_003" position="11689 15432.8 11.5985" rotation="0 0 0 -1" unit_id="101219"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="11864.8 14794.5 2.46468" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_e" name_id="pnau_brush_rock_01_e_004" position="11864.8 14794.5 2.46468" rotation="0 0 -0.21644 -0.976296" unit_id="101220"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="11679.8 14779.4 1.52251" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_g" name_id="pnau_brush_rock_01_g_003" position="11679.8 14779.4 1.52251" rotation="0 0 0 -1" unit_id="101221"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12305.1 14783.3 1.37071" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_h" name_id="pnau_brush_rock_01_h_005" position="12305.1 14783.3 1.37071" rotation="0 0 0 -1" unit_id="101222"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12098 14763.7 1.77881" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_h" name_id="pnau_brush_rock_01_h_006" position="12098 14763.7 1.77881" rotation="0 0 0 -1" unit_id="101223"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12122.7 14777.7 1.80208" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_h" name_id="pnau_brush_rock_01_h_007" position="12122.7 14777.7 1.80208" rotation="0 0 0.608761 -0.793353" unit_id="101224"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10266.1 14768.1 11.2473" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_a" name_id="pnau_brush_rock_01_a_002" position="10266.1 14768.1 11.2473" rotation="0 0 0 -1" unit_id="101225"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10298.7 14791.1 10.4126" _prev_rot="0 0 -0.207912 -0.978148" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_e" name_id="pnau_brush_rock_01_e_005" position="10296.9 14790.3 10.4126" rotation="0 0 -0.207912 -0.978148" unit_id="101226"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10298.2 14763.2 10.2669" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_f" name_id="pnau_brush_rock_01_f_004" position="10298.2 14763.2 10.2669" rotation="0 -0.0958458 0 -0.995396" unit_id="101227"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="9617.98 14924.8 25.4799" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_f" name_id="pnau_brush_rock_01_f_005" position="9617.98 14924.8 25.4799" rotation="0 0 0 -1" unit_id="101228"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="9649.54 14795.3 24.8278" _prev_rot="0 0 0.866025 0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_g" name_id="pnau_brush_rock_01_g_004" position="9649.54 14795.3 24.8278" rotation="0 0 0.866025 0.5" unit_id="101229"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="9665.94 14791 24.876" _prev_rot="0 0 0.996195 0.0871556" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_h" name_id="pnau_brush_rock_01_h_008" position="9665.13 14792.1 24.876" rotation="0 0 0.996195 0.0871556" unit_id="101230"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="9659.98 14785.9 24.876" _prev_rot="-0 -0 0.25038 -0.968148" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_h" name_id="pnau_brush_rock_01_h_009" position="9659.98 14785.9 24.876" rotation="0.25038 0.968148 -1.09445e-008 4.23191e-008" unit_id="101231"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="9816.25 15547.7 15.0206" _prev_rot="0.968628 0.136132 0.0289357 -0.205888" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_c" name_id="pnau_brush_rock_01_c_015" position="9816.25 15547.7 15.0206" rotation="0.968628 0.136132 0.0289357 -0.205888" unit_id="101232"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="9800.62 15534.3 16.6907" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_f" name_id="pnau_brush_rock_01_f_006" position="9800.62 15534.3 16.6907" rotation="0 0 -0.0784591 -0.996917" unit_id="101233"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="9792.45 15571.3 16.5067" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_c" name_id="brush_concrete_debris_c_023" position="9792.45 15571.3 16.5067" rotation="0 0 0 -1" unit_id="101234"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="9648.62 16486 13.6521" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_a" name_id="brush_concrete_debris_a_019" position="9648.62 16486 13.6521" rotation="0 0 0 -1" unit_id="101235"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="9848.21 16574.9 12.1723" _prev_rot="0 0 -0.139173 -0.990268" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_a" name_id="brush_concrete_debris_a_020" position="9848.21 16574.9 12.1723" rotation="0 0 -0.139173 -0.990268" unit_id="101236"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="9853.55 16566.2 12.2746" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_b" name_id="pnau_brush_rock_01_b_027" position="9853.55 16566.2 12.2746" rotation="0 0 0 -1" unit_id="101237"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="9841.06 16576.1 12.2068" _prev_rot="0 0 0.688355 -0.725374" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/grass/pnau_brush_grass_4" name_id="pnau_brush_grass_4_046" position="9841.06 16576.1 12.2068" rotation="0 0 0.688355 -0.725374" unit_id="101238"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="9674.09 16579.8 13.0893" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_a" name_id="brush_concrete_debris_a_021" position="9674.09 16579.8 13.0893" rotation="0 0 0 -1" unit_id="101239"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="9670.85 16566.2 13.1716" _prev_rot="0 0 0.275637 -0.961262" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_b" name_id="pnau_brush_rock_01_b_028" position="9670.85 16566.2 13.1716" rotation="0 0 0.275637 -0.961262" unit_id="101240"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10263.8 16497 7.72247" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_b" name_id="brush_concrete_debris_b_021" position="10263.8 16497 7.72247" rotation="0 0 0 -1" unit_id="101241"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10263.5 16499.3 7.71576" _prev_rot="0.0509551 0.0596608 0.647446 -0.758062" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/grass/pnau_brush_grass_4" name_id="pnau_brush_grass_4_047" position="10263.1 16501.9 -7.88173" rotation="0.0509551 0.0596608 0.647446 -0.758062" unit_id="101242"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10272.1 16477.2 -1.34636" _prev_rot="-0.00870528 0.0697538 0.000608732 -0.997526" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/bushes/bush_01" name_id="bush_01_015" position="10272.1 16477.2 -1.34636" rotation="0.0114644 0.0693538 -0.282729 -0.956621" unit_id="101243"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10068.1 16565.7 8.95267" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_c" name_id="brush_concrete_debris_c_024" position="10068.1 16565.7 8.95267" rotation="0 0 0 -1" unit_id="101244"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="9951.08 16482.2 9.28345" _prev_rot="0 0 -0.522498 -0.85264" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_c" name_id="brush_concrete_debris_c_025" position="9951.08 16482.2 9.28345" rotation="-0.0136774 0.0223195 -0.522319 -0.852348" unit_id="101245"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10060.1 16578.7 8.87728" _prev_rot="0.0689311 0.205728 0.94842 -0.231136" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/bushes/bush_01" name_id="bush_01_016" position="10058.9 16570.6 -10.5039" rotation="0.0689311 0.205728 0.94842 -0.231136" unit_id="101246"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10054.6 16557.8 -12.9343" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/grass/pnau_brush_grass_4" name_id="pnau_brush_grass_4_048" position="10054.6 16557.8 -12.9343" rotation="0 0 0 -1" unit_id="101247"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="9686.88 17149.6 7.4364" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/grass/pnau_brush_grass_4" name_id="pnau_brush_grass_4_049" position="9686.88 17149.6 7.4364" rotation="0 0 0 -1" unit_id="101248"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="9889.79 17510.1 -2.15292" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/grass/pnau_brush_grass_4" name_id="pnau_brush_grass_4_050" position="9889.79 17510.1 -2.15292" rotation="0 0 0 -1" unit_id="101249"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10547.6 17529 -3.74266" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/grass/pnau_brush_grass_4" name_id="pnau_brush_grass_4_051" position="10547.6 17529 -3.74266" rotation="0 0 0.587785 -0.809017" unit_id="101250"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10759.6 16981.1 4.25275" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_c" name_id="pnau_brush_rock_01_c_016" position="10759.6 16981.1 4.25275" rotation="0 0 0.21644 -0.976296" unit_id="101251"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10828.4 16995.4 4.7853" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_a" name_id="pnau_brush_rock_01_a_003" position="10828.4 16995.4 4.7853" rotation="0 0 0 -1" unit_id="101252"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10791.6 16999.3 4.35395" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_c" name_id="brush_concrete_debris_c_026" position="10791.6 16999.3 4.35395" rotation="0 0 0.477159 -0.878817" unit_id="101253"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12067.2 17114.5 18.0204" _prev_rot="0 0 -0.309017 -0.951056" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_a" name_id="pnau_brush_rock_01_a_004" position="12067.2 17114.5 18.0204" rotation="0 0 -0.309017 -0.951056" unit_id="101254"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12110.9 17235.4 17.304" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_e" name_id="pnau_brush_rock_01_e_006" position="12110.9 17235.4 17.304" rotation="0 0 -0.333807 -0.942641" unit_id="101255"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12120.4 17214.7 17.6052" _prev_rot="0 0 0.700909 -0.71325" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_f" name_id="pnau_brush_rock_01_f_007" position="12126.4 17214.8 17.6052" rotation="0 0 0.700909 -0.71325" unit_id="101256"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12103.7 17208.9 17.571" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_h" name_id="pnau_brush_rock_01_h_010" position="12103.7 17208.9 17.571" rotation="0 0 0 -1" unit_id="101257"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="11682.3 17214.4 14.8122" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_h" name_id="pnau_brush_rock_01_h_011" position="11682.3 17214.4 14.8122" rotation="0 0 0 -1" unit_id="101258"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="11689.5 17219.4 14.8251" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_h" name_id="pnau_brush_rock_01_h_012" position="11689.5 17219.4 14.8251" rotation="0 0 -0.507538 -0.861629" unit_id="101259"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="11690.3 17212.5 14.882" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_c" name_id="brush_concrete_debris_c_027" position="11690.3 17212.5 14.882" rotation="0 0 0.267238 -0.96363" unit_id="101260"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12488.8 17174.3 13.5743" _prev_rot="0 0 -0.819152 -0.573576" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_c" name_id="brush_concrete_debris_c_028" position="12488.8 17174.3 13.5743" rotation="0 0 -0.819152 -0.573576" unit_id="101261"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12307.9 17227.6 17.9302" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris" name_id="brush_concrete_debris_012" position="12307.9 17227.6 17.9302" rotation="0 0 0 -1" unit_id="101262"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="11875.2 17219.2 16.3238" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_b" name_id="brush_concrete_debris_b_022" position="11875.2 17219.2 16.3238" rotation="0 0 0 -1" unit_id="101263"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12479.7 17096.1 12.5022" _prev_rot="0 0 0.156434 -0.987688" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_f" name_id="pnau_brush_rock_01_f_008" position="12479.7 17096.1 12.5022" rotation="0 0 0.156434 -0.987688" unit_id="101264"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12477.4 16903 11.7575" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_g" name_id="pnau_brush_rock_01_g_006" position="12477.4 16903 11.7575" rotation="0 0 0 -1" unit_id="101265"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12298.3 17048.1 15.981" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_b" name_id="brush_concrete_debris_b_023" position="12298.3 17048.1 15.981" rotation="0 0 0 -1" unit_id="101266"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12226.9 16770.8 12.532" _prev_rot="0 0 0.887011 0.461749" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_c" name_id="brush_concrete_debris_c_029" position="12231.5 16764.3 12.532" rotation="0 0 0.887011 0.461749" unit_id="101267"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12150.2 17051.1 18.6746" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_b" name_id="brush_concrete_debris_b_025" position="12150.2 17051.1 18.6746" rotation="0 0 -0.139173 -0.990268" unit_id="101268"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12467.6 16894.6 11.8133" _prev_rot="-0.0174524 0 0 -0.999848" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/bushes/bush_01" name_id="bush_01_017" position="12467.6 16895.8 3.85308" rotation="-0.0174524 0 0 -0.999848" unit_id="101269"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12538.4 15632.5 4.97335" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris" name_id="brush_concrete_debris_013" position="12538.4 15632.5 4.97335" rotation="0 0 0.165048 -0.986286" unit_id="101270"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12611.1 15731 5.82136" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_b" name_id="pnau_brush_rock_01_b_029" position="12611.1 15731 5.82136" rotation="0 0 0 -1" unit_id="101271"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12471.4 15957.8 10.6296" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_b" name_id="pnau_brush_rock_01_b_030" position="12471.4 15957.8 10.6296" rotation="0 0 -0.707107 -0.707107" unit_id="101272"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12501.1 15914.6 9.87315" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_c" name_id="brush_concrete_debris_c_030" position="12501.1 15914.6 9.87315" rotation="0 0 0 -1" unit_id="101273"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12551.5 15852.5 8.66383" _prev_rot="0 0 0.71325 -0.700909" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_c" name_id="brush_concrete_debris_c_031" position="12551.5 15852.5 8.66383" rotation="0 0 0.71325 -0.700909" unit_id="101274"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12534.8 15966.8 10.2897" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_b" name_id="brush_concrete_debris_b_026" position="12534.8 15966.8 10.2897" rotation="0 0 0 -1" unit_id="101275"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12745.1 16024.5 9.86515" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_b" name_id="brush_concrete_debris_b_027" position="12745.1 16024.5 9.86515" rotation="0 0 0 -1" unit_id="101276"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12697.7 16038.8 9.93066" _prev_rot="0 0 0.492424 -0.870356" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/grass/pnau_brush_grass_4" name_id="pnau_brush_grass_4_052" position="12697.7 16038.8 9.93066" rotation="0 0 0.492424 -0.870356" unit_id="101277"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12465.4 16180.6 112.629" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_h" name_id="pnau_brush_rock_01_h_013" position="12465.4 16180.6 112.629" rotation="0 0 0 -1" unit_id="101278"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12469.9 16194.1 112.629" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_f" name_id="pnau_brush_rock_01_f_009" position="12469.9 16194.1 112.629" rotation="0 0 0 -1" unit_id="101279"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12679.3 16375.7 12.4408" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_h" name_id="pnau_brush_rock_01_h_014" position="12679.3 16375.7 12.4408" rotation="0 0 0 -1" unit_id="101280"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12545.2 16390.5 12.8739" _prev_rot="0 0 -0.0784591 -0.996917" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_c" name_id="pnau_brush_rock_01_c_017" position="12545.2 16390.5 12.8739" rotation="0 0 -0.0784591 -0.996917" unit_id="101282"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12703.7 16356.6 12.274" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_g" name_id="pnau_brush_rock_01_g_007" position="12703.7 16356.6 12.274" rotation="0 0 0.165048 -0.986286" unit_id="101283"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12762.2 16577.7 11.8419" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_b" name_id="brush_concrete_debris_b_028" position="12762.2 16577.7 11.8419" rotation="0 0 0.0958458 -0.995396" unit_id="101281"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12971.2 16742.9 119.71" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_h" name_id="pnau_brush_rock_01_h_015" position="12971.2 16742.9 119.71" rotation="0 0 0 -1" unit_id="101284"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12972.5 16780.7 9.21863" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/grass/pnau_brush_grass_4" name_id="pnau_brush_grass_4_053" position="12972.5 16780.7 9.21863" rotation="0 0 0 -1" unit_id="101285"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="13148.8 17369 3.04349" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_c" name_id="brush_concrete_debris_c_032" position="13148.8 17369 3.04349" rotation="0 0 0 -1" unit_id="101286"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12854.2 17374.9 9.17217" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_c" name_id="brush_concrete_debris_c_033" position="12854.2 17374.9 9.17217" rotation="0 0 0.5 -0.866025" unit_id="101287"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12869.3 17309.9 7.63138" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_a" name_id="brush_concrete_debris_a_022" position="12869.3 17309.9 7.63138" rotation="0 0 0 -1" unit_id="101288"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12827 17260 7.5149" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_f" name_id="pnau_brush_rock_01_f_010" position="12827 17260 7.5149" rotation="0 0 0 -1" unit_id="101289"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12846.2 17278.9 7.48824" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/grass/pnau_brush_grass_4" name_id="pnau_brush_grass_4_054" position="12846.2 17278.9 7.48824" rotation="0 0 0 -1" unit_id="101290"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12852.9 17340.3 8.63181" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/grass/pnau_brush_grass_4" name_id="pnau_brush_grass_4_055" position="12852.9 17340.3 8.63181" rotation="0 0 -0.492424 -0.870356" unit_id="101291"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12852.5 17306.8 7.93717" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/bushes/bush_01_big" name_id="bush_01_big_011" position="12852.5 17306.8 7.93717" rotation="0 0 0 -1" unit_id="101292"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12832.5 17344.8 9.17594" _prev_rot="0 0 0.309017 -0.951056" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/vegetation/wz_vegetation_bushes/wz_vegetation_bush_small/wz_vegetation_bush_small" name_id="wz_vegetation_bush_small_071" position="12832.5 17344.8 9.17594" rotation="0 0 0.309017 -0.951057" unit_id="101293"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12427.3 17140.1 14.4594" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris" name_id="brush_concrete_debris_014" position="12427.3 17140.1 14.4594" rotation="0 0 0 -1" unit_id="101294"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10988.6 14363.3 0.167299" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_a" name_id="brush_concrete_debris_a_023" position="10988.6 14363.3 0.167299" rotation="0 0 0 -1" unit_id="101295"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10772.3 14415.4 0.576459" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_c" name_id="brush_concrete_debris_c_034" position="10772.3 14415.4 0.576459" rotation="0 0 0 -1" unit_id="101296"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="11397.9 14416.6 0.0318108" _prev_rot="0 0 0.848048 -0.529919" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_c" name_id="brush_concrete_debris_c_035" position="11397.9 14416.6 0.0318108" rotation="0 0 0.848048 -0.529919" unit_id="101297"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="11209.1 14439.2 0.068924" _prev_rot="0 0 -0.25038 -0.968148" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_a" name_id="pnau_brush_rock_01_a_005" position="11209.1 14439.2 0.068924" rotation="0 0 -0.25038 -0.968148" unit_id="101298"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="11244.9 14432.6 0.0624205" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_h" name_id="pnau_brush_rock_01_h_016" position="11244.9 14432.6 0.0624205" rotation="0 0 0 -1" unit_id="101299"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="11169.6 14423.3 0.0445805" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_a" name_id="brush_concrete_debris_a_024" position="11169.6 14423.3 0.0445805" rotation="0 0 -0.477159 -0.878817" unit_id="101300"/>
 		</table>
 	</statics>
 	<values>

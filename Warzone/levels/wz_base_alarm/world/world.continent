@@ -1,0 +1,37 @@
+<table>
+	<editor_groups/>
+	<instances/>
+	<statics>
+		<table>
+			<unit_data _prev_pos="0 0 275" _prev_rot="-0.270598 0.270598 0.653282 -0.653281" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_wall_1x1m_a_trim" name_id="mkp_int_wall_1x1m_a_trim_001" position="0 0 275" rotation="-0.270598 0.270598 0.653282 -0.653281" unit_id="100000"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 0 0" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_pillar_025m_a" name_id="mkp_int_pillar_025m_a_001" position="0 0 0" rotation="0 0 1 0" unit_id="100001"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 0 0" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_pillar_025m_a" name_id="mkp_int_pillar_025m_a_002" position="0 0 0" rotation="0 0 0.707107 -0.707107" unit_id="100002"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="43 3 339" _prev_rot="-3.09086e-008 0.707107 0.707107 -3.09086e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_short/editable_text_short" name_id="editable_text_short_001" position="42 3 342" rotation="-3.09086e-008 0.707107 0.707107 -3.09086e-008" unit_id="100003">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 1 1" font_size="2.58824" render_template="diffuse_vc_decal" text="ALARM" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 40 332" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="core/units/light_omni/light_omni" name_id="light_omni_001" only_visible_in_editor="true" position="0 40 332" rotation="-0 0 -0 -1" unit_id="100004">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 0.666667 0.647059" enabled="true" falloff_exponent="1" far_range="400" multiplier="@ID8badd0cc6ca7cc05@" name="lo_omni" near_range="80" spot_angle_end="1" spot_angle_start="1"/>
+				</lights>
+			</unit_data>
+		</table>
+	</statics>
+	<values>
+		<workviews/>
+	</values>
+</table>

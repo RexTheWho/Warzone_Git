@@ -1,5 +1,65 @@
 <table directory="assets">
 	<add unload_on_restart="true">
+	
+	<!--MISC.-->
+		<texture			path="guis/warzone/textures/hud/wz_waypoints"/>
+		<gui				path="guis/warzone/mission_briefing/preload_contact_warzone"/>
+		
+	<!--Brushes-->
+		<material_config	path="units/pd2_mod_warzone/brushes/grass/pnau_brush_grass"/>
+		<unit				path="units/pd2_mod_warzone/brushes/grass/pnau_brush_grass_4"/>
+		<object				path="units/pd2_mod_warzone/brushes/grass/pnau_brush_grass_4"/>
+		<model				path="units/pd2_mod_warzone/brushes/grass/pnau_brush_grass_4"/>
+		<material_config	path="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris"/>
+		<unit				path="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris"/>
+		<object				path="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris"/>
+		<model				path="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris"/>
+		<unit				path="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_a"/>
+		<object				path="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_a"/>
+		<model				path="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_a"/>
+		<unit				path="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_b"/>
+		<object				path="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_b"/>
+		<model				path="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_b"/>
+		<unit				path="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_c"/>
+		<object				path="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_c"/>
+		<model				path="units/pd2_mod_warzone/brushes/concrete_debris/brush_concrete_debris_c"/>
+		<material_config	path="units/pd2_mod_warzone/brushes/bushes/bushes"/>
+		<unit				path="units/pd2_mod_warzone/brushes/bushes/bush_01"/>
+		<object				path="units/pd2_mod_warzone/brushes/bushes/bush_01"/>
+		<model				path="units/pd2_mod_warzone/brushes/bushes/bush_01"/>
+		<unit				path="units/pd2_mod_warzone/brushes/bushes/bush_01_big"/>
+		<object				path="units/pd2_mod_warzone/brushes/bushes/bush_01_big"/>
+		<model				path="units/pd2_mod_warzone/brushes/bushes/bush_01_big"/>
+		<unit				path="units/pd2_mod_warzone/brushes/bushes/bush_02"/>
+		<object				path="units/pd2_mod_warzone/brushes/bushes/bush_02"/>
+		<model				path="units/pd2_mod_warzone/brushes/bushes/bush_02"/>
+		<material_config	path="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock"/>
+		<unit				path="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_a"/>
+		<object				path="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_a"/>
+		<model				path="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_a"/>
+		<unit				path="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_b"/>
+		<object				path="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_b"/>
+		<model				path="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_b"/>
+		<unit				path="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_c"/>
+		<object				path="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_c"/>
+		<model				path="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_c"/>
+		<unit				path="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_d"/>
+		<object				path="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_d"/>
+		<model				path="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_d"/>
+		<unit				path="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_e"/>
+		<object				path="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_e"/>
+		<model				path="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_e"/>
+		<unit				path="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_f"/>
+		<object				path="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_f"/>
+		<model				path="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_f"/>
+		<unit				path="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_g"/>
+		<object				path="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_g"/>
+		<model				path="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_g"/>
+		<unit				path="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_h"/>
+		<object				path="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_h"/>
+		<model				path="units/pd2_mod_warzone/brushes/rocks/pnau_brush_rock_01_h"/>
+		
+	<!--Terrain-->
 		<material_config	path="units/pd2_mod_warzone/terrain/wz_terrain"/>
 		<texture			path="units/pd2_mod_warzone/terrain/textures/wz_terrain_rock_solid_df"/>
 		<texture			path="units/pd2_mod_warzone/terrain/textures/wz_terrain_rock_solid_nm"/>
@@ -94,7 +154,8 @@
 		<model				path="units/pd2_mod_warzone/props/rocks/wz_terrain_rock_cliff_hex_outer_connector"/>
 		
 		<material_config	path="units/pd2_mod_warzone/markers/wz_marker"/>
-		<texture			path="units/pd2_mod_warzone/markers/marker_gradient_black"/>
+		<texture			path="units/pd2_mod_warzone/markers/marker_op"/>
+		<texture			path="units/pd2_mod_warzone/markers/marker_red"/>
 		<unit				path="units/pd2_mod_warzone/markers/wz_marker_attack"/>
 		<object				path="units/pd2_mod_warzone/markers/wz_marker_attack"/>
 		<model				path="units/pd2_mod_warzone/markers/wz_marker_attack"/>
@@ -114,9 +175,14 @@
 		<object				path="units/pd2_mod_warzone/architecture/buildings/wz_bld_construction001"/>
 		<model				path="units/pd2_mod_warzone/architecture/buildings/wz_bld_construction001"/>
 		
-		<material_config	path="units/pd2_mod_warzone/vegetation/wz_vegetation_bush_large/wz_vegetation_bush_large"/>
-		<material_config	path="units/pd2_mod_warzone/vegetation/wz_vegetation_bush_large/wz_vegetation_bush_large_shake"/>
-		<sequence_manager	path="units/pd2_mod_warzone/vegetation/wz_vegetation_bush_large/wz_vegetation_bush_large"/>
+		<material_config	path="units/pd2_mod_warzone/vegetation/wz_vegetation_bushes/wz_vegetation_bush"/>
+		<unit				path="units/pd2_mod_warzone/vegetation/wz_vegetation_bushes/wz_vegetation_bush_small/wz_vegetation_bush_small"/>
+		<object				path="units/pd2_mod_warzone/vegetation/wz_vegetation_bushes/wz_vegetation_bush_small/wz_vegetation_bush_small"/>
+		<model				path="units/pd2_mod_warzone/vegetation/wz_vegetation_bushes/wz_vegetation_bush_small/wz_vegetation_bush_small"/>
+		<unit				path="units/pd2_mod_warzone/vegetation/wz_vegetation_bushes/wz_vegetation_bush_medium/wz_vegetation_bush_medium"/>
+		<object				path="units/pd2_mod_warzone/vegetation/wz_vegetation_bushes/wz_vegetation_bush_medium/wz_vegetation_bush_medium"/>
+		<model				path="units/pd2_mod_warzone/vegetation/wz_vegetation_bushes/wz_vegetation_bush_medium/wz_vegetation_bush_medium"/>
+		<!--FIX VEGE. BELOW-->
 		<unit				path="units/pd2_mod_warzone/vegetation/wz_vegetation_bush_large/wz_vegetation_bush_large_a"/>
 		<object				path="units/pd2_mod_warzone/vegetation/wz_vegetation_bush_large/wz_vegetation_bush_large_a"/>
 		<model				path="units/pd2_mod_warzone/vegetation/wz_vegetation_bush_large/wz_vegetation_bush_large_a"/>
@@ -126,14 +192,6 @@
 		<unit				path="units/pd2_mod_warzone/vegetation/wz_vegetation_bush_large/wz_vegetation_bush_large_c"/>
 		<object				path="units/pd2_mod_warzone/vegetation/wz_vegetation_bush_large/wz_vegetation_bush_large_c"/>
 		<model				path="units/pd2_mod_warzone/vegetation/wz_vegetation_bush_large/wz_vegetation_bush_large_c"/>
-		<unit				path="units/pd2_mod_warzone/vegetation/wz_vegetation_bushes/wz_vegetation_bush_small/wz_vegetation_bush_small"/>
-		<object				path="units/pd2_mod_warzone/vegetation/wz_vegetation_bushes/wz_vegetation_bush_small/wz_vegetation_bush_small"/>
-		<model				path="units/pd2_mod_warzone/vegetation/wz_vegetation_bushes/wz_vegetation_bush_small/wz_vegetation_bush_small"/>
-		<material_config	path="units/pd2_mod_warzone/vegetation/wz_vegetation_bushes/wz_vegetation_bush_small/wz_vegetation_bush_small"/>
-		<unit				path="units/pd2_mod_warzone/vegetation/wz_vegetation_bushes/wz_vegetation_bush_medium/wz_vegetation_bush_medium"/>
-		<object				path="units/pd2_mod_warzone/vegetation/wz_vegetation_bushes/wz_vegetation_bush_medium/wz_vegetation_bush_medium"/>
-		<model				path="units/pd2_mod_warzone/vegetation/wz_vegetation_bushes/wz_vegetation_bush_medium/wz_vegetation_bush_medium"/>
-		<material_config	path="units/pd2_mod_warzone/vegetation/wz_vegetation_bushes/wz_vegetation_bush_medium/wz_vegetation_bush_medium"/>
 		
 		<material_config	path="units/pd2_mod_warzone/vehicles/wz_vehicle_attack_jet/wz_vehicle_attack_jet"/>
 		<sequence_manager	path="units/pd2_mod_warzone/vehicles/wz_vehicle_attack_jet/wz_vehicle_attack_jet"/>
@@ -290,6 +348,13 @@
 		<unit				path="units/pd2_mod_warzone/props/cover/wz_prop_military_mre/wz_prop_military_mre_medium"/>
 		<object				path="units/pd2_mod_warzone/props/cover/wz_prop_military_mre/wz_prop_military_mre_medium"/>
 		<model				path="units/pd2_mod_warzone/props/cover/wz_prop_military_mre/wz_prop_military_mre_medium"/>
+		
+		<!--Eggs-->
+		<material_config	path="units/pd2_mod_warzone/props/eggs/smb/smb_prop_unknown"/>
+		<unit				path="units/pd2_mod_warzone/props/eggs/smb/smb_prop_unknown"/>
+		<object				path="units/pd2_mod_warzone/props/eggs/smb/smb_prop_unknown"/>
+		<model				path="units/pd2_mod_warzone/props/eggs/smb/smb_prop_unknown"/>
+		<texture			path="units/pd2_mod_warzone/props/eggs/smb/smb_prop_unknown_df"/>
 		
 		<!--Characters-->
 		<unit				path="units/pd2_mod_warzone/characters/team_zeal_tazer/team_zeal_tazer"/>

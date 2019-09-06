@@ -1,7 +1,11 @@
 Hooks:PostHook(InteractionTweakData,"init","raidday2_interactiontweak_init",function(self)
 
 	
-
+	--DEBUG
+	self.wz_dbg_mission_none = {
+		text_id = "testing"
+	}
+	--
 	self.wz_carry_drop_weapons = {
 		icon = "develop",
 		text_id = "hud_int_hold_carry_weapons",

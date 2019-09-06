@@ -6,6 +6,8 @@
 	
 	"wz_loc_ene_camp_radio_text":		"LOCATION // Hostile Radio Base",
 	"wz_loc_fri_camp_radio_text":		"LOCATION // Friendly Radio Base",
+	"wz_warn_mission_wrn_fail_text":	"WARNING // RETURN TO THE MISSION BEFORE IT FAILS",
+	"wz_warn_mission_alr_found_text":	"ALERT // YOU HAVE ENTERED THE MISSION ZONE",
 	
 	
 	
@@ -24,6 +26,8 @@
 	"hud_int_hold_carry_munitions":		"Hold $BTN_INTERACT to carry Munition Case",
 	"hud_int_hold_carry_scrap":			"Hold $BTN_INTERACT to carry Scrap Material",
 	"hud_int_hold_carry_satchelbomb":	"Hold $BTN_INTERACT to carry Satchel Bomb",
+	
+	"wz_wp_player_goto":	"// TARGET //",
 	
 	
 	"t":"t"

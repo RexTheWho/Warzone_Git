@@ -1,0 +1,8 @@
+<materials version="3">
+	<material version="2" render_template="shadow_caster_only" name="shadow_caster"/>
+	<material name="mtl_smb_unknown" render_template="generic:DIFFUSE_TEXTURE:GSMA_TEXTURE:NORMALMAP" version="2">
+		<diffuse_texture		file="units/pd2_mod_warzone/props/eggs/smb/smb_prop_unknown_df"/>
+		<bump_normal_texture	file="units/pd2_dlc2/csgo_textures/csgo_blank_nm"/>
+        <material_texture		file="units/pd2_dlc_rvd/architecture/rvd_int/int_textures/rvd_int_mirror_01_gsma"/>
+	</material>
+</materials>
