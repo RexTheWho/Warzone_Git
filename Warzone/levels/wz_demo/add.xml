@@ -2,8 +2,12 @@
 	<add unload_on_restart="true">
 	
 	<!--MISC.-->
-		<texture			path="guis/warzone/textures/hud/wz_waypoints"/>
 		<gui				path="guis/warzone/mission_briefing/preload_contact_warzone"/>
+		<texture			path="guis/warzone/textures/hud/wz_waypoints"/>
+		<texture			path="guis/warzone/textures/preplanning/pp_warzone_map"/>
+		<texture			path="guis/warzone/textures/preplanning/pp_warzone_map_icon"/>
+		<texture			path="guis/warzone/textures/preplanning/pp_wz_icons"/>
+		<texture			path="guis/warzone/textures/preplanning/pp_wz_frames"/>
 		
 	<!--Brushes-->
 		<material_config	path="units/pd2_mod_warzone/brushes/grass/pnau_brush_grass"/>

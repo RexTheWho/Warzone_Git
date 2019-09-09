@@ -1,0 +1,21 @@
+<materials version="3">
+    <material name="mat_bry_helipad_fence" render_template="generic:ALPHA_MASKED:DIFFUSE_TEXTURE:EXTERNAL_ALPHA_REF:NORMALMAP" version="2">
+        <diffuse_texture file="units/world/props/shared_textures/fence_tile_df"/>
+        <bump_normal_texture file="units/world/props/shared_textures/fence_tile_nm"/>
+        <variable value="0.28000000119209" type="scalar" name="alpha_ref"/>
+    </material>
+    <material name="mat_bry_helipad_floor" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP" version="2">
+        <diffuse_texture file="units/pd2_dlc_berry/props/bry_prop_exterior_satellitedish_large/bry_prop_exterior_helipad_base_df"/>
+        <bump_normal_texture file="units/pd2_dlc_berry/props/bry_prop_exterior_satellitedish_large/bry_prop_exterior_helipad_base_nm"/>
+    </material>
+    <material name="mat_bry_helipad_sign" render_template="generic:ALPHA_MASKED:DIFFUSE_TEXTURE:EXTERNAL_ALPHA_REF:NORMALMAP" version="2">
+        <diffuse_texture file="units/pd2_dlc_berry/props/bry_prop_exterior_satellitedish_large/bry_prop_exterior_helipad_sign_df"/>
+        <bump_normal_texture file="units/pd2_dlc_berry/props/bry_prop_exterior_satellitedish_large/bry_prop_exterior_helipad_sign_nm"/>
+        <variable value="0.41000002622604" type="scalar" name="alpha_ref"/>
+    </material>
+    <material name="mat_bry_helipad_trims" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP" version="2">
+        <diffuse_texture file="units/pd2_dlc_berry/architecture/bry_helipads/helipad_railing_df"/>
+		<bump_normal_texture file="units/pd2_dlc_berry/architecture/bry_helipads/helipad_railing_nm"/>
+    </material>
+	<material name="shadow_caster" render_template="shadow_caster_only" version="2" />
+</materials>
